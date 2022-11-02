@@ -26,7 +26,9 @@ sections:
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
-      description: Infopic description
+      description: CURRENT  Statutory Board Financial Reporting Standards
+        (SB-FRS)  SB-FRS effective as at 1 Jan 2022 SB-FRS effective after 1 Jan
+        2022, issued up to Dec 2022
       button: Button Text
       alt: Image alt text
   - infopic:
