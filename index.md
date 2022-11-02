@@ -20,9 +20,9 @@ sections:
       button: Button text
       url: /faq/
   - resources:
-      title: Resources Section Title
-      subtitle: Resources Section Subtitle
-      button: Resources Button Name
+      title: Statutory Board Financial Reporting Standards (SB-FRS)
+      subtitle: CURRENT
+      button: effective as at 1 Jan 2022
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
