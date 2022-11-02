@@ -39,11 +39,10 @@ sections:
       button: Button Text
       alt: Image alt text
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      description: Subscribe to the Accounting Standards for Statutory Boards’ mailing list
+      button: Email Subscription
       alt: Image alt text
+      url: https://www.assb.gov.sg/email-subscription
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
