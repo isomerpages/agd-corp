@@ -31,6 +31,7 @@ sections:
         2022, issued up to Dec 2022
       button: Button Text
       alt: Image alt text
+      url: https://www.assb.gov.sg/pronouncements/statutory-board-financial-reporting-standards-(sb-frs)/current/sb-frs-(effective-as-at-1-january-2022)
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
