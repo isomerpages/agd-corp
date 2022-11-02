@@ -56,8 +56,6 @@ sections:
       description: Infobar description
       button: Button Text
   - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
-      description: Infobar description
-      button: Button Text
+      button: Email subscription
+      url: https://www.assb.gov.sg/email-subscription
 ---
