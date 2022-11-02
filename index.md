@@ -19,4 +19,8 @@ sections:
       description: About a sentence worth of description here
       button: Button text
       url: /faq/
+  - resources:
+      title: Resources Section Title
+      subtitle: Resources Section Subtitle
+      button: Resources Button Name
 ---
