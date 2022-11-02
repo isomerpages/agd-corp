@@ -58,4 +58,5 @@ sections:
   - infobar:
       button: Email subscription
       url: https://www.assb.gov.sg/email-subscription
+      description: Subscribe to the Accounting Standards for Statutory Boards’ mailing list
 ---
