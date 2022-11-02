@@ -55,4 +55,9 @@ sections:
       subtitle: Infobar Subtitle
       description: Infobar description
       button: Button Text
+  - infobar:
+      title: Infobar Title
+      subtitle: Infobar Subtitle
+      description: Infobar description
+      button: Button Text
 ---
