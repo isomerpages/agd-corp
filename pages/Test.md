@@ -29,7 +29,7 @@ The deployment stints of Finance Associates will include attachments to AGD’s 
 
 ### Mentoring
 
-![thumb-career-agd-associates-programme](https://www.agd.gov.sg/images/default-source/default-album/thumb-career-agd-associates-programme.jpg?sfvrsn=714c6728_0 "thumb-career-agd-associates-programme")
+![thumb-career-agd-associates-programme](/images/repository-open-graph-template.png)
 
 To help the Finance Associates quickly familiarise with the working environment, we will assign a buddy to provide support and answer any queries while settling into the new job.  
   
