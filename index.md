@@ -21,7 +21,6 @@ sections:
         - title: Vendors
           description: ""
           url: https://www.agd.gov.sg/pensioners-vendors/vendors/vendors@gov
-      title: AGD
   - resources:
       title: NEWS & EVENTS
   - infopic:
