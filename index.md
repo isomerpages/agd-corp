@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: AGD
+title: Accountant-General’s Department
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
@@ -47,4 +47,5 @@ sections:
       image: /images/agd-people-say.png
       alt: Image alt text
 ---
+
 
