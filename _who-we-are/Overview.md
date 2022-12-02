@@ -41,7 +41,7 @@ We ensure that Government’s resources are used effectively through our **fina
 
 Even as the Government pledges to take better care of Singaporeans through greater social outlays, it is imperative that we continue to promote the fiscal sustainability of Singapore. We seek to **engender a culture of prudence** within the public sector while meeting the increasing expectations of the public.
 
-**Accountability for performance: **
+**Accountability for performance:**
 
 We perform **financial management reporting and analysis** to ensure that Government agencies are held accountable, using efficient **data analytics** to aid management in its decision-making processes.
 
