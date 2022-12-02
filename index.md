@@ -23,5 +23,12 @@ sections:
           url: https://www.agd.gov.sg/pensioners-vendors/vendors/vendors@gov
   - resources:
       title: NEWS & EVENTS
+  - infopic:
+      title: Infopic Title
+      subtitle: Careers @ AGD
+      description: consists of a a vast range of roles which involves examining
+        financial issues at the Whole-of-Government level.
+      button: Button Text
+      image: /images/agd-careers.png
+      alt: Image alt text
 ---
-
