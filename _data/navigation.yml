@@ -8,3 +8,5 @@ links:
     url: /contact-us/
   - title: Email subscription
     url: https://form.gov.sg/#!/63624f45fbb3dd00128d2177
+  - title: Our Services
+    collection: our-services
