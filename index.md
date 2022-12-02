@@ -21,21 +21,6 @@ sections:
         - title: Vendors
           description: ""
           url: https://www.agd.gov.sg/pensioners-vendors/vendors/vendors@gov
-  - infopic:
-      subtitle: NEWS & EVENTS
-      description: "09 October 2019: Congratulations to AGD on clinching the SHARE
-        Platinum Award again this year."
-      button: Read More..
-      url: https://www.agd.gov.sg/news-and-events/selection/awards-accolades--2019--community-chest-awards-2019
-      image: /images/cca_share_platinum.jpg
-      alt: Community Chest Awards
-      title: AWARDS & ACCOLADES
-  - infopic:
-      title: Infopic Title
-      subtitle: NEWS & EVENTS
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
   - resources:
       title: NEWS & EVENTS
 ---
