@@ -24,3 +24,4 @@ sections:
   - resources:
       title: NEWS & EVENTS
 ---
+
