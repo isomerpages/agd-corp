@@ -32,4 +32,10 @@ We seek to fulfil the following strategic outcomes:
 *   [Accountability for performance](https://www.agd.gov.sg/who-we-are/overview#pane-C)
 *   [Government in time for the future](https://www.agd.gov.sg/who-we-are/overview#pane-D)
 
+
+| Effective and efficient use of resources | Fiscal sustainability | Accountability for performance |Government in time for the future|
+| -------- | -------- | -------- | -------- |
+| Text     | Text     | Text     | Text |
+
+
 We ensure that Government’s resources are used effectively through our **financial policies** and value-for-money reviews; we benchmark our resource management framework with the leading jurisdictions and strive to learn from the best practices. We monitor and report **Singapore’s reserves** position, fulfilling the Accountant-General’s statutory duty to safeguard reserves.
