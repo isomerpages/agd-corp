@@ -37,6 +37,5 @@ sections:
       button: Button Text
       alt: Image alt text
   - resources:
-      title: AWARDS & ACCOLADES
-      subtitle: NEWS & EVENTS
+      title: NEWS & EVENTS
 ---
