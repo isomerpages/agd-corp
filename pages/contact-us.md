@@ -24,8 +24,8 @@ contacts:
       - other: Any text here <i>including HTML</i>
     title: General Enquiries & Feedback
   - content:
-      - phone: ""
-      - email: careers@abc.gov.sg
+      - phone: 1 800 180 0337
+      - email: AGD_QSM@agd.gov.sg
       - other: ""
-    title: Careers
+    title: Email
 ---
