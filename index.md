@@ -39,4 +39,11 @@ sections:
       url: https://www.agd.gov.sg/careers-agd/scholarship
       image: /images/agd-scholarship.png
       alt: Image alt text
+  - infopic:
+      subtitle: What Our People Say
+      description: Our People are our Greatest Testimonies.
+      button: Find Out More
+      url: https://www.agd.gov.sg/careers-agd/what-our-people-say
+      image: /images/agd-people-say.png
+      alt: Image alt text
 ---
