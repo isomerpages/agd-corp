@@ -22,11 +22,9 @@ sections:
           description: ""
           url: https://www.agd.gov.sg/pensioners-vendors/vendors/vendors@gov
   - infopic:
-      title: Community Chest Awards 2019 09 October 2019
       subtitle: NEWS & EVENTS
-      description: Congratulations to AGD on clinching the SHARE Platinum Award again
-        this year. The Community Chest Award Ceremony 2019 was held at the
-        Istana on 9 Oct 2019.
+      description: "09 October 2019: Congratulations to AGD on clinching the SHARE
+        Platinum Award again this year."
       button: Read More..
       url: https://www.agd.gov.sg/news-and-events/selection/awards-accolades--2019--community-chest-awards-2019
       image: /images/cca_share_platinum.jpg
