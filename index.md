@@ -29,4 +29,11 @@ sections:
       url: https://www.agd.gov.sg/news-and-events/selection/awards-accolades--2019--community-chest-awards-2019
       image: /images/cca_share_platinum.jpg
       alt: Community Chest Awards
+      title: AWARDS & ACCOLADES
+  - infopic:
+      title: Infopic Title
+      subtitle: NEWS & EVENTS
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
