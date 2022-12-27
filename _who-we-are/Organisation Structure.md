@@ -36,3 +36,4 @@ This group oversees the Finance & Strategic Planning Directorate and Human Resou
 
 Organisation Chart
 ------------------
+![Organisation Structure](/images/Who%20We%20Are/organisationstructure.png)
