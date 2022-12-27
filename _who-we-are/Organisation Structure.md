@@ -36,5 +36,3 @@ This group oversees the Finance & Strategic Planning Directorate and Human Resou
 
 Organisation Chart
 ------------------
-
-![OrganisationStructure](https://www.agd.gov.sg/images/default-source/default-album/organisationstructure.png?sfvrsn=4ce1c924_0 "OrganisationStructure")
