@@ -3,7 +3,6 @@ title: Overview
 permalink: /who-we-are/overview/
 description: Overview
 ---
-
 Overview
 ========
 
@@ -27,3 +26,19 @@ The statutory duties of the Accountant-General as specified under the Constituti
 ### Strategic Outcomes
 
 We seek to fulfil the following strategic outcomes:
+
+##### Effective and efficient use of resources
+
+We ensure that Government’s resources are used effectively through our **financial policies** and value-for-money reviews; we benchmark our resource management framework with the leading jurisdictions and strive to learn from the best practices. We monitor and report **Singapore’s reserves** position, fulfilling the Accountant-General’s statutory duty to safeguard reserves.
+
+#####  Fiscal sustainability
+
+Even as the Government pledges to take better care of Singaporeans through greater social outlays, it is imperative that we continue to promote the fiscal sustainability of Singapore. We seek to **engender a culture of prudence** within the public sector while meeting the increasing expectations of the public.
+
+#####  Accountability for performance
+
+We perform **financial management reporting and analysis** to ensure that Government agencies are held accountable, using efficient **data analytics** to aid management in its decision-making processes.
+
+##### Government in time for the future
+
+As a future-ready organisation, AGD seeks to embrace new knowledge and technology to keep abreast of the latest trends in innovation and achieve transformation. With tighter integration of **Government financial systems**, the whole financial process is now made more seamless. Government systems have also on-boarded InvoiceNow, the nationwide e-invoicing network, to receive e-invoices from vendors in a touchless manner.
