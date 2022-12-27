@@ -2,6 +2,6 @@ collections:
   who-we-are:
     output: true
     order:
-      - Organisation Structure.md
-      - Mission, Vision & Values.md
       - Overview.md
+      - Mission, Vision & Values.md
+      - Organisation Structure.md
