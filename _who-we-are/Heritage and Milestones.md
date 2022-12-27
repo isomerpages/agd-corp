@@ -122,10 +122,42 @@ Heritage and Milestones
 
 ### 2009
 
+* #### Implementation of Centralised Liquidity Management (CLM)
+
+	Through the CLM initiative, AGD centralises excess cash held by Statutory Board, manages and invests the excess cash on their behalf, generating higher returns on SBs’ cash and brings about substantial savings and efficiency gains for the public sector.
+
 ### 2015
+
+* #### Mr Ow Fook Chuen as Accountant-General
+
+	The current Accountant-General, Mr Ow Fook Chuen, was appointed as Accountant-General in March 2015.
 
 ### 2016
 
+* #### Launch of Fi@Gov
+
+	Fi@Gov is the public sector’s one stop financial analytics platform that provides insights and analysis for decision making, performance monitoring and governance.
+	
+* #### Launch of Vendors@Gov Mobile App
+
+	Vendors@Gov Mobile App allows vendors to view their invoice statuses on-the-go, check their projected cash flows and receive notifications, in addition to functions that already exist on the Vendors@Gov portal.
+	
+* #### Setting up of the Finance Academy
+
+	The Finance Academy serves as the training arm of the department to provide relevant training to our officers. The Academy also extends our training programmes to the public sector finance community to raise the capabilities of finance officers.
+
 ### 2017
 
+* #### Launch of Pac@Gov Mobile App
+
+	Pac@Gov Mobile App allows public officers to view their pay information, submit claims and apply leave on-the-go.
+
 ### 2018
+
+* #### Singapore Quality Class (SQC) - STAR
+
+	AGD is awarded SQC - Star for making significant improvements in the business excellence journey.
+	
+* #### Head of Profession for Finance
+
+	Accountant-General has been appointed as the Head of Profession for Finance to professionalise finance officers working in the public sector.
