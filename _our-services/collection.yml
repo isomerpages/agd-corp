@@ -2,8 +2,8 @@ collections:
   our-services:
     output: true
     order:
-      - Finance Academy/Finance Academy.md
-      - Finance Academy/.keep
+      - Partner of Building Capability/Finance Academy.md
+      - Partner of Building Capability/.keep
       - overview.md
       - Steward of Public Sector Finances.md
       - Provider of Financial Services.md
