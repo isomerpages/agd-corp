@@ -2,5 +2,6 @@ collections:
   our-services:
     output: true
     order:
+      - Provider of Financial Services.md
       - Steward of Public Sector Finances.md
       - overview.md
