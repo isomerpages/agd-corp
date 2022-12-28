@@ -51,7 +51,7 @@ A career in AGD fosters the necessary experiences and skillsets through a spectr
 
 At AGD, we believe that human capital is vital to our progress. By constantly updating our HR policies to keep in tandem with the evolving needs of our employees, we make sure that our greatest assets are well placed to enjoy a lasting career with us.
 
-[Career Development Framework](https://agd.gov.sg/careers-at-agd/What-We-Offer/career-development-framework)
+[Career Development Framework](https://agd.gov.sg/careers-at-agd/What-We-Offer/career-development-framework/)
 
 [Staff Benefits](https://agd.gov.sg/careers-at-agd/What-We-Offer/staff-benefits)
 
