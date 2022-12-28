@@ -46,3 +46,13 @@ A career in AGD fosters the necessary experiences and skillsets through a spectr
 ##### Treasury
 
 *   Monitor the performance of Government’s investment, manage the costs and risks of Government’s borrowings and put in place policies for efficient debt management.
+
+### Developing Our Human Capital
+
+At AGD, we believe that human capital is vital to our progress. By constantly updating our HR policies to keep in tandem with the evolving needs of our employees, we make sure that our greatest assets are well placed to enjoy a lasting career with us.
+
+[Career Development Framework](/careers-at-agd/what-we-offer/career-development-framework)
+
+[Staff Benefits](/careers-at-agd/what-we-offer/staff-benefits)
+
+[Work Life Harmony](/careers-agd/what-we-offer/work-life-harmony)
