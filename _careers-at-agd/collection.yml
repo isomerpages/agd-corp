@@ -2,6 +2,7 @@ collections:
   careers-at-agd:
     output: true
     order:
+      - Join Us.md
       - Internship.md
       - AGD Award.md
       - Scholarship.md
