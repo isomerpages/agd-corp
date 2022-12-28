@@ -2,5 +2,6 @@ collections:
   careers-at-agd:
     output: true
     order:
+      - Scholarship.md
       - Finance Associates Programme.md
       - Overview.md
