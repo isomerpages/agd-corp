@@ -2,13 +2,13 @@ collections:
   careers-at-agd:
     output: true
     order:
+      - Overview.md
+      - Finance Associates Programme.md
       - What We Offer/.keep
       - What We Offer/What We Offer.md
       - What We Offer/Career Development Framework.md
       - What We Offer/Staff Benefits.md
       - What We Offer/Work Life Harmony.md
-      - Overview.md
-      - Finance Associates Programme.md
       - Scholarship.md
       - AGD Award.md
       - Internship.md
