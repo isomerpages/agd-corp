@@ -2,6 +2,7 @@ collections:
   careers-at-agd:
     output: true
     order:
+      - Internship.md
       - AGD Award.md
       - Scholarship.md
       - Finance Associates Programme.md
