@@ -53,6 +53,6 @@ At AGD, we believe that human capital is vital to our progress. By constantly up
 
 [Career Development Framework](https://agd.gov.sg/careers-at-agd/What-We-Offer/career-development-framework)
 
-[Staff Benefits](/careers-at-agd/what-we-offer/staff-benefits)
+[Staff Benefits](https://agd.gov.sg/careers-at-agd/What-We-Offer/staff-benefits)
 
 [Work Life Harmony](/careers-agd/what-we-offer/work-life-harmony)
