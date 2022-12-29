@@ -2,6 +2,7 @@ collections:
   careers-at-agd:
     output: true
     order:
+      - What Our People Say/What Our People Say.md
       - What Our People Say/.keep
       - Overview.md
       - Finance Associates Programme.md
