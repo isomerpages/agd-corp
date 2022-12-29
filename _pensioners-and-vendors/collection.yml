@@ -2,6 +2,6 @@ collections:
   pensioners-and-vendors:
     output: true
     order:
-      - Private Clinics/.keep
-      - Vendors/.keep
       - Pensioners/.keep
+      - Vendors/.keep
+      - Private Clinics/.keep
