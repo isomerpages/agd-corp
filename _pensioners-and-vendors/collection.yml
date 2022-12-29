@@ -2,6 +2,7 @@ collections:
   pensioners-and-vendors:
     output: true
     order:
+      - Pensioners/Pensioner’s Handbook.md
       - Pensioners/Pensioner’s Portal.md
       - Pensioners/.keep
       - Vendors/.keep
