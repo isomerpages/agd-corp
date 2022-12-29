@@ -1,0 +1,4 @@
+collections:
+  pensioners-and-vendors:
+    output: true
+    order: []
