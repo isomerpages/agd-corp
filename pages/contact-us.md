@@ -19,10 +19,10 @@ locations:
     title: Accountant-Generals Department
 contacts:
   - content:
-      - phone: 1 800 337 7639
-      - email: AGD_QSM@agd.gov.sg
-      - other: Any text here <i>including HTML</i>
-    title: General Enquiries & Feedback
+      - phone: +65 6563 3276
+      - email: agd_mailbox@agd.gov.sg
+      - other: ""
+    title: General Enquiries
   - content:
       - phone: 1 800 180 0337
       - email: AGD_QSM@agd.gov.sg
