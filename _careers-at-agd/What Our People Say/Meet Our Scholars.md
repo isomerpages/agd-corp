@@ -5,7 +5,9 @@ description: Meet Our Scholars
 third_nav_title: What Our People Say
 ---
 What Our People Say
-===================![Justin Kong](/images/CareersAGD/Meet%20Our%20Scholars/mos-1.jpg)
+===================
+
+![Justin Kong](/images/CareersAGD/Meet%20Our%20Scholars/mos-1.jpg)
 
 “If I were to sum up my journey as an AGD scholar in three words, it would be ‘exposure’, ‘rigour’ and ‘fulfilment’.”
 
