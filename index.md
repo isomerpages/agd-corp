@@ -84,4 +84,10 @@ sections:
       url: /careers-at-agd/internship/
       image: /images/agd-intership.png
       alt: Internship
+  - infopic:
+      description: Find out more
+      button: ABOUT US
+      url: /who-we-are/overview/
+      image: /images/agd-about-us-overlay.png
+      alt: About Us
 ---
