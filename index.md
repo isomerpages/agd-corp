@@ -53,7 +53,7 @@ sections:
       button: Find Out More
       image: /images/agd-careers.png
       alt: Careers @ AGD
-      url: https://www.agd.gov.sg/careers-agd/overview
+      url: /careers-at-agd/overview/
   - infopic:
       subtitle: Scholarship
       description: we offer scholarships for those seeking to achieve greater heights
