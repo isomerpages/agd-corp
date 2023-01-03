@@ -19,14 +19,31 @@ sections:
             services and transforming our service delivery.
           url: /who-we-are/overview/
         - title: Careers @ AGD
-          description: ""
-          url: https://www.agd.gov.sg/careers-agd/overview
+          description: " Working in AGD is exciting and full of challenges. We are
+            brimming with energy and passion. Our staff are bold and wiling to
+            challenge the convention and strive for greater heights to better
+            serve the stakeholders.   A career in AGD consists of a vast range
+            of roles which involves examining financial issues at the
+            Whole-of-Government level, forecasting and monitoring government's
+            treasury and investment position, raising the corporate governance
+            in the Public Sector, and ensuring the integrity of government
+            accounting systems."
+          url: /careers-at-agd/overview/
         - title: Our Services
-          description: ""
-          url: https://www.agd.gov.sg/our-services/overview
+          description: " AGD offers a comprehensive range of innovative solutions and
+            services that help transform public sector finance. Our services
+            ranges from strengthening our role as steward of public finance,
+            providing value-adding financial systems to developing public sector
+            financial capabilities. We will continue to improve our systems and
+            processes, leverage on technologies and experiment with new ways of
+            doing things."
+          url: /our-services/overview/
         - title: Vendors
-          description: ""
-          url: https://www.agd.gov.sg/pensioners-vendors/vendors/vendors@gov
+          description: AGD ensures prompt payments to the vendors by leveraging on
+            technologies.   Vendors@Gov is a secured one-stop portal for
+            Government vendors to submit e-Invoices, find out about the payment
+            status, and update particulars.
+          url: /vendors/vendors@gov
   - resources:
       title: NEWS & EVENTS
   - infopic:
