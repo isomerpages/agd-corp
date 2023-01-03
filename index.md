@@ -43,7 +43,7 @@ sections:
             technologies.   Vendors@Gov is a secured one-stop portal for
             Government vendors to submit e-Invoices, find out about the payment
             status, and update particulars.
-          url: /vendors/vendors@gov
+          url: /pensioners-and-vendors/Vendors/vendors-gov/
   - resources:
       title: NEWS & EVENTS
   - infopic:
