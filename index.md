@@ -4,14 +4,20 @@ title: Accountant-General’s Department
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
       background: /images/carousel_1-1.png
       key_highlights:
         - title: About AGD
-          description: ""
-          url: https://www.agd.gov.sg/who-we-are/overview
+          description: AGD partners closely with the government agencies to make Singapore
+            a better place through Finance. AGD has built a strong foundation in
+            providing robust financial systems and processes to serve our key
+            stakeholders including our pensioners, vendors and the public
+            sector. AGD aspires to be an employer of choice as we attract,
+            develop and retain professionals in growing our suite of finance
+            services and transforming our service delivery.
+          url: /who-we-are/overview/
         - title: Careers @ AGD
           description: ""
           url: https://www.agd.gov.sg/careers-agd/overview
@@ -47,5 +53,3 @@ sections:
       image: /images/agd-people-say.png
       alt: Image alt text
 ---
-
-
