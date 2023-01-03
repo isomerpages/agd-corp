@@ -19,8 +19,8 @@ These initiatives are a result of our efforts in raising productivity within the
 
 The functions undertaken by AGD fulfil our three key roles:
 
-[Steward of Public Sector Finances](https://www.agd.gov.sg/our-services/steward-of-public-sector-finances)
+[Steward of Public Sector Finances](/our-services/steward-of-public-sector-finances/)
 
-[Provider of Financial Services](https://www.agd.gov.sg/our-services/provider-of-financial-services)
+[Provider of Financial Services](/our-services/provider-of-financial-services/)
 
-[Partner of Building Capabilities](https://www.agd.gov.sg/our-services/partner-of-building-capabilities)
+[Partner of Building Capabilities](/our-services/partner-of-building-capabilities/)
