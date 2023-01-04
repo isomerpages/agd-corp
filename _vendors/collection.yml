@@ -2,5 +2,5 @@ collections:
   vendors:
     output: true
     order:
-      - Vendor’s Manual.md
       - Vendors@Gov.md
+      - Vendor’s Manual.md
