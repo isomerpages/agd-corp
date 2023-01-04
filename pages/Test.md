@@ -38,3 +38,10 @@ At the same time, we will assign mentors to all of our Finance Associates. Besid
 ### Post Associates Programme
 
 There will be 2 to 3 structured postings, within AGD and/or the ministries and statutory boards, in the first six to seven years to equip Finance Associates with the necessary experiences and skillsets through a spectrum of functions and areas to prepare them to take on supervisory roles in the future.
+
+
+
+
+
+ ![](/images/agd-careers.png)    
+
