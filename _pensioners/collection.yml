@@ -1,5 +1,5 @@
 collections:
-  vendors:
+  pensioners:
     output: true
     order:
       - Pensioners/.keep
