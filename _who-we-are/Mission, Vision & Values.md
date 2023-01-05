@@ -25,6 +25,7 @@ A future-ready leader in transforming Public Sector finance
 | Innovative|Together is better than alone|
 | Teamwork| Honesty, trustworthiness, and reliability in all things|
 | Excellence| Being the best we can be; doing the best we can|
+|  |  |
 
 Tagline
 =======
