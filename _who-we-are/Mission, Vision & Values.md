@@ -22,8 +22,8 @@ A future-ready leader in transforming Public Sector finance
 | -------- | -------- |
 | Integrity| Honesty, trustworthiness, and reliability in all things|
 | Caring| Respecting and caring for each other as persons|
-| Innovative|Together is better than alone|
-| Teamwork| Honesty, trustworthiness, and reliability in all things|
+| Innovative|There is always a better way|
+| Teamwork| Together is better than alone|
 | Excellence| Being the best we can be; doing the best we can|
 |  |  |
 
