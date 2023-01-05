@@ -8,7 +8,7 @@ FY2021/2022 Government Financial Statements
 
 The Government Financial Statements for the financial year 2021/2022 were prepared in accordance with section 18 of the Financial Procedure Act 1966. 
 
-*   [FY2021/2022 Government Financial Statements](/files/Publications/fy2021-government-financial-statements.pdf)(3,509 KB)
+*   [FY2021/2022 Government Financial Statements](/files/Publications/fy2021-government-financial-statements.pdf)(pdf 3,509 KB)
 
 ### Frequently Asked Questions
 
