@@ -72,3 +72,28 @@ There will be 2 to 3 structured postings, within AGD and/or the ministries and s
 | *   Prepare the Government Financial Statements *   Involve in setting accounting standards, policies and practices for compliance by Ministries and Statutory Boards     | ![](/images/CareersAGD/What%20we%20offer/wwo-fo.jpg)     |      |
 
 
+
+
+| | | |
+| -------- | -------- | -------- |
+|Eligibility Criteria    |  *   Second year Singaporean undergraduate at the SMU’s School of Accountancy.
+*   Completed at least four of the following accounting core subjects:
+    1.  Accounting Information Systems
+    2.  Financial Reporting and Analysis
+    3.  Financial Accounting
+    4.  Management Accounting
+    5.  Accounting Thought and Practice
+    6.  Advanced Financial Accounting
+    7.  Audit and Assurance
+    8.  Intermediate Finance Accounting
+*   Scored a cumulative GPA of at least 3.7.
+*   Demonstrates the core values of Integrity, Service and Excellence
+*   Demonstrates leadership potential and active co-curricular pursuits.
+*   Outstanding community service contributions to the Singapore community.
+*   Students who satisfy the above criteria and are doing double degree programmes (one of which must be Accountancy) will be considered favourably.
+*   The Award recipient must not have any disciplinary issues or a disciplinary record with the University in respect of behavior involving dishonesty or moral turpitude.
+*   The Award recipient will undergo a ten-week internship programme at AGD during the third year of the undergraduate study.      | Text     |
+
+
+
+
