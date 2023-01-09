@@ -106,8 +106,5 @@ There will be 2 to 3 structured postings, within AGD and/or the ministries and s
 |  |  |  |
 | -------- | -------- | -------- |
 
-
-
-
 | ![](/images/agd-people-say.png)  | ![](/images/agd-people-say.png) | 
 | - | - |
