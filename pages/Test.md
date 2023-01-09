@@ -104,7 +104,7 @@ There will be 2 to 3 structured postings, within AGD and/or the ministries and s
 *  | Text     | Text     | Text     |
 
 
-
+<div class="col is-half is-half padding--top--xl padding--bottom--xl"><img src="/images/agd-people-say.png" alt="Image alt text"></div>
 
 
  ![](/images/agd-people-say.png)
