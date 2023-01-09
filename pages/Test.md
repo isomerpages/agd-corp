@@ -94,7 +94,7 @@ There will be 2 to 3 structured postings, within AGD and/or the ministries and s
 *   The Award recipient must not have any disciplinary issues or a disciplinary record with the University in respect of behavior involving dishonesty or moral turpitude.
 *   The Award recipient will undergo a ten-week internship programme at AGD during the third year of the undergraduate study.      | Text     |
 
-
+![](/images/rsz_agd-people-say.png)
 
 
 
@@ -106,4 +106,4 @@ There will be 2 to 3 structured postings, within AGD and/or the ministries and s
 
 
 ![](/images/agd-people-say.png) 
-![](/images/agd-people-say.png) 
+![](/images/agd-people-say.png)
