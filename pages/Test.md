@@ -56,4 +56,19 @@ There will be 2 to 3 structured postings, within AGD and/or the ministries and s
 
 | | |  | 
 | -------- |  -------- | -------- | 
-| ![](/images/agd-careers.png)     || | 
+| ![](/images/agd-careers.png)     || |
+
+
+
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+|   |  Financial Reporting *   Prepare the Government Financial Statements *   Involve in setting accounting standards, policies and practices for compliance by Ministries and Statutory Boards
+
+#### Financial Reporting
+
+|  | |  |
+| -------- | -------- | -------- |
+| *   Prepare the Government Financial Statements *   Involve in setting accounting standards, policies and practices for compliance by Ministries and Statutory Boards     | ![](/images/CareersAGD/What%20we%20offer/wwo-fo.jpg)     |      |
+
+
