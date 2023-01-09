@@ -95,5 +95,11 @@ There will be 2 to 3 structured postings, within AGD and/or the ministries and s
 *   The Award recipient will undergo a ten-week internship programme at AGD during the third year of the undergraduate study.      | Text     |
 
 
+\`var example = "hello!";\`
 
+_Or spanning multiple lines..._
 
+\`\`\`
+var example = "hello!";
+alert(example);
+\`\`\`
