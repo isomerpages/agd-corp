@@ -106,5 +106,16 @@ There will be 2 to 3 structured postings, within AGD and/or the ministries and s
 
 <div class="col is-half is-half padding--top--xl padding--bottom--xl"><img src="/images/agd-people-say.png" alt="Image alt text"></div>
 
+ <p> ![](/images/agd-people-say.png)</p>
 
- ![](/images/agd-people-say.png)
+ 
+<div class="row">
+    <div class="col is-6">
+       <img src="https://d33wubrfki0l68.cloudfront.net/b5d13a38c904ee1e34b8825da761fff2ee92cbae/b4ac5/images/partner-us/collaborations/pep-sbf.jpg">
+    </div>
+    <div class="col is-6">
+        <p>The PEP-SBF Awards celebrates and recognises the public and private sectors’ contributions towards a pro-enterprise regulatory environment.</p>
+        <br>SDC was awarded the “Pro-Enterprise Suggestion (Supporting Agency) Award” for the support provided to Go!Mama Pte Ltd on the deployment of 5 Digitally-Enabled Network of Lactation Pods on Sentosa.
+    </div>
+</div>
+           
