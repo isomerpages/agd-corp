@@ -16,7 +16,7 @@ Fresh graduates joining AGD under the programme will undergo a 12-month developm
 
 ### Expanded Induction Programme
 
-The expanded induction programme comprises three modules - Basic, Foundational and Developmental – which the Finance Associates will undergo in their first year with AGD.  The different modules are specially tailored to equip our Associates with rudimentary concepts in Public Finance functions and to apply these concepts throughout their deployment stints.  
+The expanded induction programme comprises three modules - Basic, Foundational and Developmental – which the Finance Associates will undergo in their first year with AGD.&nbsp; The different modules are specially tailored to equip our Associates with rudimentary concepts in Public Finance functions and to apply these concepts throughout their deployment stints.  
   
 The Basic module, conducted at the start of the programme, will provide the Finance Associates with a broad overview of AGD’s central roles such as cash management, financial reporting, assurance and Value-For-Money reviews and financial administration.  
 The Foundational module, conducted in between the deployment stints of the Finance Associates, will focus on the applications of key foundational financial knowledge and skillsets as well as soft skills developments through case studies and hands-on exercises.  
@@ -25,7 +25,7 @@ The Developmental module, conducted at the end of the 12-month programme, will i
 
 ### Deployment Stints
 
-The deployment stints of Finance Associates will include attachments to AGD’s directorates to learn more about the central roles and functions fulfilled by AGD.  Some Finance Associates may also be attached to ministries and statutory boards to provide financial administration support.  
+The deployment stints of Finance Associates will include attachments to AGD’s directorates to learn more about the central roles and functions fulfilled by AGD.&nbsp; Some Finance Associates may also be attached to ministries and statutory boards to provide financial administration support.&nbsp;&nbsp;
 
 ### Mentoring
 
@@ -33,7 +33,7 @@ The deployment stints of Finance Associates will include attachments to AGD’s 
 
 To help the Finance Associates quickly familiarise with the working environment, we will assign a buddy to provide support and answer any queries while settling into the new job.  
   
-At the same time, we will assign mentors to all of our Finance Associates. Besides providing guidance on the professional development and career aspirations, the mentors will also help assess the performance and progress of associates. 
+At the same time, we will assign mentors to all of our Finance Associates. Besides providing guidance on the professional development and career aspirations, the mentors will also help assess the performance and progress of associates.&nbsp;
 
 ### Post Associates Programme
 
@@ -47,7 +47,7 @@ There will be 2 to 3 structured postings, within AGD and/or the ministries and s
  
  
  
- <iframe width="560" height="315" src="https://www.youtube.com/embed/P0rTPHjO2hU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+ <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/P0rTPHjO2hU" height="315" width="560"></iframe>
  
  ![](/images/agd-careers.png)
  
@@ -104,7 +104,7 @@ There will be 2 to 3 structured postings, within AGD and/or the ministries and s
 *  | Text<br>muthu     | Text     | Text     |
 
 
-<div class="col is-half is-half padding--top--xl padding--bottom--xl"><img src="/images/agd-people-say.png" alt="Image alt text"></div>
+<div class="col is-half is-half padding--top--xl padding--bottom--xl"><img alt="Image alt text" src="/images/agd-people-say.png"></div>
 
  <p> ![](/images/agd-people-say.png)</p>
 
@@ -121,6 +121,14 @@ There will be 2 to 3 structured postings, within AGD and/or the ministries and s
 
 ![testing](/images/agd-about-us-overlay.png)
 
-<img src="/images/agd-about-us-overlay.png/![testing]" style="width:400px;"/>
+<img style="width:400px;" src="/images/agd-about-us-overlay.png/![testing]">
 
-<img src="/images/agd-about-us-overlay.png" alt="testing" style="width:200px;">
+<img style="width:200px;" alt="testing" src="/images/agd-about-us-overlay.png">
+
+<div class="bp-youtube">
+
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/I7x4d732hkQ" height="315" width="560"></iframe>
+</div>
+	
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/I7x4d732hkQ" height="315" width="560"></iframe>
