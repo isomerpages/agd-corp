@@ -123,7 +123,9 @@ There will be 2 to 3 structured postings, within AGD and/or the ministries and s
 
 <img style="width:400px;" src="/images/agd-about-us-overlay.png/![testing]">
 
-<img style="width:200px;" alt="testing" src="/images/agd-about-us-overlay.png">
+<div style="text-align: left;">
+<img src="/images/agd-about-us-overlay.png" alt="testing" style="width:200px;" >
+</div>
 
 <div class="bp-youtube">
 
