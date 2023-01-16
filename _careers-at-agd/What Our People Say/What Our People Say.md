@@ -11,7 +11,7 @@ What Our People Say
 <img src ="/images/CareersAGD/What%20Our%20People%20Say/wops-1.jpg" style="width:auto;" alt="Lee Mei Chern"/></td>
 <td>
 “Being able to make a difference and help raise corporate governance in the public sector makes my work extremely exciting and fulfilling”
-<br>
+<br><br>
 <b>Lee Mei Chern</b>
 <br>
 Director, Performance and Evaluation</td></tr>
@@ -27,7 +27,7 @@ Director, Performance and Evaluation</td></tr>
 <table>
 		<tr><td>
 “AGD offers opportunities even for non-accountancy graduate to work in interesting assignments and build up the knowledge in accounting and finance ”
-<br>
+<br><br>
 <b>Simon Chew</b>
 <br>
 Senior Manager, Financial Planning</td>
@@ -47,7 +47,7 @@ Senior Manager, Financial Planning</td>
 <img src ="/images/CareersAGD/What%20Our%20People%20Say/wops-3.png" style="width:auto;" alt="Lye Su Yin"/></td>
 <td>
 “As a central agency, we are involved in many Whole-of-Government projects and reviews. This helps widen my perspective and think broader”
-<br>
+<br><br>
 <b>Lye Su Yin</b>
 <br>
 Deputy Director, SkillsFuture Enterprise Credit</td></tr>
@@ -65,7 +65,7 @@ Deputy Director, SkillsFuture Enterprise Credit</td></tr>
 <table>
 		<tr><td>
 “The roles that I have been given require me to build up my expertise beyond my accounting knowledge. It challenges me to think out of the box”
-<br>
+<br><br>
 <b>Huang SiHong</b>
 <br>
 Deputy Director, Business Excellence & Innovation</td>
