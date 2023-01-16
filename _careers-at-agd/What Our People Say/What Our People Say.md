@@ -6,10 +6,14 @@ third_nav_title: What Our People Say
 ---
 What Our People Say
 ===================
+<table>
+		<tr>
+	<td width="60%">
 
-![Lee Mei Chern](/images/CareersAGD/What%20Our%20People%20Say/wops-1.jpg)
-
+<img src ="/images/CareersAGD/What%20Our%20People%20Say/wops-1.jpg" style="width:auto;" alt="Lee Mei Chern"/></td>
+<td>
 “Being able to make a difference and help raise corporate governance in the public sector makes my work extremely exciting and fulfilling”
+	</td></tr></table>
 
 Lee Mei Chern
 
