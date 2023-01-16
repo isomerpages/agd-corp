@@ -17,10 +17,6 @@ What Our People Say
 Director, Performance and Evaluation</td></tr>
 </table>
 
-
-
-
-
 **Lee Mei Chern** is presently the Director, Performance and Evaluation Directorate.
 
 *   Handled various portfolios such as Financial Reporting and Financial Systems Administration.
