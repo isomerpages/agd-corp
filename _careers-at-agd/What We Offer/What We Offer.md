@@ -11,7 +11,7 @@ What We Offer
 
 A career in AGD fosters the necessary experiences and skillsets through a spectrum of functions and areas **to prepare Finance Associates** to take on supervisory roles that will rise to C-suite positions in the future. The vast range of functions include examining financial issues at **One Public Service** level, forecasting and monitoring Government's treasury and investment position, raising corporate governance in the Public Sector, and ensuring the integrity of Government Accounting systems.
 
-![Chief Financial Officer](/images/CareersAGD/What%20we%20offer/wwo-fo.jpg)
+<img src="/images/CareersAGD/What%20we%20offer/wwo-fo.jpg" style="width:auto;" alt="Chief Financial Officer"/>
 
 ##### Financial Reporting
 
