@@ -11,8 +11,7 @@ What Our People Say
 <img src ="/images/CareersAGD/Meet%20Our%20Scholars/mos-1.jpg" style="width:auto;" alt="Justin Kong"/></td>
 <td>
 “If I were to sum up my journey as an AGD scholar in three words, it would be ‘exposure’, ‘rigour’ and ‘fulfilment’.”
-<br>
-<br>
+<br><br>
 <b>Justin Kong</b>
 <br>
 Head, Treasury, Technical & Analytics 
