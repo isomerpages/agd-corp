@@ -24,7 +24,7 @@ A career in AGD fosters the necessary experiences and skillsets through a spectr
 
 *   Prepare the budget, evaluate development projects and run financial operations
 
-![Chief Operation Officer](/images/CareersAGD/What%20we%20offer/wwo-to.jpg)
+<img src="/images/CareersAGD/What%20we%20offer/wwo-to.jpg" style="width:auto;" alt="Chief Operation Officer"/>
 
 
 ##### Financial Operations
@@ -32,16 +32,15 @@ A career in AGD fosters the necessary experiences and skillsets through a spectr
 *   Manage the Government’s cash, receipts and payments to our key stakeholders vendors, employees and pensioners
 *   Develop and manage civil service wide financial, accounting and payroll systems and formulate security policies and control to ensure integrity of the systems
 
+<img src="/images/CareersAGD/What%20we%20offer/wwo-ro.jpg" style="width:auto;" alt="Chief Risk Officer"/>
 
-![Chief Risk Officer](/images/CareersAGD/What%20we%20offer/wwo-ro.jpg)
 
 ##### Assurance and Reviews
 
 *   Raise corporate governance in the Public Sector by providing assurance services to the public agencies
 *   Conduct reviews to ensure public funds are spent prudently
 
-
-![Chief Treasury Officer](/images/CareersAGD/What%20we%20offer/wwo-oo.jpg)
+<img src="/images/CareersAGD/What%20we%20offer/wwo-oo.jpg" style="width:auto;" alt="Chief Treasury Officer"/>
 
 ##### Treasury
 
