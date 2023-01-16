@@ -30,7 +30,7 @@ The deployment stints of Finance Associates will include attachments to AGD’s 
 
 <table><tr><td width="60%" >
 	
-To help the Finance Associates quickly familiarise with the working environment, we will assign a buddy to provide support and answer any queries while settling into the new job.  
+To help the Finance Associates quickly familiarise with the working environment,   we will assign a buddy to provide support and answer any queries while settling into the new job.  
 	
 At the same time, we will assign mentors to all of our Finance Associates. Besides providing guidance on the professional development and career aspirations, the mentors will also help assess the performance and progress of associates.</td><td><img src ="/images/CareersAGD/thumb-career-agd-associates-programme.jpg" style="width: auto;" /></td></tr></table>
 
