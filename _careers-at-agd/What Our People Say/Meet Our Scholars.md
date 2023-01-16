@@ -6,21 +6,27 @@ third_nav_title: What Our People Say
 ---
 What Our People Say
 ===================
-
-![Justin Kong](/images/CareersAGD/Meet%20Our%20Scholars/mos-1.jpg)
-
+<table>
+		<tr><td width="30%">
+<img src ="/images/CareersAGD/Meet%20Our%20Scholars/mos-1.jpg" style="width:auto;" alt="Justin Kong"/></td>
+<td>
 “If I were to sum up my journey as an AGD scholar in three words, it would be ‘exposure’, ‘rigour’ and ‘fulfilment’.”
-
-Justin Kong
-
-Head, Treasury, Technical & Analytics  
-AGD Accountancy Scholar
+<br>
+<br>
+<b>Justin Kong</b>
+<br>
+Head, Treasury, Technical & Analytics 
+<br>
+AGD Accountancy Scholar	</td></tr>
+</table>
 
 I joined AGD in 2014 under the Financial and Management Reporting Directorate which had the key responsibility of preparing the Government Financial Statements. To facilitate meaningful and reliable reporting, I was involved in reviewing and improving the central accounting systems, processes and rules. This enabled me to have a bird’s eye view of the Government’s finances.  
   
 My second posting in 2017 was to the Treasury Directorate where I worked with the Ministry of Finance to ensure proper management of the Government’s assets, liabilities and reserves. The Treasury Directorate also supports the Accountant-General in reporting on the reserves position to the President and informing the President of any proposed transaction that is likely to draw on past reserves.  
   
 These roles became starkly critical when COVID-19 struck and we had to seek the President’s approval to draw on our reserves. We had to ensure sufficient resources were available for the roll-out of support measures while maintaining proper safeguards as we handled unprecedented circumstances. I was also roped into the preparation of the multiple budgets we had during the crisis. Knowing how our work would benefit fellow Singaporeans, this spurred us throughout the many late nights work sessions and kept the teamwork strong.
+
+
 
 ![Macus Lim](/images/CareersAGD/Meet%20Our%20Scholars/mos-2.jpg)
 
