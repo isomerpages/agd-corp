@@ -7,17 +7,19 @@ third_nav_title: What Our People Say
 What Our People Say
 ===================
 <table>
-		<tr>
-	<td width="60%">
-
+		<tr><td width="60%">
 <img src ="/images/CareersAGD/What%20Our%20People%20Say/wops-1.jpg" style="width:auto;" alt="Lee Mei Chern"/></td>
 <td>
 “Being able to make a difference and help raise corporate governance in the public sector makes my work extremely exciting and fulfilling”
-	</td></tr></table>
+<br>
+<b>Lee Mei Chern</b>
+<br>
+Director, Performance and Evaluation</td></tr>
+</table>
 
-Lee Mei Chern
 
-Director, Performance and Evaluation
+
+
 
 **Lee Mei Chern** is presently the Director, Performance and Evaluation Directorate.
 
