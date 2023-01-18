@@ -16,6 +16,7 @@ What Our People Say
 *   Goes through many training sessions and job rotations. Will be undergoing overseas executive leadership programme.
 
  <img src="/images/CareersAGD/What%20Our%20People%20Say/wops-2.png"  alt="Simon Chew" style="width:200px;height:200px;" align="left" />“AGD offers opportunities even for non-accountancy graduate to work in interesting assignments and build up the knowledge in accounting and finance ” <br><br>**Simon Chew**<br>Senior Manager, Financial Planning
+ 
 
 **Simon Chew** is a Chemical Engineer by training.
 
@@ -36,6 +37,7 @@ What Our People Say
 *   Building her strengths in performing policy reviews in future deployments.
 
 <img src="/images/CareersAGD/What%20Our%20People%20Say/wops-4.png"  alt="Huang SiHong" style="width:200px;height:200px;" align="left">“The roles that I have been given require me to build up my expertise beyond my accounting knowledge. It challenges me to think out of the box” <br> <br> **Huang SiHong**<br>Deputy Director, Business Excellence & Innovation
+
 
 
 **Huang Sihong** is an Accounting graduate.
