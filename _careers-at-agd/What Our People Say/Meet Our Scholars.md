@@ -29,8 +29,6 @@ In May 2021, I interned in AGD’s Finance Transformation Directorate and worked
 
 
 <img src="/images/CareersAGD/Meet%20Our%20Scholars/mos-3.jpg"  alt="Vera Lim" style="width:200px;height:200px;" align="left">“AGD can be characterised by its strong company culture, diverse individuals and career prospects that spurs personal growth.”” <br> <br> **Vera Lim**<br>PSC Public Finance Scholar
-AGD Accountancy Scholar
-
 
 
 As part of my internship, I was attached to the Financial Transformation team which is responsible for the implementation of a harmonised and centralised financial system for the Whole-Of-Government.  
