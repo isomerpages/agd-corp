@@ -6,16 +6,7 @@ third_nav_title: What Our People Say
 ---
 What Our People Say
 ===================
-<table>
-		<tr><td width="30%">
-<img src ="/images/CareersAGD/What%20Our%20People%20Say/wops-1.jpg" style="width:auto;" alt="Lee Mei Chern"/></td>
-<td>
-“Being able to make a difference and help raise corporate governance in the public sector makes my work extremely exciting and fulfilling”
-<br><br>
-<b>Lee Mei Chern</b>
-<br>
-Director, Performance and Evaluation</td></tr>
-</table>
+<img src="/images/CareersAGD/What%20Our%20People%20Say/wops-1.jpg"  alt="Lee Mei Chern" style="width:auto" align="left" />“Being able to make a difference and help raise corporate governance in the public sector makes my work extremely exciting and fulfilling” <br> <br> **Lee Mei Chern**<br>Director, Performance and Evaluation
 
 **Lee Mei Chern** is presently the Director, Performance and Evaluation Directorate.
 
@@ -24,16 +15,7 @@ Director, Performance and Evaluation</td></tr>
 *   Takes the lead in growing the number of agencies tapping on AGD’s IA services and building a customer-focused culture within the IA teams. Client agencies have expressed high satisfaction with the services.
 *   Goes through many training sessions and job rotations. Will be undergoing overseas executive leadership programme.
 
-<table>
-		<tr><td>
-“AGD offers opportunities even for non-accountancy graduate to work in interesting assignments and build up the knowledge in accounting and finance ”
-<br><br>
-<b>Simon Chew</b>
-<br>
-Senior Manager, Financial Planning</td>
-	<td width="30%">
-<img src ="/images/CareersAGD/What%20Our%20People%20Say/wops-2.png" style="width:auto;" alt="Simon Chew"/></td></tr>
-</table>
+ <img src="/images/CareersAGD/What%20Our%20People%20Say/wops-2.png"  alt="Simon Chew" style="width:200px;height:200px;" align="left" />“AGD offers opportunities even for non-accountancy graduate to work in interesting assignments and build up the knowledge in accounting and finance ” <br><br>**Simon Chew**<br>Senior Manager, Financial Planning
 
 **Simon Chew** is a Chemical Engineer by training.
 
@@ -42,16 +24,7 @@ Senior Manager, Financial Planning</td>
 *   Sponsored for his Singapore Qualification Programme (SQP) given his preference for work relating to numbers and desire to pursue a career in accounting. As an Approved Training Organisation under ISCA, his work experience in AGD would be relevant in meeting the requirements of SQP.
 *   Fulfilling his career aspiration in becoming a Chartered Accountant as he gets a posting to serve as a Head under the Assurance and Services group which allows him to provide assurance services to the agencies.
 
-<table>
-		<tr><td width="30%">
-<img src ="/images/CareersAGD/What%20Our%20People%20Say/wops-3.png" style="width:auto;" alt="Lye Su Yin"/></td>
-<td>
-“As a central agency, we are involved in many Whole-of-Government projects and reviews. This helps widen my perspective and think broader”
-<br><br>
-<b>Lye Su Yin</b>
-<br>
-Deputy Director, SkillsFuture Enterprise Credit</td></tr>
-</table>
+<img src="/images/CareersAGD/What%20Our%20People%20Say/wops-3.png"  alt="Lye Su Yin" style="width:200px;height:200px;" align="left">“As a central agency, we are involved in many Whole-of-Government projects and reviews. This helps widen my perspective and think broader” <br> <br> **Lye Su Yin**<br>Deputy Director, SkillsFuture Enterprise Credit
 
 
 **Lye Su Yin** majored in Business and Management.
@@ -62,16 +35,8 @@ Deputy Director, SkillsFuture Enterprise Credit</td></tr>
 *   Provided opportunities to be seconded to MAS to deepen her technical expertise in Treasury work.
 *   Building her strengths in performing policy reviews in future deployments.
 
-<table>
-		<tr><td>
-“The roles that I have been given require me to build up my expertise beyond my accounting knowledge. It challenges me to think out of the box”
-<br><br>
-<b>Huang SiHong</b>
-<br>
-Deputy Director, Business Excellence & Innovation</td>
-	<td width="30%">
-<img src ="/images/CareersAGD/What%20Our%20People%20Say/wops-4.png" style="width:auto;" alt="Huang SiHong]"/></td></tr>
-</table>
+<img src="/images/CareersAGD/What%20Our%20People%20Say/wops-4.png"  alt="Huang SiHong" style="width:200px;height:200px;" align="left">“The roles that I have been given require me to build up my expertise beyond my accounting knowledge. It challenges me to think out of the box” <br> <br> **Huang SiHong**<br>Deputy Director, Business Excellence & Innovation
+
 
 **Huang Sihong** is an Accounting graduate.
 
