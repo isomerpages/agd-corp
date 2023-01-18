@@ -26,16 +26,11 @@ The Developmental module, conducted at the end of the 12-month programme, will i
 
 The deployment stints of Finance Associates will include attachments to AGD’s directorates to learn more about the central roles and functions fulfilled by AGD.  Some Finance Associates may also be attached to ministries and statutory boards to provide financial administration support.
 
-
 ### Mentoring
 
-
-To help the Finance Associates quickly familiarise with the working environment,   we will assign a buddy to provide support and answer any queries while settling into the new job.  
+<img src ="/images/CareersAGD/thumb-career-agd-associates-programme.jpg" style="width:300px;height:200px;" align="left" />To help the Finance Associates quickly familiarise with the working environment,   we will assign a buddy to provide support and answer any queries while settling into the new job.  
 	
 At the same time, we will assign mentors to all of our Finance Associates. Besides providing guidance on the professional development and career aspirations, the mentors will also help assess the performance and progress of associates.
-
-
-<img src ="/images/CareersAGD/thumb-career-agd-associates-programme.jpg" style="width: auto;" />
 
 
 ### Post Associates Programme
