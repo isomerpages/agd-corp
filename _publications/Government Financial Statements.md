@@ -10,6 +10,13 @@ The Government Financial Statements for the financial year 2021/2022 were prepar
 
 *   [FY2021/2022 Government Financial Statements](/files/Publications/fy2021-government-financial-statements.pdf) (pdf 3,509 KB)
 
+### Archives of the Government Financial Statements
+
+[FY2020/2021 Government Financial Statements](/files/Publications/FY2020-Government-Financial-Statements.pdf) (pdf 3,450 KB)
+
+[FY2019/2020 Government Financial Statements](/files/Publications/FY2019-Government-Financial-Statements.pdf) (pdf 3,450 KB)
+
+
 ### Frequently Asked Questions
 
 Q1. Where can I find the FY2018 Government Financial Statements?
