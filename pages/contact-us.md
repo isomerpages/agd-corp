@@ -31,7 +31,7 @@ contacts:
   - content:
       - phone: 1 800 180 0337
       - email: AGD_QSM@agd.gov.sg
-      - other: ""
+      - other: <br>
     title: Feedback on Service Quality
   - content:
       - phone: ""
