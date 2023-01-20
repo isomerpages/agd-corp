@@ -20,6 +20,21 @@ locations:
 contacts:
   - content:
       - phone: ""
+      - email: agd_mailbox@agd.gov.sg
+      - other: ""
+    title: Email
+  - content:
+      - phone: +65 6563 3276
+      - email: ""
+      - other: ""
+    title: Fax
+  - content:
+      - phone: 1 800 180 0337
+      - email: AGD_QSM@agd.gov.sg
+      - other: ""
+    title: Feedback on Service Quality
+  - content:
+      - phone: ""
       - email: ""
       - other: <html><a
           href="https://app.helpdesk.agd.gov.sg/public_user/common/Helpdesk.aspx?c9osI0quCY6Ly9siZW8epKc2QbDMoJJw9LSQzrVc7kX+xOb+nc3OK4IelfsO5ZGd">Vendors@Gov
@@ -46,16 +61,6 @@ contacts:
       - email: ""
       - other: " "
     title: " "
-  - content:
-      - phone: ""
-      - email: agd_mailbox@agd.gov.sg
-      - other: ""
-    title: General Enquiries
-  - content:
-      - phone: 1 800 180 0337
-      - email: AGD_QSM@agd.gov.sg
-      - other: ""
-    title: Feedback
   - content:
       - phone: ""
       - email: ""
