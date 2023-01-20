@@ -12,6 +12,10 @@ Internal Audit Roundtable (IART) 2019
 
 01 November 2019 \- 01 November 2019
 
+![](https://www.agd.gov.sg/images/default-source/news-and-events/iart-2019---ag.jpg?sfvrsn=24840c42_0)
+
+[Previous](https://www.agd.gov.sg/news-and-events/selection/forums-conferences--2019--internal-audit-roundtable-(iart)-2019#detailGalleryCarousel)[Next](https://www.agd.gov.sg/news-and-events/selection/forums-conferences--2019--internal-audit-roundtable-(iart)-2019#detailGalleryCarousel)
+
 ![galleryThumbnail](https://www.agd.gov.sg/images/default-source/news-and-events/iart-2019---ag.jpg?sfvrsn=24840c42_0)![galleryThumbnail](https://www.agd.gov.sg/images/default-source/news-and-events/iart-2019---mass.jpg?sfvrsn=81921223_0)
 
 The theme for this year’s IART – ‘Building a Professional and Collaborative Public Sector IA Community’ articulates the Public Sector Internal Audit (PSIA) community collective transformation journey to be the trusted advisor in strengthening governance within public sector. 
