@@ -36,9 +36,9 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: <br>If you encounter difficulties when processing your transactions or
-          have any questions, please send us your queries via the following
-          links. We will respond to your query by the next working day.<br>
+      - other: If you encounter difficulties when processing your transactions or have
+          any questions, please send us your queries via the following links. We
+          will respond to your query by the next working day.<br>
     title: Enquiries
   - content:
       - phone: ""
