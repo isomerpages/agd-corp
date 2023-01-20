@@ -86,6 +86,13 @@ contacts:
   - content:
       - phone: ""
       - email: ""
+      - other: <a
+          href="https://app.helpdesk.agd.gov.sg/public_user/common/registerticket.aspx?areaparm=Fi@Gov%20System&subjectparm=Security%20Access">Fi@Gov
+          Helpdesk</a><br> </html>
+    title: ""
+  - content:
+      - phone: ""
+      - email: ""
       - other: <br>Please refer to the "Contact Us" tiles with details of the contact
           channels available on the user homepage after login to HRP.  You may
           also approach your Agency Digital Ambassador/MSAs for their support.
