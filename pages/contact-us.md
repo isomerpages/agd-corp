@@ -24,34 +24,27 @@ contacts:
       - other: <html><a
           href="https://app.helpdesk.agd.gov.sg/public_user/common/Helpdesk.aspx?c9osI0quCY6Ly9siZW8epKc2QbDMoJJw9LSQzrVc7kX+xOb+nc3OK4IelfsO5ZGd">Vendors@Gov
           Helpdesk</a></html>
-    title: " "
+    title: For Vendors
   - content:
       - phone: ""
       - email: ""
       - other: <html><a
           href="https://app.helpdesk.agd.gov.sg/public_user/common/Helpdesk.aspx?Cs91gGZjsuz/ndWcDIkGhKw0VAx37y8uLLcpTMec57Sn/wDM7lEgQ8unvajDYEUx">Pension
           Helpdesk</a></html>
-    title: " "
-  - content:
-      - phone: ""
-      - email: ""
-      - other: <html><a
-          href="https://app.helpdesk.agd.gov.sg/public_user/common/Helpdesk.aspx?Cs91gGZjsuz/ndWcDIkGhKw0VAx37y8uLLcpTMec57Sn/wDM7lEgQ8unvajDYEUx">PaC@Gov
-          Helpdesk</a></html>
-    title: " "
+    title: "For Pensioners\t"
   - content:
       - phone: ""
       - email: ""
       - other: <html><a
           href="https://app.helpdesk.agd.gov.sg/public_user/common/Helpdesk.aspx?j8ZGHXSDIBTn3Y133wWZLxunVI8fXzpLfA244C9ateNpt4anhce/j11WmeQxlHNA">NFS@Gov
+          Helpdesk</a><br><a
+          href="https://app.helpdesk.agd.gov.sg/public_user/common/Helpdesk.aspx?KFRZ30LegoiwqVn+nwWKkgMfRI43hDIAazMhJA9R4d7oslk+cuENvX6EQdE8LQuC">Fi@Gov
           Helpdesk</a></html>
-    title: " "
+    title: For Civil Servants
   - content:
       - phone: ""
       - email: ""
-      - other: <html><a
-          href="https://app.helpdesk.agd.gov.sg/public_user/common/Helpdesk.aspx?KFRZ30LegoiwqVn+nwWKkgMfRI43hDIAazMhJA9R4d7oslk+cuENvX6EQdE8LQuC">Fi@Gov
-          Helpdesk</a></html>
+      - other: ""
     title: " "
   - content:
       - phone: ""
