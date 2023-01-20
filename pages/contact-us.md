@@ -67,12 +67,22 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: <html><a
-          href="https://app.helpdesk.agd.gov.sg/public_user/common/Helpdesk.aspx?j8ZGHXSDIBTn3Y133wWZLxunVI8fXzpLfA244C9ateNpt4anhce/j11WmeQxlHNA">NFS@Gov
-          Helpdesk</a><br><a
-          href="https://app.helpdesk.agd.gov.sg/public_user/common/Helpdesk.aspx?KFRZ30LegoiwqVn+nwWKkgMfRI43hDIAazMhJA9R4d7oslk+cuENvX6EQdE8LQuC">Fi@Gov
-          Helpdesk</a><br></html>
+      - other: ""
     title: For Civil Servants
+  - content:
+      - phone: ""
+      - email: ""
+      - other: '<html> <a
+          href="https://app.helpdesk.agd.gov.sg/public_user/vendor/pac/helpdeskmain.html">PaC@Gov
+          Helpdesk</a><br> '
+    title: " "
+  - content:
+      - phone: ""
+      - email: ""
+      - other: '<a
+          href="https://app.helpdesk.agd.gov.sg/public_user/common/registerTicket.aspx?AreaParm=Financial%20System&SubjectParm=Accounts%20Payable">NFS@Gov
+          Helpdesk</a> '
+    title: " "
   - content:
       - phone: ""
       - email: ""
