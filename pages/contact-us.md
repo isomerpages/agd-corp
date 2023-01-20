@@ -59,22 +59,17 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: " "
-    title: " "
-  - content:
-      - phone: ""
-      - email: ""
-      - other: Please refer to the "Contact Us" tiles with details of the contact
+      - other: <br>Please refer to the "Contact Us" tiles with details of the contact
           channels available on the user homepage after login to HRP.  You may
           also approach your Agency Digital Ambassador/MSAs for their support.
     title: For HRP-related Enquiries
   - content:
       - phone: ""
       - email: ""
-      - other: 'For issues with Workpal, go to settings in the Workpal mobile app, tap
-          on "Help Center" and search on the relevant articles to resolve the
-          issues. In the event if the issue cannot be self-resolved, please tap
-          on "Report Issue" in the Help Centre and fill up a form. '
+      - other: <br><br>For issues with Workpal, go to settings in the Workpal mobile
+          app, tap on "Help Center" and search on the relevant articles to
+          resolve the issues. In the event if the issue cannot be self-resolved,
+          please tap on "Report Issue" in the Help Centre and fill up a form.
     title: " "
   - content:
       - phone: ""
