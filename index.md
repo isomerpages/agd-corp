@@ -23,6 +23,8 @@ sections:
           url: /Vendors/vendors-gov/
   - resources:
       title: NEWS & EVENTS
+  - infobar:
+      title: Careers @ AGD
   - infopic:
       subtitle: Careers @ AGD
       description: Consists of a a vast range of roles which involves examining
