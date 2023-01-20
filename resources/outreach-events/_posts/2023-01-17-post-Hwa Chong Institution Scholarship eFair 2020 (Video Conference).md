@@ -6,20 +6,13 @@ layout: post
 description: Hwa Chong Institution Scholarship e-Fair 2020 (Video Conference)
 image: ""
 ---
-
-
-
 ### Outreach Events
 
 Hwa Chong Institution Scholarship e-Fair 2020 (Video Conference)
 
 15 July 2020
 
-![](https://www.agd.gov.sg/images/default-source/default-album/hci-outreach-20205bf5c980601a4583b3f8e075c3b52b75.jpg?sfvrsn=2c72b9e_0)
-
-[Previous](https://www.agd.gov.sg/news-and-events/selection/outreach-events--2020--hwa-chong-institution-scholarship-e-fair-2020-(video-conference)#detailGalleryCarousel)[Next](https://www.agd.gov.sg/news-and-events/selection/outreach-events--2020--hwa-chong-institution-scholarship-e-fair-2020-(video-conference)#detailGalleryCarousel)
-
-![galleryThumbnail](https://www.agd.gov.sg/images/default-source/default-album/hci-outreach-20205bf5c980601a4583b3f8e075c3b52b75.jpg?sfvrsn=2c72b9e_0)
+![Hwa Chong Scholarship eFair 2020](/images/News%20and%20Events/Outreach%20Events/Hwa-Chong-Scholarship-eFair-2020.jpg)
 
 On 15 July 2020, the AGD HR team took part in the Hwa Chong Institution Scholarship e-Fair. While the AGD team usually sets up physical booths at the annual scholarship fair, we had to improvise our outreach efforts during this COVID-19 period by having the sharing session conducted via virtual conferencing.   
   
