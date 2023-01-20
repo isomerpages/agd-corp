@@ -29,10 +29,20 @@ contacts:
       - other: <br>
     title: Fax
   - content:
-      - phone: 1 800 180 0337
-      - email: AGD_QSM@agd.gov.sg
-      - other: <br>
+      - phone: ""
+      - email: ""
+      - other: ""
     title: Feedback on Service Quality
+  - content:
+      - phone: ""
+      - email: AGD_QSM@agd.gov.sg
+      - other: ""
+    title: Email
+  - content:
+      - phone: 1 800 180 0180
+      - email: ""
+      - other: <br>
+    title: Toll Free
   - content:
       - phone: ""
       - email: ""
@@ -61,7 +71,7 @@ contacts:
           href="https://app.helpdesk.agd.gov.sg/public_user/common/Helpdesk.aspx?j8ZGHXSDIBTn3Y133wWZLxunVI8fXzpLfA244C9ateNpt4anhce/j11WmeQxlHNA">NFS@Gov
           Helpdesk</a><br><a
           href="https://app.helpdesk.agd.gov.sg/public_user/common/Helpdesk.aspx?KFRZ30LegoiwqVn+nwWKkgMfRI43hDIAazMhJA9R4d7oslk+cuENvX6EQdE8LQuC">Fi@Gov
-          Helpdesk</a></html>
+          Helpdesk</a><br></html>
     title: For Civil Servants
   - content:
       - phone: ""
