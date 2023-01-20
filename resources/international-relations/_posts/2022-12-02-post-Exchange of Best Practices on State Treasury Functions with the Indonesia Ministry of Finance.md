@@ -8,12 +8,15 @@ description: Exchange of Best Practices on State Treasury Functions with the
   Indonesia Ministry of Finance
 image: ""
 ---
-
 ### International Relations
 
 Exchange of Best Practices on State Treasury Functions with the Indonesia Ministry of Finance
 
 29 April 2021
+
+![](https://www.agd.gov.sg/images/default-source/default-album/imagedaea8565925d4bbab7346fcb4aa036f8.png?sfvrsn=e8ef89ae_0)
+
+[Previous](https://www.agd.gov.sg/news-and-events/selection/international-relations--2021--exchange-of-best-practices-on-state-treasury-functions-with-the-indonesia-ministry-of-finance#detailGalleryCarousel)[Next](https://www.agd.gov.sg/news-and-events/selection/international-relations--2021--exchange-of-best-practices-on-state-treasury-functions-with-the-indonesia-ministry-of-finance#detailGalleryCarousel)
 
 ![galleryThumbnail](https://www.agd.gov.sg/images/default-source/default-album/imagedaea8565925d4bbab7346fcb4aa036f8.png?sfvrsn=e8ef89ae_0)
 
