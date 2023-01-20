@@ -36,6 +36,13 @@ contacts:
   - content:
       - phone: ""
       - email: ""
+      - other: <br>If you encounter difficulties when processing your transactions or
+          have any questions, please send us your queries via the following
+          links. We will respond to your query by the next working day.<br>
+    title: Enquiries
+  - content:
+      - phone: ""
+      - email: ""
       - other: <html><a
           href="https://app.helpdesk.agd.gov.sg/public_user/common/Helpdesk.aspx?c9osI0quCY6Ly9siZW8epKc2QbDMoJJw9LSQzrVc7kX+xOb+nc3OK4IelfsO5ZGd">Vendors@Gov
           Helpdesk</a></html>
