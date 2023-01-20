@@ -21,12 +21,12 @@ contacts:
   - content:
       - phone: ""
       - email: agd_mailbox@agd.gov.sg
-      - other: ""
+      - other: <br>
     title: Email
   - content:
       - phone: +65 6563 3276
       - email: ""
-      - other: ""
+      - other: <br>
     title: Fax
   - content:
       - phone: 1 800 180 0337
