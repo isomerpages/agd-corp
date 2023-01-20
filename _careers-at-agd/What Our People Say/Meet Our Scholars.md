@@ -17,7 +17,8 @@ My second posting in 2017 was to the Treasury Directorate where I worked with th
   
 These roles became starkly critical when COVID-19 struck and we had to seek the President’s approval to draw on our reserves. We had to ensure sufficient resources were available for the roll-out of support measures while maintaining proper safeguards as we handled unprecedented circumstances. I was also roped into the preparation of the multiple budgets we had during the crisis. Knowing how our work would benefit fellow Singaporeans, this spurred us throughout the many late nights work sessions and kept the teamwork strong.
 
-<img src="/images/CareersAGD/Meet%20Our%20Scholars/mos-2.jpg"  alt="Macus Lim" style="width:200px;height:200px;" align="left">“AGD Accountancy Scholarship gave me the opportunity to excel more than just being a student but as a leader and an aspiring civil servant.” <br> <br> **Macus Lim**<br>AGD Accountancy Scholar
+<img src="/images/CareersAGD/Meet%20Our%20Scholars/mos-2.jpg"  alt="Macus Lim" style="width:200px;height:200px;" align="left">
+<p>“AGD Accountancy Scholarship gave me the opportunity to excel more than just being a student but as a leader and an aspiring civil servant.” <br> <br> **Macus Lim**<br>AGD Accountancy Scholar<p>
 
 
 Coming from a lower – middle income family, I am always grateful to Singapore’s education system and its system of meritocracy where everyone is given the opportunity to succeed based on one’s ability rather than socioeconomic status.  
