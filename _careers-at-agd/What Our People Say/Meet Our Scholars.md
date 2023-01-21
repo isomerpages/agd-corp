@@ -6,7 +6,7 @@ third_nav_title: What Our People Say
 ---
 What Our People Say
 ===================
-<img src="/images/CareersAGD/Meet%20Our%20Scholars/mos-1.jpg"  alt="Justin Kong" style="width:200px;height:200px;" align="left">“If I were to sum up my journey as an AGD scholar in three words, it would be ‘exposure’, ‘rigour’ and ‘fulfilment’.” <br> <br> **Justin Kong**<br>Head, Treasury, Technical & Analytics <br>AGD Accountancy Scholar
+<img src="/images/CareersAGD/Meet%20Our%20Scholars/mos-11.jpg"  alt="Justin Kong" style="width:200px;height:200px;" align="left">“If I were to sum up my journey as an AGD scholar in three words, it would be ‘exposure’, ‘rigour’ and ‘fulfilment’.” <br> <br> **Justin Kong**<br>Head, Treasury, Technical & Analytics <br>AGD Accountancy Scholar
 
 
 
@@ -16,7 +16,7 @@ My second posting in 2017 was to the Treasury Directorate where I worked with th
   
 These roles became starkly critical when COVID-19 struck and we had to seek the President’s approval to draw on our reserves. We had to ensure sufficient resources were available for the roll-out of support measures while maintaining proper safeguards as we handled unprecedented circumstances. I was also roped into the preparation of the multiple budgets we had during the crisis. Knowing how our work would benefit fellow Singaporeans, this spurred us throughout the many late nights work sessions and kept the teamwork strong.
 
-<img src="/images/CareersAGD/Meet%20Our%20Scholars/mos-2.jpg"  alt="Macus Lim" style="width:200px;height:200px;" align="left"> “AGD Accountancy Scholarship gave me the opportunity to excel more than just being a student but as a leader and an aspiring civil servant.” <br> <br> **Macus Lim**<br>AGD Accountancy Scholar
+<img src="/images/CareersAGD/Meet%20Our%20Scholars/mos-22.jpg"  alt="Macus Lim" style="width:200px;height:200px;" align="left"> “AGD Accountancy Scholarship gave me the opportunity to excel more than just being a student but as a leader and an aspiring civil servant.” <br> <br> **Macus Lim**<br>AGD Accountancy Scholar
 
 
 Coming from a lower – middle income family, I am always grateful to Singapore’s education system and its system of meritocracy where everyone is given the opportunity to succeed based on one’s ability rather than socioeconomic status.  
@@ -28,7 +28,7 @@ The AGD Accountancy Scholarship has allowed me to maximise my full potential bey
 In May 2021, I interned in AGD’s Finance Transformation Directorate and worked on the Cumulus project which aims to harness the new cloud technology to realise productivity and efficiency improvements for Finance, HR and Payroll processes in the Statutory Boards. This internship has given me a broad understanding of how AGD is able to empower the rest of the public service as a leader in transforming Public Sector Finance.
 
 
-<img src="/images/CareersAGD/Meet%20Our%20Scholars/mos-3.jpg"  alt="Vera Lim" style="width:200px;height:200px;" align="left">“AGD can be characterised by its strong company culture, diverse individuals and career prospects that spurs personal growth.”” <br> <br> **Vera Lim**<br>PSC Public Finance Scholar
+<img src="/images/CareersAGD/Meet%20Our%20Scholars/mos-33.jpg"  alt="Vera Lim" style="width:200px;height:200px;" align="left">“AGD can be characterised by its strong company culture, diverse individuals and career prospects that spurs personal growth.”” <br> <br> **Vera Lim**<br>PSC Public Finance Scholar
 
 
 As part of my internship, I was attached to the Financial Transformation team which is responsible for the implementation of a harmonised and centralised financial system for the Whole-Of-Government.  
