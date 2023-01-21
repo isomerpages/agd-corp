@@ -51,8 +51,9 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: ""
-    title: " "
+      - other: <html>For frequently asked questions, check out our <a href="/faq/">FAQs
+          page</a>.</html>
+    title: FAQs
   - content:
       - phone: ""
       - email: ""
