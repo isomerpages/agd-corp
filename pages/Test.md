@@ -3,129 +3,208 @@ title: Test
 permalink: /test/
 description: Test
 ---
-Finance Associates Programme
-============================
+*This is a demo page*
 
-The Finance Associates Programme is our flagship programme for new hires. The Programme allows our associates to systematically acquire strong foundations in key domain areas of finance, operations and policy formulation across the Whole-of-Government.  
+Welcome
+
+### EXPOSURE DRAFTS
+
   
-Fresh graduates joining AGD under the programme will undergo a 12-month developmental phase comprising an expanded induction programme and 2 to 3 rotational stints of 4 - 6 months each across different finance functions. This will allow them to build up their competencies and accelerate career development as well as to take on leadership responsibilities early in their career.
 
-### Journey of a Finance Associate over a 1-Year Finance Associates Programme
+If you do not already have Adobe Reader or Microsoft Word, please download the software for free here: [\[pdf\]](http://www.adobe.com/products/acrobat/readstep2.html) [\[word\]](http://www.microsoft.com/downloads/details.aspx?FamilyID=95e24c87-8732-48d5-8689-ab826e7b8fdf&DisplayLang=en)
 
-![career-agd-associates-programme](https://www.agd.gov.sg/images/default-source/default-album/career-agd-associates-programme.jpg?sfvrsn=826fe570_0 "career-agd-associates-programme")  
-
-### Expanded Induction Programme
-
-The expanded induction programme comprises three modules - Basic, Foundational and Developmental – which the Finance Associates will undergo in their first year with AGD.&nbsp; The different modules are specially tailored to equip our Associates with rudimentary concepts in Public Finance functions and to apply these concepts throughout their deployment stints.  
   
-The Basic module, conducted at the start of the programme, will provide the Finance Associates with a broad overview of AGD’s central roles such as cash management, financial reporting, assurance and Value-For-Money reviews and financial administration.  
-The Foundational module, conducted in between the deployment stints of the Finance Associates, will focus on the applications of key foundational financial knowledge and skillsets as well as soft skills developments through case studies and hands-on exercises.  
-  
-The Developmental module, conducted at the end of the 12-month programme, will introduce the Finance Associates to core personal and professional development areas through the sharing of best practices and chats with senior policy-makers and finance leaders.
 
-### Deployment Stints
+| Titles | Comments due by | Comment letter to ASC |
+| --- | --- | --- |
+| 
+*   [ED/2023/1 International Tax Reform - Pillar Two Model Rules (Proposed amendments to IAS 12) \[.pdf, 160kb\]](https://www.assb.gov.sg/docs/default-source/exposure-draft/iasb-ed-2023-international-tax-reform-pillar-two.pdf)
 
-The deployment stints of Finance Associates will include attachments to AGD’s directorates to learn more about the central roles and functions fulfilled by AGD.&nbsp; Some Finance Associates may also be attached to ministries and statutory boards to provide financial administration support.&nbsp;&nbsp;
+ | 10 February 2023  |   |
+| 
 
-### Mentoring
+*   [ED Amendments to SB-FRS Guidance Note 3 Accounting and Disclosures for Trust Funds \[.pdf, 566kb\]](https://www.assb.gov.sg/docs/default-source/exposure-draft/ed-amendments-to-sb-frs-guidance-note-3.pdf)
 
-![thumb-career-agd-associates-programme](/images/repository-open-graph-template.png)
+ | 16 September 2022 (Closed) |   |
+| 
 
-To help the Finance Associates quickly familiarise with the working environment, we will assign a buddy to provide support and answer any queries while settling into the new job.  
-  
-At the same time, we will assign mentors to all of our Finance Associates. Besides providing guidance on the professional development and career aspirations, the mentors will also help assess the performance and progress of associates.&nbsp;
+*   [ED Amendments to SB-FRS Guidance Note 5 Reporting of CPF Contributions and Key Management Personnel Compensation \[.pdf, 552kb\]](https://www.assb.gov.sg/docs/default-source/exposure-draft/ed-amendments-to-sb-frs-guidance-note-5.pdf)
 
-### Post Associates Programme
+ |  5 September 2022 (Closed) |   |
+| 
 
-There will be 2 to 3 structured postings, within AGD and/or the ministries and statutory boards, in the first six to seven years to equip Finance Associates with the necessary experiences and skillsets through a spectrum of functions and areas to prepare them to take on supervisory roles in the future.
+*   [ED Amendments to SB-FRS 1002 Impairment of Non-Cash-Generating Assets \[.pdf,604kb\]](https://www.assb.gov.sg/docs/default-source/exposure-draft/ed-amendments-to-sb-frs-1002.pdf)
+*   [ED Amendments to SB-FRS 1002 Guidance on Implementing Impairment of Non-Cash-Generating Assets \[.pdf, 538kb\]](https://www.assb.gov.sg/docs/default-source/exposure-draft/ed-amendments-to-sb-frs-1002-ig.pdf)
 
+ |  5 September 2022 (Closed) |   |
+| 
 
+*   [ED/2021/10 Supplier Finance Arrangements (Proposed amendments to IAS 7 and IFRS 7) \[.pdf, 245kb\]](https://www.assb.gov.sg/docs/default-source/exposure-draft/ed-2021-10-sfa.pdf?sfvrsn=32c54ee6_4 "ED/2021/10 Supplier Finance Arrangements (Proposed amendments to IAS 7 and IFRS 7) [.pdf, 245kb]")
 
+ |  31 December 2021  
+(Closed) |   |
+| 
 
+*   [ED/2021/9 Non-current Liabilities with Covenants (Proposed amendments to IAS 1)\[.pdf, 215kb\]](https://www.assb.gov.sg/docs/default-source/exposure-draft/ed-2021-9-nclwc.pdf?sfvrsn=97d6d1fb_4 "ED/2021/9 Non-current Liabilities with Covenants (Proposed amendments to IAS 1)[.pdf, 215kb]")
 
- ![](/images/agd-careers.png)
- 
- 
- 
- <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/P0rTPHjO2hU" height="315" width="560"></iframe>
- 
- ![](/images/agd-careers.png)
- 
- 
- 
+ | 31 December 2021  
+(Closed) |   |
+| 
 
-| | |  | 
-| -------- |  -------- | -------- | 
-| ![](/images/agd-careers.png)     || |
+*   [ED on SB-FRS Guidance Note 11 Accounting for Grants Administered by Statutory Boards\[.pdf, 738kb\]](https://www.assb.gov.sg/docs/default-source/exposure-draft/ed-to-sb-frs-guidance-note-11.pdf?sfvrsn=ad67b490_4 "ED on SB-FRS Guidance Note 11 Accounting for Grants Administered by Statutory Boards[.pdf, 738kb]")
 
+ | 30 November 2021    
+(Closed)  |   |
+| 
 
+*   [ED/2021/8 Initial Application of IFRS 17 and IFRS 9 - Comparative Information (Proposed amendment to IFRS 17) \[.pdf, 246kb\]](https://www.assb.gov.sg/docs/default-source/exposure-draft/ed2021-8-initial-app-ifrs17-ifrs9-ci.pdf?sfvrsn=eb9f9491_4 "ED/2021/8 Initial Application of IFRS 17 and IFRS 9 - Comparative Information (Proposed amendment to IFRS 17) [.pdf, 246kb] ")
 
+ | 17 September 2021   
+(Closed) |   |
+| 
 
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-|   |  Financial Reporting *   Prepare the Government Financial Statements *   Involve in setting accounting standards, policies and practices for compliance by Ministries and Statutory Boards
+*   [ED/2021/7 Subsidiaries without Public Accountability \[.pdf, 436kb\]](https://www.assb.gov.sg/docs/default-source/exposure-draft/ed2021-7-swpa-d.pdf?sfvrsn=22a1162a_2 "ED/2021/7 Subsidiaries without Public Accountability [.pdf, 436kb]")
+*   [ED/2021/7 Subsidiaries without Public Accountability - Basis for Conclusions \[.pdf, 259kb\]](https://www.assb.gov.sg/docs/default-source/exposure-draft/ed2021-7-bc-swpa-d.pdf?sfvrsn=96ef5979_2 "ED/2021/7 Subsidiaries without Public Accountability - Basis for Conclusions [.pdf, 259kb]")
 
-#### Financial Reporting
+ |  24 September 2021  
+(Closed) |   |
+| 
 
-|  | |  |
-| -------- | -------- | -------- |
-| *   Prepare the Government Financial Statements *   Involve in setting accounting standards, policies and practices for compliance by Ministries and Statutory Boards     | ![](/images/CareersAGD/What%20we%20offer/wwo-fo.jpg)     |      |
+*   [ED/2021/4 Lack of Exchangeability (Proposed Amendments to IAS 21) \[.pdf, 242kb\]](https://www.assb.gov.sg/docs/default-source/exposure-draft/ed2021-4-lack-of-exchangeability-ias-21.pdf?sfvrsn=ff408497_2 "ED/2021/4 Lack of Exchangeability (Proposed Amendments to IAS 21) [.pdf, 242kb]")
 
+ | 28 May 2021 (Closed) |   |
+| 
 
+*   [ED/2021/3 Disclosure Requirements in IFRS Standards - A Pilot Approach (Proposed Amendments to IFRS 3 and IAS 19) \[.pdf, 405kb\]](https://www.assb.gov.sg/docs/default-source/exposure-draft/ed2021-3-di-tslr-pdf_safe.pdf?sfvrsn=84215882_2 "ED/2021/3 Disclosure Requirements in IFRS Standards - A Pilot Approach (Proposed Amendments to IFRS 3 and IAS 19) [.pdf, 405kb]")
+*   [ED/2021/3 Disclosure Requirements in IFRS Standards - A Pilot Approach (Proposed Amendments to IFRS 3 and IAS 19) - Basis for Conclusions \[.pdf, 362kb\]](https://www.assb.gov.sg/docs/default-source/exposure-draft/ed2021-3-bc-di-tslr-pdf_safe.pdf?sfvrsn=c800933c_2 "ED/2021/3 Disclosure Requirements in IFRS Standards - A Pilot Approach (Proposed Amendments to IFRS 3 and IAS 19) - Basis for Conclusions [.pdf, 362kb]")
 
+ | 30 April 2021 (Closed) |   |
+| 
 
-| | | |
-| -------- | -------- | -------- |
-|Eligibility Criteria    |  *   Second year Singaporean undergraduate at the SMU’s School of Accountancy.
-*   Completed at least four of the following accounting core subjects:
-    1.  Accounting Information Systems
-    2.  Financial Reporting and Analysis
-    3.  Financial Accounting
-    4.  Management Accounting
-    5.  Accounting Thought and Practice
-    6.  Advanced Financial Accounting
-    7.  Audit and Assurance
-    8.  Intermediate Finance Accounting
-*   Scored a cumulative GPA of at least 3.7.
-*   Demonstrates the core values of Integrity, Service and Excellence
-*   Demonstrates leadership potential and active co-curricular pursuits.
-*   Outstanding community service contributions to the Singapore community.
-*   Students who satisfy the above criteria and are doing double degree programmes (one of which must be Accountancy) will be considered favourably.
-*   The Award recipient must not have any disciplinary issues or a disciplinary record with the University in respect of behavior involving dishonesty or moral turpitude.
-*   The Award recipient will undergo a ten-week internship programme at AGD during the third year of the undergraduate study.      | Text     |
+*   [ED/2021/2 Covid-19-Related Rent Concessions beyond 30 June 2021 \[.pdf, 199kb\]](https://www.assb.gov.sg/docs/default-source/default-document-library/ed-rent-concessions-beyond-30-june-2021.pdf?sfvrsn=5c9323de_2 "ED/2021/2 Covid-19-Related Rent Concessions beyond 30 June 2021 [.pdf, 199kb]")
 
+ |  23 February 2021   
+(Closed) |   |
+| 
 
+*   [ED/2021/1 Regulatory Assets and Regulatory Liabilities \[.pdf, 299kb\]](https://www.assb.gov.sg/docs/default-source/exposure-draft/ed-regulatory-assets-and-regulatory-liabilities.pdf?sfvrsn=26be6a0c_2 "ED Regulatory Assets and Regulatory Liabilities [.pdf, 299kb]")
+*   [ED/2021/1 Regulatory Assets and Regulatory Liabilities - Basis for Conclusions \[.pdf, 354kb\]](https://www.assb.gov.sg/docs/default-source/exposure-draft/ed-basis-for-conclusions.pdf?sfvrsn=d55ddcd_2 "ED Regulatory Assets and Regulatory Liabilities - Basis for Conclusions [.pdf, 354kb]")
+*   [ED/2021/1 Regulatory Assets and Regulatory Liabilities - Illustrative Examples \[.pdf, 354kb\]](https://www.assb.gov.sg/docs/default-source/exposure-draft/ed-illustrative-examples.pdf?sfvrsn=b98741d8_2 "ED Regulatory Assets and Regulatory Liabilities - Illustrative Examples [.pdf, 354kb]")
 
+ | 12 March 2021    
+(Closed) |   |
+| 
 
+*   [ED SB-FRS Guidance Note 10 Accounting for Capital Assets Funded using Statutory Boards' Reserves on Behalf of the Government\[.pdf, 543kb\]](https://www.assb.gov.sg/docs/default-source/exposure-draft/ed-on-sb-frs-guidance-note-10.pdf?sfvrsn=4ffe24a5_2 "ED on SB-FRS Guidance Note 10 Accounting for Capital Assets Funded using Statutory Boards' Reserves on Behalf of the Government[.pdf, 543kb]")
 
-| Column 1 | Column 2 | Column 3 |
-| -------- | -------- | -------- |
-* | Text     | Text     | Text     |
-*  | Text<br>muthu     | Text     | Text     |
+ | 15 January 2021  
+(Closed)  
+ |   |
+| 
 
+*   [ED/2020/4 Lease Liability in a Sale and Leaseback - Proposed amendment to IFRS 16\[.pdf, 263kb\]](https://www.assb.gov.sg/docs/default-source/default-document-library/ed-lease-liability-in-a-sale-or-leaseback.pdf?sfvrsn=c16ef5a5_0 "ED/2020/4 Lease Liability in a Sale and Leaseback - Proposed amendment to IFRS 16[.pdf, 263kb]")
 
-<div class="col is-half is-half padding--top--xl padding--bottom--xl"><img alt="Image alt text" src="/images/agd-people-say.png"></div>
+ | 15 January 2021    
+(Closed) |   |
+| 
 
- <p> ![](/images/agd-people-say.png)</p>
+*   [ED SB-FRS Guidance Note 9 Accounting for Buildings, Building Improvement Works, and Infrastructure on Short-term Land Lease\[.pdf, 535KB\]](https://www.assb.gov.sg/docs/default-source/exposure-draft/ed-on-sb-frs-guidance-note-9.pdf?sfvrsn=eefa2d82_2 "ED SB-FRS Guidance Note 9 Accounting for Buildings, Building Improvement Works, and Infrastructure on Short-term Land Lease[.pdf, 535KB] ")
 
- 
-<div class="row">
-    <div class="col is-6">
-       <img src="https://d33wubrfki0l68.cloudfront.net/b5d13a38c904ee1e34b8825da761fff2ee92cbae/b4ac5/images/partner-us/collaborations/pep-sbf.jpg">
-    </div>
-    <div class="col is-6">
-        <p>The PEP-SBF Awards celebrates and recognises the public and private sectors’ contributions towards a pro-enterprise regulatory environment.</p>
-        <br>SDC was awarded the “Pro-Enterprise Suggestion (Supporting Agency) Award” for the support provided to Go!Mama Pte Ltd on the deployment of 5 Digitally-Enabled Network of Lactation Pods on Sentosa.
-    </div>
-</div>
+ |  30 September 2020   
+(Closed) |   |
+| 
 
-![testing](/images/agd-about-us-overlay.png)
+*    [ED/2020/2 Covid-19-Related Rent Concessions (Proposed amendment to IFRS 16) \[.pdf, 163KB\]](https://www.assb.gov.sg/docs/default-source/exposure-draft/ed-covid-19-related-rent-concessions.pdf?sfvrsn=26116b7_2 "ED/2020/2 Covid-19-Related Rent Concessions (Proposed amendment to IFRS 16) [.pdf, 163KB]")
 
+ |  15 May 2020  
+(Closed) |  [Comment Letter on ED-2020-2 \[.pdf, 392KB\]](https://www.assb.gov.sg/docs/default-source/exposure-draft/comment-letter-to-iasb-on-ed-2020-2.pdf?sfvrsn=610a2a98_2 "Comment Letter on ED-2020-2 [.pdf, 392KB]") |
+| 
 
-<img src="/images/agd-about-us-overlay.png" alt="testing" style="width:200px;height:200px;">
+*   [ED/2020/1 Interest Rate Benchmark Reform - Part 2 (Proposed amendments to IFRS 9, IAS 39, IFRS 7, IFRS 4, and IFRS 16) \[.pdf, 294KB\]](https://www.assb.gov.sg/docs/default-source/exposure-draft/ibor2ed2020-pdf_safe.pdf?sfvrsn=3e6da5a6_2 "ED/2020/1 Interest Rate Benchmark Reform - Part 2 (Proposed amendments to IFRS 9, IAS 39, IFRS 7, IFRS 4, and IFRS 16) [.pdf, 294KB]") 
 
+ |  15 May 2020   
+(Closed) |   |
+| 
 
-<div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/I7x4d732hkQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/I7x4d732hkQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+*   [ED/2019/7 General Presentation and Disclosures \[.pdf, 543KB\]](https://www.assb.gov.sg/docs/default-source/exposure-draft/ed-general-presentation-disclosures.pdf?sfvrsn=bd91001f_2 "ED/2019/7 General Presentation and Disclosures [.pdf, 543KB]")
+*   [Basis for Conclusions \[.pdf, 465KB\]](https://www.assb.gov.sg/docs/default-source/exposure-draft/ed-basis-for-conclusions-general-presentation-disclosures.pdf?sfvrsn=1267aaa8_2 "Basis for Conclusions [.pdf, 465KB]")
+*   [illustrative Examples \[.pdf, 428KB\]](https://www.assb.gov.sg/docs/default-source/exposure-draft/ed-illustrative-examples-general-presentation-disclosures.pdf?sfvrsn=ac73f410_2 "illustrative Examples [.pdf, 428KB]")
+
+ | 31 January 2020  
+(Closed) |  [Comment Letter on ED-2019-7 \[.pdf, 393KB\]](https://www.assb.gov.sg/docs/default-source/exposure-draft/comment-letter-to-iasb-on-ed-2019-7.pdf?sfvrsn=94a44a60_2 "Comment Letter to IASB on ED-2019-7 [.pdf, 393KB]") |
+| 
+
+*   [ED/2019/6 Disclosure of Accounting Policies – Proposed amendments to IAS 1 and IFRS Practice Statement 2 \[.pdf, 216kb\]](https://www.assb.gov.sg/docs/default-source/exposure-draft/ed-di-accounting-policies-ias-1-ifrs-practice-statement-2-pdf_safe.pdf?sfvrsn=5b13171a_0 "ED/2019/6 Disclosure of Accounting Policies – Proposed amendments to IAS 1 and IFRS Practice Statement 2 [.pdf, 216kb]")
+
+ | 16 September 2019  
+(Closed) |  [Comment Letter on ED-2019-6 \[.pdf, 397KB\]](https://www.assb.gov.sg/docs/default-source/exposure-draft/comment-letter-to-iasb-on-ed-2019-6.pdf?sfvrsn=bbe8d10c_2 "Comment Letter on ED-2019-6 [.pdf, 397KB]") |
+| 
+
+*   [ED/2019/5 Deferred Tax related to Assets and Liabilities arising from a Single Transaction (Proposed Amendments to IAS 12) \[.pdf, 182kb\]](https://www.assb.gov.sg/docs/default-source/exposure-draft/ed-deferred-tax-related-to-assets-and-liabilities-ias-12-pdf_safe.pdf?sfvrsn=6aaaa58b_0 "ED/2019/5 Deferred Tax related to Assets and Liabilities arising from a Single Transaction (Proposed Amendments to IAS 12) [.pdf, 182kb]")
+
+ | 30 August 2019  
+(Closed)  |   |
+| 
+
+*   [ED/2019/4 Amendments to IFRS 17 \[.pdf, 398kb\]](https://www.assb.gov.sg/docs/default-source/exposure-draft/ed-amendments-to-ifrs-17-pdf_safe.pdf?sfvrsn=f221d214_0 "ED/2019/4 Amendments to IFRS 17 [.pdf, 398kb]")
+
+ | 
+
+8 August 2019  
+(Closed)
+
+ | [Comment Letter on ED-2019-4 \[.pdf, 393KB\]](https://www.assb.gov.sg/docs/default-source/exposure-draft/comment-letter-to-iasb-on-ed-2019-4.pdf?sfvrsn=e819de26_2 "Comment Letter on ED-2019-4 [.pdf, 393KB]") |
+| 
+
+*   [ED/2019/3 Reference to the Conceptual Framework (Proposed Amendments to IFRS 3) \[.pdf, 207kb\]](https://www.assb.gov.sg/docs/default-source/exposure-draft/exposure-draft-reference-to-the-conceptual-framework-ifrs-3.pdf?sfvrsn=bfc69530_0 "ED/2019/3 Reference to the Conceptual Framework (Proposed Amendments to IFRS 3) [.pdf, 207kb]")
+
+ | 27 September 2019  
+(Closed) |   |
+| 
+
+*   [ED/2019/2 Annual Improvements to IFRS Standards 2018-2020 \[.pdf, 181kb\]](https://www.assb.gov.sg/docs/default-source/exposure-draft/ed-annual-improvements-2018-2020-pdf_safe.pdf?sfvrsn=e1eba0b9_0 "ED/2019/2 Annual Improvements to IFRS Standards 2018-2020 [.pdf, 181kb]")
+
+ | 22 July 2019  
+(Closed) |   |
+| 
+
+*   [ED SB-FRS Conceptual Framework (Preface and Chapters 1 to 8) \[.pdf 926kb\]](https://www.assb.gov.sg/docs/default-source/exposure-draft/ed_sb-frs_conceptual_framework_(preface_and_chapters_1_to_8).pdf?sfvrsn=db5b1e5_2 "ED SB-FRS Conceptual Framework (Preface and Chapters 1 to 8) [.pdf 926kb]")
+
+ | 28 June 2019  
+(Closed) |  |
+| 
+
+*   [ED Amendments to SB-FRS 24 Related Party Disclosures \[.pdf 600kb\]](https://www.assb.gov.sg/docs/default-source/exposure-draft/ed_sb-frs_24_related_party_disclosures.pdf?sfvrsn=86b562de_2 "ED Amendments to SB-FRS 24 Related Party Disclosures [.pdf 600kb]")
+
+ | 28 June 2019  
+(Closed) |  |
+| 
+
+*   [ED Amendments to SB-FRS Guidance Note 4 Related Party Disclosures \[.pdf 569kb\]](https://www.assb.gov.sg/docs/default-source/exposure-draft/ed_sb-frs_guidance_note-4_related_party_disclosures.pdf?sfvrsn=4622e55a_2 "ED Amendments to SB-FRS Guidance Note 4 Related Party Disclosures [.pdf 569kb]")
+
+ | 28 June 2019  
+(Closed) |  |
+| 
+
+*   [ED/2019/1 Interest Rate Benchmark Reform - Proposed Amendments to IFRS 9 and IAS 39 \[.pdf 227kb\]](https://www.assb.gov.sg/docs/default-source/exposure-draft/ed-ibor-reform-may-19.pdf?sfvrsn=4d41add2_2 "ED/2019/1 Interest Rate Benchmark Reform - Proposed Amendments to IFRS 9 and IAS 39 [.pdf 227kb]")
+
+ | 7 June 2019  
+(Closed) |  |
+| 
+
+*   [ED SB-FRS Conceptual Framework Part 1 \[.pdf 157kb\]](https://www.assb.gov.sg/docs/default-source/exposure-draft/ifrs_ed_conceptual_framework.pdf?sfvrsn=b513ac04_2 "ED SB-FRS Conceptual Framework Part 1 [.pdf 157kb]")
+
+ | 18 April 2019  
+(Closed) |  |
+| 
+
+*   [ED SB-FRS Practice Statement 2 on Making Materiality Judgements \[.pdf 623kb\]](https://www.assb.gov.sg/docs/default-source/exposure-draft/ed_sb-frs_practice_statement_on_making_materiality_judgements.pdf?sfvrsn=211c9664_2 "ED SB-FRS Practice Statement 2 on Making Materiality Judgements [.pdf 623kb]")
+
+ | 18 April 2019  
+(Closed) |  |
+| 
+
+*   [ED Guidance Note 9 Illustration on Capitalisation of Borrowing Costs \[.pdf 438kb\]](https://www.assb.gov.sg/docs/default-source/exposure-draft/ed_sb-frs_guidance_note_9_capitalisation_of_borrowing_costs.pdf?sfvrsn=cdb647b5_2 "ED Guidance Note 9 Illustration on Capitalisation of Borrowing Costs [.pdf 438kb]")
+
+ | 28 February 2019  
+(Closed) |
