@@ -10,7 +10,7 @@ image: ""
 
 #### MOF Family Group Level Awards 2019
 
-16 July 2019
+**16 July 2019**
 
 The MOF Family Group Level Awards presentation took place during the MOF-HQ's Public Service Observance Ceremony on 16 Jul 2019.  
   
