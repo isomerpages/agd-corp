@@ -23,6 +23,7 @@ sections:
           url: /Vendors/vendors-gov/
   - resources:
       title: NEWS & EVENTS
+      button: MORE
   - infobar:
       title: CAREERS @ AGD
   - infopic:
