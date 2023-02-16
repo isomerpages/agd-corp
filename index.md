@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Accountant-General’s Department
-description: An Isomer site of the Singapore Government
+description: Accountant-General’s Department of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
@@ -71,3 +71,4 @@ sections:
       image: /images/agd-about-us-overlay.png
       alt: About Us
 ---
+
