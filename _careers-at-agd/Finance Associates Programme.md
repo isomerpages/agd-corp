@@ -11,7 +11,8 @@ The Finance Associates Programme is our flagship programme for new hires. The Pr
 Fresh graduates joining AGD under the programme will undergo a 12-month developmental phase comprising an expanded induction programme and 2 to 3 rotational stints of 4 - 6 months each across different finance functions. This will allow them to build up their competencies and accelerate career development as well as to take on leadership responsibilities early in their career.
 
 ### Journey of a Finance Associate over a 1-Year Finance Associates Programme
-![Finance Associates Programme](/images/CareersAGD/career-agd-associates-programme.jpg)
+
+![Career AGD Associates Programme](/images/CareersAGD/career-agd-associates-programme.jpg)
 
 ### Expanded Induction Programme
 
