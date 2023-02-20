@@ -4,8 +4,8 @@ permalink: /our-services/partner-of-building-capabilities/
 description: Partner of Building Capabilities
 third_nav_title: Partner of Building Capability
 ---
-Partner of Building Capabilities
-================================
+## Partner of Building Capabilities
+
 
 ### Building Financial Competencies
 
