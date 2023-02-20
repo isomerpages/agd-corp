@@ -8,9 +8,9 @@ image: ""
 ---
 ### Awards & Accolades
 
-National Service Excellence Award 2019
+#### National Service Excellence Award 2019
 
-01 July 2019
+**01 July 2019**
 
 “Behind every good-performing NSmen, there is a strong team of colleagues”
 
