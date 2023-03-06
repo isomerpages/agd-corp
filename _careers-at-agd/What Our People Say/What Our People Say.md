@@ -6,16 +6,16 @@ third_nav_title: What Our People Say
 ---
 What Our People Say
 ===================
-<img src="/images/CareersAGD/What%20Our%20People%20Say/wops-12.jpg"  alt="Lee Mei Chern" style="width:auto" align="left" /> “Being able to make a difference and help raise corporate governance in the public sector makes my work extremely exciting and fulfilling” <br> <br> **Lee Mei Chern**<br>Director, Performance and Evaluation
+<img src="/images/CareersAGD/What%20Our%20People%20Say/wops-12.jpg"  alt="Lee Mei Chern" style="width:auto" align="left" /> “Being able to make a difference and help raise corporate governance in the public sector makes my work extremely exciting and fulfilling” <br> <br> **Lee Mei Chern**<br>Deputy Accountant-General
 
-**Lee Mei Chern** is presently the Director, Performance and Evaluation Directorate.
+**Lee Mei Chern** is presently the Deputy Accountant-General in AGD.
 
 *   Handled various portfolios such as Financial Reporting and Financial Systems Administration.
 *   Reviews the public sector’s key programmes, systems and processes and provides recommendations that will strengthen internal controls, increase efficiency and productivity.
 *   Takes the lead in growing the number of agencies tapping on AGD’s IA services and building a customer-focused culture within the IA teams. Client agencies have expressed high satisfaction with the services.
 *   Goes through many training sessions and job rotations. Will be undergoing overseas executive leadership programme.
 
- <img src="/images/CareersAGD/What%20Our%20People%20Say/wops-22.jpg"  alt="Simon Chew" style="width:200px;height:200px;" align="left" />“AGD offers opportunities even for non-accountancy graduate to work in interesting assignments and build up the knowledge in accounting and finance ” <br><br>**Simon Chew**<br>Senior Manager, Financial Planning
+ <img src="/images/CareersAGD/What%20Our%20People%20Say/wops-22.jpg"  alt="Simon Chew" style="width:200px;height:200px;" align="left" />“AGD offers opportunities even for non-accountancy graduate to work in interesting assignments and build up the knowledge in accounting and finance ” <br><br>**Simon Chew**<br>Deputy Director, Operating Budget & sustainability
  
 
 **Simon Chew** is a Chemical Engineer by training.
