@@ -6,7 +6,7 @@ third_nav_title: What Our People Say
 ---
 What Our People Say
 ===================
-<img src="/images/CareersAGD/Meet%20Our%20Scholars/mos-11.jpg"  alt="Justin Kong" style="width:200px;height:200px;" align="left">“If I were to sum up my journey as an AGD scholar in three words, it would be ‘exposure’, ‘rigour’ and ‘fulfilment’.” <br> <br> **Justin Kong**<br>Head, Economics Programme 2 <br>AGD Accountancy Scholar
+<img src="/images/CareersAGD/Meet%20Our%20Scholars/mos-11.jpg"  alt="Justin Kong" style="width:200px;height:200px;" align="left">“If I were to sum up my journey as an AGD scholar in three words, it would be ‘exposure’, ‘rigour’ and ‘fulfilment’.” <br> <br> **Justin Kong**<br>Head, Economics Programmes 2 <br>AGD Accountancy Scholar
 
 
 
