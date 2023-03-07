@@ -161,3 +161,8 @@ Heritage and Milestones
 * #### Head of Profession for Finance
 
 	Accountant-General has been appointed as the Head of Profession for Finance to professionalise finance officers working in the public sector.
+	
+### 2022
+
+* #### Singapore Chartered Account (CA)                     
+ Accountant-General's Department is now accredited to be an ATO under the Singapore Chartered Accountant (CA) Qualification framework and is now authorized to train candidates in their journey towards achieving CA (Singapore) designation for the next three years (expiry 26 January 2026).
