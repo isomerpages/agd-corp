@@ -2,7 +2,7 @@ collections:
   our-services:
     output: true
     order:
-      - overview.md
+      - Overview.md
       - Steward of Public Sector Finances.md
       - Provider of Financial Services.md
       - Partner of Building Capability/.keep
