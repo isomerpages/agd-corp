@@ -35,7 +35,7 @@ What Our People Say
 *   Deployed to the Treasury Directorate whereby she helped to put in policies for optimal liquidity management. She worked with MOF to monitor the performance and risks related to the Government’s assets and liabilities.
 *   Sponsored for an overseas postgraduate scholarship to read Master of Science in Accountancy and Finance in the University of Bath, UK, to equip her with the necessary accounting knowledge. Concurrently assumed the appointment of Assistant Director (Financial Assets & Liabilities/Reserves and Investments Reporting).
 *   Provided opportunities to be seconded to MAS to deepen her technical expertise in Treasury work.
-*   Building her strengths in performing policy reviews in future deployments.
+*   Building her strengths in performing policy reviews and programme implementation in future deployments.
 
 <img src="/images/CareersAGD/What%20Our%20People%20Say/wops-44.jpg"  alt="Huang SiHong" style="width:200px;height:200px;" align="left">“The roles that I have been given require me to build up my expertise beyond my accounting knowledge. It challenges me to think out of the box” <br> <br> **Huang SiHong**<br>Deputy Director, Business Excellence & Innovation
 
