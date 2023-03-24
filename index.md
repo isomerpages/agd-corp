@@ -31,7 +31,7 @@ sections:
       description: Consists of a a vast range of roles which involves examining
         financial issues at the Whole-of-Government level.
       button: Find Out More
-      image: /images/agd-careers.png
+      image: /images/Careers@AGD.png
       alt: Careers @ AGD
       url: /careers-at-agd/overview/
   - infopic:
@@ -54,7 +54,7 @@ sections:
       description: We Believe that human capital is vital to our progress.
       button: FIND OUT MORE
       url: /careers-at-agd/What-We-Offer/what-we-offer/
-      image: /images/agd-we-offers.png
+      image: /images/WhatWeOffer.png
       alt: What We Offer
   - infopic:
       subtitle: Internship
@@ -71,4 +71,3 @@ sections:
       image: /images/agd-about-us-overlay.png
       alt: About Us
 ---
-
