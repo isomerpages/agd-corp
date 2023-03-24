@@ -46,5 +46,5 @@ What Our People Say
 *   Joined AGD in 2014, under the Financial & Management Reporting Directorate.
 *   Involved in Fi@Gov -a business intelligence project to support management decision making and financial analysis.
 *   Given ample opportunities to develop himself as a young officer, from presentations to senior management, to cross-directorate initiatives.
-*   Treasured the opportunity to work with colleagues from the Value for Money branch to conceptualize preliminary ideas on how the government could measure the success of Skillsfuture in time to come.
+*   Treasured the secondment opportunities to broaden exposure.
 *   What stood out for him was not just the exposure and learning opportunities. It’s also the people and the nurturing culture that we have here at AGD.
