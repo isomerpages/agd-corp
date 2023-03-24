@@ -24,6 +24,7 @@ What Our People Say
 *   Managed cash management in the Treasury Directorate initially. Rotated to head the Salaries and Pensions Branch which ensured salaries and pensions were paid in a timely and accurate manner.
 *   Sponsored for his Singapore Qualification Programme (SQP) given his preference for work relating to numbers and desire to pursue a career in accounting. As an Approved Training Organisation under ISCA, his work experience in AGD would be relevant in meeting the requirements of SQP.
 *   Fulfilling his career aspiration in becoming a Chartered Accountant as he gets a posting to serve as a Head under the Assurance and Services group which allows him to provide assurance services to the agencies.
+*   Obtained the Chartered Accountant Certification and is seconded to other Government agencies to perform finance function.
 
 <img src="/images/CareersAGD/What%20Our%20People%20Say/wops-33.jpg"  alt="Lye Su Yin" style="width:200px;height:200px;" align="left">“As a central agency, we are involved in many Whole-of-Government projects and reviews. This helps widen my perspective and think broader” <br> <br> **Lye Su Yin**<br>Deputy Director, SkillsFuture Enterprise Credit
 
