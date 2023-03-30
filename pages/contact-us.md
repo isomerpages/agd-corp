@@ -8,15 +8,9 @@ locations:
       - "100 High Street #06-01"
       - The Treasury
       - Singapore 179434
-    operating_hours:
-      - days: Mon - Fri
-        time: ""
-        description: |-
-          9:00 am – 12.30 pm,
-          1:30 pm – 5.00 pm
-          Closed on Sat, Sun and Public Holidays
+    operating_hours: []
     maps_link: ""
-    title: Accountant-Generals Department
+    title: " "
 contacts:
   - content:
       - phone: ""
@@ -53,14 +47,20 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: <html>For frequently asked questions, check out our <a href="/faq/">FAQs
-          page</a>.</html>
-    title: FAQs
+      - other: <b>Mon - Fri:</b> <br> 9:00 am – 12.30 pm, 1:30 pm – 5.00 pm <br> Closed
+          on Sat, Sun and Public Holidays
+    title: Operating Hours
   - content:
       - phone: ""
       - email: ""
       - other: ""
     title: " "
+  - content:
+      - phone: ""
+      - email: ""
+      - other: <html>For frequently asked questions, check out our <a href="/faq/">FAQs
+          page</a>.</html>
+    title: FAQs
   - content:
       - phone: ""
       - email: ""
