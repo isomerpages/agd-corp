@@ -28,7 +28,7 @@ sections:
       title: CAREERS @ AGD
   - infopic:
       subtitle: Careers @ AGD
-      description: Consists of a a vast range of roles which involves examining
+      description: Consists of a vast range of roles which involves examining
         financial issues at the Whole-of-Government level.
       button: Find Out More
       image: /images/Careers.png
