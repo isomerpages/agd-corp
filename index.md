@@ -36,7 +36,7 @@ sections:
       url: /careers-at-agd/overview/
   - infopic:
       subtitle: Scholarship
-      description: we offer scholarships for those seeking to achieve greater heights
+      description: We offer scholarships for those seeking to achieve greater heights
         in a rewarding career with AGD.
       button: Find Out More
       url: /careers-at-agd/scholarship/
@@ -51,7 +51,7 @@ sections:
       alt: Image alt text
   - infopic:
       subtitle: What We Offer
-      description: We Believe that human capital is vital to our progress.
+      description: We believe that human capital is vital to our progress.
       button: FIND OUT MORE
       url: /careers-at-agd/What-We-Offer/what-we-offer/
       image: /images/Offer.png
