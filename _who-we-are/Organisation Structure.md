@@ -3,7 +3,6 @@ title: Organisation Structure
 permalink: /who-we-are/organisation-structure/
 description: Organisation Structure
 ---
-
 Organisation Structure
 ======================
 
@@ -15,11 +14,13 @@ This group oversees the **Internal Audit** Shared Services Directorate and the
 
 ### Financial Reporting and Operations Group
 
-This group oversees the central finance operations within 2 directorates – the Financial Reporting Directorate, and the Financial Operations Directorate.  
+This group oversees the central finance operations within 2 directorates – the Financial Reporting Directorate, and the Financial Operations Directorate.
   
-The Financial Reporting Directorate prepares the Government Financial Statements and designs and implements policies and controls for the Government’s financial and accounting systems. The Financial Operations Directorate manages the Government’s cash, receipts and payments to suppliers, employees and pensioners.   
+The Financial Reporting Directorate prepares the Government Financial Statements and designs and implements policies and controls for the Government’s financial and accounting systems. 
   
-This setup helps to optimise resources as well as provides the strategic focus and pushes for seamless collaboration across the different Directorates to improve service delivery. 
+The Financial Operations Directorate manages the Government’s cash, receipts and payments to suppliers, employees and pensioners. 
+
+This setup helps to optimise resources as well as provides the strategic focus and pushes for seamless collaboration across the different Directorates to improve service delivery.
 
 ### Finance Transformation Group
 
@@ -27,13 +28,23 @@ This group considers new emerging capabilities, drives the strategic development
 
 ### Treasury, Technical and Analytics Group
 
-This group oversees the Treasury Directorate, Technical Directorate and the Finance Data & Analytics Directorate. The Treasury Directorate supports the Ministry of Finance in the effective management of the Government’s balance sheet and monitors the performance and risk of Government’s assets. The Technical Directorate is involved in setting accounting standards, policies and practices for compliance by Ministries and Statutory Boards. The Finance Data & Analytics Directorate spearheads the development and administration of business intelligence systems and data analytics projects.  
-  
-This setup aims to strengthen financial stewardship and resource optimisation through harnessing analytics. 
+This group oversees the Treasury Directorate, Technical Directorate and the Finance Data & Analytics Directorate.
+
+The Treasury Directorate supports the Ministry of Finance in the effective management of the Government’s balance sheet and monitors the performance and risk of Government’s assets.
+
+The Technical Directorate is involved in setting accounting standards, policies and practices for compliance by Ministries and Statutory Boards.
+
+The Finance Data & Analytics Directorate spearheads the development and administration of business intelligence systems and data analytics projects. This setup aims to strengthen financial stewardship and resource optimisation through harnessing analytics.
 
 ### People and Organisation Group
 
-This group oversees the Finance & Strategic Planning Directorate and Human Resources Directorate. The Finance & Strategic Planning Directorate oversees the corporate requirements of AGD in the areas of finance, procurement, corporate communication and drives strategic planning in AGD. The Human Resources Directorate oversees the people development capabilities and organisational development. The Finance Workforce Planning Branch sited within AGD Human Resources looks into developing the career pathways, providing career development in structured job rotations and talent attachment programmes, facilitating succession planning and rationalising of finance positions in the wider public sector.
+This group oversees the Finance & Strategic Planning Directorate and Human Resources Directorate. 
+
+The Finance & Strategic Planning Directorate oversees the corporate requirements of AGD in the areas of finance, procurement, corporate communication and drives strategic planning in AGD. 
+
+The Human Resources Directorate oversees the people development capabilities and organisational development. 
+
+The Finance Workforce Planning Branch sited within AGD Human Resources looks into developing the career pathways, providing career development in structured job rotations and talent attachment programmes, facilitating succession planning and rationalising of finance positions in the wider public sector.
 
 Organisation Chart
 ------------------

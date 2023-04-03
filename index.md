@@ -28,15 +28,15 @@ sections:
       title: CAREERS @ AGD
   - infopic:
       subtitle: Careers @ AGD
-      description: Consists of a a vast range of roles which involves examining
+      description: Consists of a vast range of roles which involves examining
         financial issues at the Whole-of-Government level.
       button: Find Out More
-      image: /images/agd-careers.png
+      image: /images/Careers.png
       alt: Careers @ AGD
       url: /careers-at-agd/overview/
   - infopic:
       subtitle: Scholarship
-      description: we offer scholarships for those seeking to achieve greater heights
+      description: We offer scholarships for those seeking to achieve greater heights
         in a rewarding career with AGD.
       button: Find Out More
       url: /careers-at-agd/scholarship/
@@ -51,10 +51,10 @@ sections:
       alt: Image alt text
   - infopic:
       subtitle: What We Offer
-      description: We Believe that human capital is vital to our progress.
+      description: We believe that human capital is vital to our progress.
       button: FIND OUT MORE
       url: /careers-at-agd/What-We-Offer/what-we-offer/
-      image: /images/agd-we-offers.png
+      image: /images/Offer.png
       alt: What We Offer
   - infopic:
       subtitle: Internship
@@ -71,4 +71,3 @@ sections:
       image: /images/agd-about-us-overlay.png
       alt: About Us
 ---
-

@@ -8,15 +8,9 @@ locations:
       - "100 High Street #06-01"
       - The Treasury
       - Singapore 179434
-    operating_hours:
-      - days: Mon - Fri
-        time: ""
-        description: |-
-          8:30 am – 12.30 pm,
-          1:30 pm – 6.00 pm
-          Closed on Sat, Sun and Public Holidays
+    operating_hours: []
     maps_link: ""
-    title: Accountant-Generals Department
+    title: " "
 contacts:
   - content:
       - phone: ""
@@ -31,7 +25,9 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: ""
+      - other: If you wish to give any feedback or suggestions on how we can improve our
+          services, you can call us during the operating hours of the QSM Line
+          stated below, or email our Quality Service Management team
     title: Feedback on Service Quality
   - content:
       - phone: ""
@@ -44,21 +40,27 @@ contacts:
       - other: ""
     title: Email
   - content:
-      - phone: 1 800 180 0180
+      - phone: 1 800 337 7639
       - email: ""
       - other: <br>
-    title: Toll Free
+    title: Telephone
+  - content:
+      - phone: ""
+      - email: ""
+      - other: <b>Mon - Fri:</b> <br> 9:00 am – 12.30 pm, 1:30 pm – 5.00 pm <br> Closed
+          on Sat, Sun and Public Holidays
+    title: Operating Hours
+  - content:
+      - phone: ""
+      - email: ""
+      - other: ""
+    title: " "
   - content:
       - phone: ""
       - email: ""
       - other: <html>For frequently asked questions, check out our <a href="/faq/">FAQs
           page</a>.</html>
     title: FAQs
-  - content:
-      - phone: ""
-      - email: ""
-      - other: ""
-    title: " "
   - content:
       - phone: ""
       - email: ""

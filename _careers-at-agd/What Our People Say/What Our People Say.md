@@ -6,7 +6,7 @@ third_nav_title: What Our People Say
 ---
 What Our People Say
 ===================
-<img src="/images/CareersAGD/What%20Our%20People%20Say/wops-12.jpg"  alt="Lee Mei Chern" style="width:auto" align="left" /> “Being able to make a difference and help raise corporate governance in the public sector makes my work extremely exciting and fulfilling” <br> <br> **Lee Mei Chern**<br>Deputy Accountant-General
+<img src="/images/CareersAGD/What%20Our%20People%20Say/wops-12.jpg"  alt="Lee Mei Chern" style="width:auto" align="left" />“Being able to make a difference and help strengthen corporate governance and improve efficiency in financial processing in the public sector makes my work extremely exciting and fulfilling.” <br> <br> **Lee Mei Chern**<br>Deputy Accountant-General
 
 **Lee Mei Chern** is presently the Deputy Accountant-General in AGD.
 
@@ -24,6 +24,7 @@ What Our People Say
 *   Managed cash management in the Treasury Directorate initially. Rotated to head the Salaries and Pensions Branch which ensured salaries and pensions were paid in a timely and accurate manner.
 *   Sponsored for his Singapore Qualification Programme (SQP) given his preference for work relating to numbers and desire to pursue a career in accounting. As an Approved Training Organisation under ISCA, his work experience in AGD would be relevant in meeting the requirements of SQP.
 *   Fulfilling his career aspiration in becoming a Chartered Accountant as he gets a posting to serve as a Head under the Assurance and Services group which allows him to provide assurance services to the agencies.
+*   Obtained the Chartered Accountant Certification and is seconded to other Government agencies to perform finance function.
 
 <img src="/images/CareersAGD/What%20Our%20People%20Say/wops-33.jpg"  alt="Lye Su Yin" style="width:200px;height:200px;" align="left">“As a central agency, we are involved in many Whole-of-Government projects and reviews. This helps widen my perspective and think broader” <br> <br> **Lye Su Yin**<br>Deputy Director, SkillsFuture Enterprise Credit
 
@@ -34,7 +35,7 @@ What Our People Say
 *   Deployed to the Treasury Directorate whereby she helped to put in policies for optimal liquidity management. She worked with MOF to monitor the performance and risks related to the Government’s assets and liabilities.
 *   Sponsored for an overseas postgraduate scholarship to read Master of Science in Accountancy and Finance in the University of Bath, UK, to equip her with the necessary accounting knowledge. Concurrently assumed the appointment of Assistant Director (Financial Assets & Liabilities/Reserves and Investments Reporting).
 *   Provided opportunities to be seconded to MAS to deepen her technical expertise in Treasury work.
-*   Building her strengths in performing policy reviews in future deployments.
+*   Building her strengths in performing policy reviews and programme implementation in future deployments.
 
 <img src="/images/CareersAGD/What%20Our%20People%20Say/wops-44.jpg"  alt="Huang SiHong" style="width:200px;height:200px;" align="left">“The roles that I have been given require me to build up my expertise beyond my accounting knowledge. It challenges me to think out of the box” <br> <br> **Huang SiHong**<br>Deputy Director, Business Excellence & Innovation
 
@@ -45,5 +46,5 @@ What Our People Say
 *   Joined AGD in 2014, under the Financial & Management Reporting Directorate.
 *   Involved in Fi@Gov -a business intelligence project to support management decision making and financial analysis.
 *   Given ample opportunities to develop himself as a young officer, from presentations to senior management, to cross-directorate initiatives.
-*   Treasured the opportunity to work with colleagues from the Value for Money branch to conceptualize preliminary ideas on how the government could measure the success of Skillsfuture in time to come.
+*   Treasured the secondment opportunities to broaden exposure.
 *   What stood out for him was not just the exposure and learning opportunities. It’s also the people and the nurturing culture that we have here at AGD.
