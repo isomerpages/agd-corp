@@ -1,5 +1,5 @@
 ---
-title: Community Chest Awards 2019
+title: Community Chest Awards
 permalink: /news-and-events/resource-category/Awards-Accolades/2019-community-chest-awards-2019/
 date: 2019-10-09
 layout: post
@@ -9,7 +9,7 @@ image: ""
 
 ### Awards & Accolades
 
-#### Community Chest Awards 2019
+#### Community Chest Awards from 2019
 
 **09 October 2019**
 
