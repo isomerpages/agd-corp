@@ -18,9 +18,7 @@ This group oversees the central finance operations within 2 directorates – the
   
 The Financial Reporting Directorate prepares the Government Financial Statements and designs and implements policies and controls for the Government’s financial and accounting systems. 
   
-The Financial Operations Directorate manages the Government’s cash, receipts and payments to suppliers, employees and pensioners. 
-
-This setup helps to optimise resources as well as provides the strategic focus and pushes for seamless collaboration across the different Directorates to improve service delivery.
+The Financial Operations Directorate manages the Government’s cash, receipts and payments to suppliers, employees and pensioners. This setup helps to optimise resources as well as provides the strategic focus and pushes for seamless collaboration across the different Directorates to improve service delivery.
 
 ### Finance Transformation Group
 
