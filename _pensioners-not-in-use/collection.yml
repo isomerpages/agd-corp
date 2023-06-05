@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Pensioners/.keep
-      - Pensioners/Pensioner’s Handbook.md
       - Vendors/.keep
       - Vendors/Vendors@Gov App.md
       - Private Clinics/.keep
