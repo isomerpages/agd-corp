@@ -55,7 +55,3 @@ If you are under the Comprehensive Co-Payment Scheme (CCS) or Medisave-cum-Subsi
 #### Where can I get more information on Vendors@Gov?
 
 You can head to [www.vendors.gov.sg](https://www.vendors.gov.sg/). Alternatively, you can find out more at the [Vendors@Gov FAQ page](https://va.ecitizen.gov.sg/cfp/customerPages/AGD_new/explorefaq.aspx).
-
-#### I would like to enrol my clinic on MBS@Gov. Where can I get information on MBS@Gov?
-
-You can register your clinic at the [MBS@Gov portal](https://www.mbs.gov.sg/register_new_gp.asp). Alternatively, you can find out more at the [MBS@Gov FAQ page](https://www.mbs.gov.sg/MBS_faq.html).
