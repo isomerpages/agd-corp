@@ -9,7 +9,7 @@ FY2022/2023 Government Financial Statements
 The Government Financial Statements for the financial year 2022/2023 were prepared in accordance with section 18 of the Financial Procedure Act 1966. 
 
 
-*   [FY2022/2023 Government Financial Statements](/files/Publications/fy2022_government_financial_statements.pdf)
+*   [FY2022/2023 Government Financial Statements](/files/Publications/fy2022_government_financial_statements.pdf) (pdf 1,715 KB)
 
 ### Archives of the Government Financial Statements
 
