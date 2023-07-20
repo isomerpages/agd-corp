@@ -3,14 +3,17 @@ title: Government Financial Statements
 permalink: /publications/government-financial-statements/
 description: Government Financial Statements
 ---
-FY2021/2022 Government Financial Statements
+FY2022/2023 Government Financial Statements
 ==============================================
 
-The Government Financial Statements for the financial year 2021/2022 were prepared in accordance with section 18 of the Financial Procedure Act 1966. 
+The Government Financial Statements for the financial year 2022/2023 were prepared in accordance with section 18 of the Financial Procedure Act 1966. 
 
-*   [FY2021/2022 Government Financial Statements](/files/Publications/fy2021-government-financial-statements.pdf) (pdf 3,509 KB)
+
+*   [FY2022/2023 Government Financial Statements](/files/Publications/fy2022_government_financial_statements.pdf) (pdf 1,715 KB)
 
 ### Archives of the Government Financial Statements
+
+[FY2021/2022 Government Financial Statements](/files/Publications/fy2021-government-financial-statements.pdf) (pdf 3,509 KB)
 
 [FY2020/2021 Government Financial Statements](/files/Publications/FY2020-Government-Financial-Statements.pdf) (pdf 3,450 KB)
 
