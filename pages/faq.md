@@ -33,6 +33,8 @@ AGD is an Accredited Training Organisation (ATO) and the working experience at A
 Pensioners and Vendors
 ======================
 
+[](/files/pensioner%20handbook.pdf)
+
 #### How can I apply for my electronic Civil Service card (e-CS card)?
 
 Pensioners and dependants can produce their e-CS cards at Government, Restructured or Community Hospitals, Polyclinics and MBS@Gov clinics, to enjoy the benefits of not having to pay for their treatment upfront. To apply for the e-CS card, pensioners can login to PaC@Gov mobile app using SingPass and submit a request for e-CS card. Pensioners will be required to indicate their preferred email in the request to receive the e-CS card.
