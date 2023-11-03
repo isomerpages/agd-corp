@@ -58,8 +58,8 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: <html>For frequently asked questions, check out our <a href="/faq/">FAQs
-          page</a>.</html>
+      - other: For frequently asked questions, check out our <a href="/faq/">FAQs
+          page</a>.
     title: FAQs
   - content:
       - phone: ""
@@ -76,17 +76,17 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: <html><a
+      - other: <a
           href="https://app.helpdesk.agd.gov.sg/public_user/common/Helpdesk.aspx?c9osI0quCY6Ly9siZW8epKc2QbDMoJJw9LSQzrVc7kX+xOb+nc3OK4IelfsO5ZGd">Vendors@Gov
-          Helpdesk</a></html>
+          Helpdesk</a>
     title: For Vendors
   - content:
       - phone: ""
       - email: ""
-      - other: <html><a
+      - other: <a
           href="https://app.helpdesk.agd.gov.sg/public_user/common/Helpdesk.aspx?Cs91gGZjsuz/ndWcDIkGhKw0VAx37y8uLLcpTMec57Sn/wDM7lEgQ8unvajDYEUx">Pension
-          Helpdesk</a></html>
-    title: "For Pensioners\t"
+          Helpdesk</a>
+    title: For Pensioners
   - content:
       - phone: ""
       - email: ""
@@ -100,23 +100,16 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: '<html> <a
-          href="https://app.helpdesk.agd.gov.sg/public_user/vendor/pac/helpdeskmain.html">PaC@Gov
-          Helpdesk</a><br> '
-    title: " "
-  - content:
-      - phone: ""
-      - email: ""
-      - other: '<a
+      - other: <a
           href="https://app.helpdesk.agd.gov.sg/public_user/common/registerTicket.aspx?AreaParm=Financial%20System&SubjectParm=Accounts%20Payable">NFS@Gov
-          Helpdesk</a> '
+          Helpdesk</a>
     title: " "
   - content:
       - phone: ""
       - email: ""
       - other: <a
           href="https://app.helpdesk.agd.gov.sg/public_user/common/registerticket.aspx?areaparm=Fi@Gov%20System&subjectparm=Security%20Access">Fi@Gov
-          Helpdesk</a><br> </html>
+          Helpdesk</a><br>
     title: " "
   - content:
       - phone: ""
@@ -147,4 +140,5 @@ contacts:
           with something you know, such as your password, and something you have
           - like your phone or token.
     title: " "
+feedback: ""
 ---
