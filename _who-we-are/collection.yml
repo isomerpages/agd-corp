@@ -1,0 +1,8 @@
+collections:
+  who-we-are:
+    output: true
+    order:
+      - Overview.md
+      - Mission, Vision & Values.md
+      - Organisation Structure.md
+      - Heritage and Milestones.md

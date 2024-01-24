@@ -1,0 +1,6 @@
+collections:
+  vendors:
+    output: true
+    order:
+      - Vendors@Gov.md
+      - Vendor’s Manual.md
