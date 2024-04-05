@@ -31,18 +31,14 @@ contacts:
     title: Feedback on Service Quality
   - content:
       - phone: ""
-      - email: ""
-      - other: ""
-    title: " "
-  - content:
-      - phone: ""
       - email: AGD_QSM@agd.gov.sg
       - other: ""
     title: Email
   - content:
       - phone: 1 800 337 7639
       - email: ""
-      - other: <br>
+      - other: Please note that airtime charges will apply for mobile calls made to call
+          our AGD QSM line.
     title: Telephone
   - content:
       - phone: ""
@@ -50,11 +46,6 @@ contacts:
       - other: <b>Mon - Fri:</b> <br> 9:00 am – 12.30 pm, 1:30 pm – 5.00 pm <br> Closed
           on Sat, Sun and Public Holidays
     title: Operating Hours
-  - content:
-      - phone: ""
-      - email: ""
-      - other: ""
-    title: " "
   - content:
       - phone: ""
       - email: ""
@@ -68,11 +59,6 @@ contacts:
           any questions, please send us your queries via the following links. We
           will respond to your query by the next working day.<br>
     title: Enquiries
-  - content:
-      - phone: ""
-      - email: ""
-      - other: ""
-    title: " "
   - content:
       - phone: ""
       - email: ""
@@ -95,11 +81,6 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: ""
-    title: " "
-  - content:
-      - phone: ""
-      - email: ""
       - other: <a
           href="https://app.helpdesk.agd.gov.sg/public_user/common/registerTicket.aspx?AreaParm=Financial%20System&SubjectParm=Accounts%20Payable">NFS@Gov
           Helpdesk</a>
@@ -110,11 +91,6 @@ contacts:
       - other: <a
           href="https://app.helpdesk.agd.gov.sg/public_user/common/registerticket.aspx?areaparm=Fi@Gov%20System&subjectparm=Security%20Access">Fi@Gov
           Helpdesk</a><br>
-    title: " "
-  - content:
-      - phone: ""
-      - email: ""
-      - other: ""
     title: " "
   - content:
       - phone: ""
