@@ -37,8 +37,9 @@ contacts:
   - content:
       - phone: 1 800 337 7639
       - email: ""
-      - other: Please note that airtime charges will apply for mobile calls made to call
-          our AGD QSM line.
+      - other: Kindly note that airtime charges apply for mobile calls to 1800 service
+          lines and calls are free of charge only if made from regular land
+          lines.
     title: Telephone
   - content:
       - phone: ""
