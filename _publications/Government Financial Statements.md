@@ -9,7 +9,7 @@ variant: tiptap
 prepared in accordance with section 18 of the Financial Procedure Act 1966.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Publications/FY2023_Government_Financial_Statements.pdf" rel="noopener noreferrer nofollow" target="_blank">FY2023/2024 Government Financial Statements</a> (pdf
+<p><a href="/files/Publications/FY2023_Government_Financial_Statements.pdf" rel="noopener noreferrer nofollow" target="_blank">FY2023/2024 Government Financial Statfileements</a> (pdf
 1,715 KB)</p>
 </li>
 </ul>
