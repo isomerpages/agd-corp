@@ -4,7 +4,7 @@ permalink: /publications/government-financial-statements/
 description: Government Financial Statements
 variant: tiptap
 ---
-<h1> FY2023/2024 Government Financial Statements</h1>
+<h1>FY2023/2024 Government Financial Statements</h1>
 <p>The Government Financial Statements for the financial year 2023/2024 were
 prepared in accordance with section 18 of the Financial Procedure Act 1966.</p>
 <ul data-tight="true" class="tight">
