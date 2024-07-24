@@ -4,7 +4,7 @@ permalink: /publications/government-financial-statements/
 description: Government Financial Statements
 variant: tiptap
 ---
-<h1>FY2023/2024 Government Financial Statements</h1>
+<h1> FY2023/2024 Government Financial Statements</h1>
 <p>The Government Financial Statements for the financial year 2023/2024 were
 prepared in accordance with section 18 of the Financial Procedure Act 1966.</p>
 <ul data-tight="true" class="tight">
@@ -14,11 +14,13 @@ prepared in accordance with section 18 of the Financial Procedure Act 1966.</p>
 </li>
 </ul>
 <h3>Archives of the Government Financial Statements</h3>
-<p><a href="/files/Publications/fy2022_government_financial_statements.pdf" rel="noopener noreferrer nofollow" target="_blank">FY2022/2023 Government Financial Statements</a> (pdf
+<p><a href="/files/Publications/fy2022_government_financial_statements.pdf" rel="noopener noreferrer nofollow" target="_blank">FY2021/2022 Government Financial Statements</a> (pdf
 3,509 KB)</p>
-<p><a href="/files/Publications/fy2021-government-financial-statements.pdf" rel="noopener noreferrer nofollow" target="_blank">FY2020/2021 Government Financial Statements </a>(pdf
+<p><a href="/files/Publications/fy2021-government-financial-statements.pdf" rel="noopener noreferrer nofollow" target="_blank">FY2020/2021 Government Financial Statements</a>(pdf
 3,450 KB)</p>
-<p><a href="/files/Publications/FY2020-Government-Financial-Statements.pdf" rel="noopener noreferrer nofollow" target="_blank">FY2020/2021 Government Financial Statements </a>(pdf
+<p><a href="/files/Publications/FY2020-Government-Financial-Statements.pdf" rel="noopener noreferrer nofollow" target="_blank">FY2020/2021 Government Financial Statements</a>(pdf
+3,450 KB)</p>
+<p><a href="/files/Publications/FY2019-Government-Financial-Statements.pdf" rel="noopener noreferrer nofollow" target="_blank">FY2019/2020 Government Financial Statements</a>(pdf
 3,450 KB)</p>
 <h3>Frequently Asked Questions</h3>
 <p>Q1. Where can I find the FY2018 Government Financial Statements?</p>
