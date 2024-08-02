@@ -1,6 +1,7 @@
 ---
 title: FAQ
 permalink: /faq/
+variant: markdown
 ---
 General
 =======
@@ -20,7 +21,7 @@ Applications for AGD’s job openings can be done through [Careers@Gov](https:/
 
 #### I am keen to undergo an internship at AGD, how do I apply?
 
-Drop HR an email at AGD\_HR@agd.gov.sg and we will get in touch with you.
+Drop HR an email at Internship@agd.gov.sg and we will get in touch with you.
 
 #### Would there be training provided if I join AGD as a fresh graduate?
 
