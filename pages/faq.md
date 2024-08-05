@@ -57,4 +57,4 @@ If you are under the Comprehensive Co-Payment Scheme (CCS) or Medisave-cum-Subsi
 
 #### Where can I get more information on Vendors@Gov?
 
-You can head to [www.vendors.gov.sg](https://www.vendors.gov.sg/). Alternatively, you can find out more at the [Vendors@Gov FAQ page](https://va.ecitizen.gov.sg/cfp/customerPages/AGD_new/explorefaq.aspx).
+You can head to [www.vendors.gov.sg](https://www.vendors.gov.sg/). Alternatively, you can find out more at the [Vendors@Gov FAQ page](https://www.vendors.gov.sg/Help/FAQs.aspx).
