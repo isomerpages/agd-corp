@@ -38,11 +38,11 @@ Pensioners and Vendors
 
 #### How can I apply for my electronic Civil Service card (e-CS card)?
 
-Pensioners and dependants can produce their e-CS cards at Government, Restructured or Community Hospitals, Polyclinics and MBS@Gov clinics, to enjoy the benefits of not having to pay for their treatment upfront. To apply for the e-CS card, pensioners can login to PaC@Gov mobile app using SingPass and submit a request for e-CS card. Pensioners will be required to indicate their preferred email in the request to receive the e-CS card.
+Pensioners and dependants can produce their e-CS cards at Government, Restructured or Community Hospitals, Polyclinics and MBS@Gov clinics, to enjoy the benefits of not having to pay for their treatment upfront. To apply for the e-CS card, pensioners can login to HRP Portal using SingPass and submit a request for e-CS card. Pensioners will be required to indicate their preferred email in the request to receive the e-CS card.
 
 #### From my bank statement, I noticed that there is a deduction from my monthly pensions and would like to understand the reasons for it. How can I view the breakdown of my monthly pensions?
 
-Depending on your medical scheme, you may have deductions for the co-payment share of your medical bills. Pensioners can refer to their Statement of Account for the breakdown of their monthly pensions. The Statement of Account can be retrieved from Pensioner Portal or PaC@Gov mobile app after payday at the end of the month. For more information on your pension and medical benefits, you may also refer to the Pensioner’s Handbook, which can be downloaded from Pensioner Portal.
+Depending on your medical scheme, you may have deductions for the co-payment share of your medical bills. Pensioners can refer to their Statement of Account for the breakdown of their monthly pensions. The Statement of Account can be retrieved from Pensioner Portal or HRP Portal after payday at the end of the month. For more information on your pension and medical benefits, you may also refer to the Pensioner’s Handbook, which can be downloaded from Pensioner Portal.
 
 #### As a pensioner, do I need to pay for consultation fees when I visit a specialist outpatient clinic?
 
