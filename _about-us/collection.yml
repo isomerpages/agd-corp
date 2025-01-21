@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Role/Overview.md
       - Our Role/.keep
       - Overview.md
       - Mission, Vision & Values.md
