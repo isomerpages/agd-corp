@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Role/Partner of Building Capabilities.md
       - Our Role/Provider of Financial Services.md
       - Our Role/Steward of Public Sector Finances.md
       - Our Role/Overview.md
