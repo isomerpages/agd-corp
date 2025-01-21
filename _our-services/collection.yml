@@ -2,7 +2,6 @@ collections:
   our-services:
     output: true
     order:
-      - Provider of Financial Services.md
       - Partner of Building Capability/.keep
       - Partner of Building Capability/Partner of Building Capabilities.md
       - Partner of Building Capability/Finance Academy.md
