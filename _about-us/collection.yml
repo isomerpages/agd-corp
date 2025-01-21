@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Role/Provider of Financial Services.md
       - Our Role/Steward of Public Sector Finances.md
       - Our Role/Overview.md
       - Our Role/.keep
