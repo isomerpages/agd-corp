@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Leaders.md
       - Our Role/Finance Academy.md
       - Our Role/Partner of Building Capabilities.md
       - Our Role/Provider of Financial Services.md
