@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Partner of Building Capability/.keep
-      - Partner of Building Capability/Partner of Building Capabilities.md
       - Partner of Building Capability/Finance Academy.md
