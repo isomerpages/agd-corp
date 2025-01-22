@@ -26,8 +26,8 @@ sections:
       title: Accountant-General’s Department
       subtitle: Who we are
       id: infobar
-      description: AGD transforms Public Sector Finance and partners with government
-        agencies to make Singapore a better place through Finance.
+      description: Developing finance leaders at the Centre of Public Sector Finance,
+        Singapore
       button: About AGD
       url: https://www.agd.gov.sg/who-we-are/overview/
   - infobar:
