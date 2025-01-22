@@ -60,7 +60,7 @@ sections:
       description: We believe that human capital is vital to our progress.
       button: FIND OUT MORE
       url: /careers-at-agd/What-We-Offer/what-we-offer/
-      image: /images/SC1_9138_p.jpg
+      image: /images/Website_Dsign___Website6.png
       alt: What We Offer
   - infopic:
       subtitle: Internship
