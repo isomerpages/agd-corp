@@ -21,6 +21,7 @@ sections:
         - title: Vendors
           description: ""
           url: /Vendors/vendors-gov/
+      variant: center
   - resources:
       title: NEWS & EVENTS
       button: FIND OUT MORE
@@ -70,4 +71,11 @@ sections:
       url: /who-we-are/overview/
       image: /images/agd-about-us-overlay.png
       alt: About Us
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
