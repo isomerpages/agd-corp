@@ -3,8 +3,9 @@ title: Scholarship
 permalink: /careers-at-agd/scholarship/
 description: Scholarship
 third_nav_title: Explore Scholarships
+variant: markdown
 ---
-Scholarship
+PSC (Public Finance) Scholarship
 ===========
 
 If you are looking to have a hand in shaping finance and accounting policies in the Civil Service, we offer scholarships for those seeking to achieve greater heights in a rewarding career with AGD.
