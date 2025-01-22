@@ -2,6 +2,7 @@ collections:
   careers-at-agd:
     output: true
     order:
+      - Life at AGD/.keep
       - Explore Careers/Join Us.md
       - Explore Careers/Internship.md
       - Explore Careers/Finance Associates Programme.md
