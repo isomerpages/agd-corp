@@ -46,21 +46,21 @@ sections:
         in a rewarding career with AGD.
       button: Find Out More
       url: /careers-at-agd/scholarship/
-      image: /images/agd-scholarship.png
+      image: /images/SC1_8938_p.jpg
       alt: Image alt text
   - infopic:
       subtitle: What Our People Say
       description: Our People are our Greatest Testimonies.
       button: Find Out More
       url: /careers-at-agd/What-Our-People-Say/what-our-people-say/
-      image: /images/agd-people-say.png
+      image: /images/SC1_8812.jpg
       alt: Image alt text
   - infopic:
       subtitle: What We Offer
       description: We believe that human capital is vital to our progress.
       button: FIND OUT MORE
       url: /careers-at-agd/What-We-Offer/what-we-offer/
-      image: /images/Offer.png
+      image: /images/SC1_9138_p.jpg
       alt: What We Offer
   - infopic:
       subtitle: Internship
