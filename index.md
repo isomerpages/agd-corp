@@ -68,7 +68,7 @@ sections:
         experience in accounting and finance.
       button: FIND OUT MORE
       url: /careers-at-agd/internship/
-      image: /images/agd-intership.png
+      image: /images/SC1_8776.jpg
       alt: Internship
   - resources:
       title: NEWS & EVENTS
