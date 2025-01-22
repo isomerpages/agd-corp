@@ -2,6 +2,7 @@ collections:
   careers-at-agd:
     output: true
     order:
+      - Explore Scholarships/AGD Award.md
       - Explore Scholarships/Scholarship.md
       - Explore Scholarships/.keep
       - Life at AGD/.keep
