@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Explore Careers/.keep
-      - Overview.md
       - Finance Associates Programme.md
       - What We Offer/.keep
       - What We Offer/What We Offer.md
