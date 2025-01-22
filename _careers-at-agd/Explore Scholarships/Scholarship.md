@@ -5,7 +5,7 @@ description: Scholarship
 third_nav_title: Explore Scholarships
 variant: markdown
 ---
-PSC (Public Finance) Scholarship
+AGD Accountancy Scholarship
 ===========
 
 If you are looking to have a hand in shaping finance and accounting policies in the Civil Service, we offer scholarships for those seeking to achieve greater heights in a rewarding career with AGD.
