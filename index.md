@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/SC1_9055_p.jpg
+      background: /images/SC1_9055_p3.jpg
       key_highlights:
         - title: About AGD
           description: ""
