@@ -14,3 +14,7 @@ links:
     collection: publications
   - title: Contact Us
     url: /contact-us/
+  - title: Quick Links
+    collection: quick-links
+  - title: New single page
+    url: /permalink
