@@ -65,3 +65,10 @@ and statutory boards, in the first six to seven years to equip Finance
 Associates with the necessary experiences and skillsets through a spectrum
 of functions and areas to prepare them to take on supervisory roles in
 the future.</p>
+<p></p>
+<h3>How To Apply</h3>
+<p>Click on the <a href="https://safe.menlosecurity.com/https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html" rel="noopener nofollow" target="_blank">link</a> appended
+and select 'Accountant-General's Department' under 'Agency'. We look forward
+to receiving your application.</p>
+<p></p>
+<p></p>
