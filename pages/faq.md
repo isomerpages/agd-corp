@@ -25,7 +25,7 @@ Drop HR an email at Internship@agd.gov.sg and we will get in touch with you.
 
 #### Would there be training provided if I join AGD as a fresh graduate?
 
-Fresh graduates, as well as new hires with less than 3 years of working experience, will undergo our 1-year AGD Associates Programme. Officers will not only attend 3 phases of trainings but also take part in different team bonding activities. More information can be found here.
+Fresh graduates, as well as new hires with less than 3 years of working experience, will undergo our 2-year AGD Associates Programme. Officers will not only attend 3 phases of trainings but also take part in different team bonding activities. More information can be found here.
 
 #### Will the experience in AGD be recognised for ISCA membership and/or Singapore Chartered Accountant Qualification?
 
