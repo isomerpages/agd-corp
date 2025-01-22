@@ -11,21 +11,37 @@ The Programme allows our associates to systematically acquire strong foundations
 in key domain areas of finance, operations and policy formulation across
 the Whole-of-Government.</p>
 <p>Fresh graduates joining AGD under the programme will undergo a 12-month
-developmental phase comprising an expanded induction programme and 2 to
-3 rotational stints of 4 - 6 months each across different finance functions.
-This will allow them to build up their competencies and accelerate career
-development as well as to take on leadership responsibilities early in
-their career.</p>
+developmental phase comprising an expanded induction programme and 2 rotational
+stints of 1 year each across different finance functions. This will allow
+them to build up their competencies and accelerate career development as
+well as to take on leadership responsibilities early in their career.</p>
 <p></p>
 <h3>Requirements</h3>
-<p>S</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Singapore Citizen</p>
+</li>
+<li>
+<p>A degree from a recognised university in any discipline</p>
+</li>
+<li>
+<p>Good university results and co-curricular records</p>
+</li>
+<li>
+<p>Leadership potential, strong interpersonal skills and passion to make
+a meaningful impact</p>
+</li>
+</ul>
 <p></p>
 <h3>Selection Process</h3>
-<p></p>
-<h3>Journey of a Finance Associate over a 1-Year Finance Associates Programme</h3>
+<p>To select the best talents to join our Finance Associate Programme, our
+selection process evaluates candidates based on their competencies and
+personal qualities through a series of interviews and an assessment centre.</p>
+<h3>Journey of a Finance Associate over a 2-Year Finance Associates Programme</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Career AGD Associates Programme" src="/images/CareersAGD/career-agd-associates-programme.jpg">
 </div>
+<p>*need to update infographic</p>
 <h3>Expanded Induction Programme</h3>
 <p>The expanded induction programme comprises three modules - Basic, Foundational
 and Developmental – which the Finance Associates will undergo in their
@@ -67,8 +83,8 @@ of functions and areas to prepare them to take on supervisory roles in
 the future.</p>
 <p></p>
 <h3>How To Apply</h3>
-<p>Click on the <a href="https://safe.menlosecurity.com/https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html" rel="noopener nofollow" target="_blank">link</a> appended
-and select 'Accountant-General's Department' under 'Agency'. We look forward
+<p>Click on the <a href="https://safe.menlosecurity.com/https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html" rel="noopener nofollow" target="_blank">link</a> and
+select 'Accountant-General's Department' under 'Agency'. We look forward
 to receiving your application.</p>
 <p></p>
 <p></p>
