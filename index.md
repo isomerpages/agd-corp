@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Website_Dsign___Website4.png
+      background: /images/Website_Dsign___Website__7_.png
       key_highlights:
         - title: About AGD
           description: ""
