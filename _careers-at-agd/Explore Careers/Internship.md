@@ -3,8 +3,9 @@ title: Internship
 permalink: /careers-at-agd/internship/
 description: Internship
 third_nav_title: Explore Careers
+variant: markdown
 ---
-Internship
+Students
 ==========
 
 We offer internship programs to undergraduates who wish to gain experience in accounting and finance related work in the Public Sector.
