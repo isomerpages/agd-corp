@@ -2,6 +2,7 @@ collections:
   careers-at-agd:
     output: true
     order:
+      - Explore Scholarships/PSC Scholarship (Public Finance).md
       - Explore Scholarships/AGD Award.md
       - Explore Scholarships/AGD Accountancy Scholarship.md
       - Explore Scholarships/.keep
