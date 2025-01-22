@@ -80,4 +80,12 @@ sections:
       button: About AGD
       alt: Image alt text
       url: https://www.agd.gov.sg/who-we-are/overview/
+  - infobar:
+      title: Accountant-General’s Department
+      subtitle: Who we are
+      id: infobar
+      description: AGD transforms Public Sector Finance and partners with government
+        agencies to make Singapore a better place through Finance.
+      button: About AGD
+      url: https://www.agd.gov.sg/who-we-are/overview/
 ---
