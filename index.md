@@ -22,9 +22,14 @@ sections:
           description: ""
           url: /Vendors/vendors-gov/
       variant: center
-  - resources:
-      title: NEWS & EVENTS
-      button: FIND OUT MORE
+  - infobar:
+      title: Accountant-General’s Department
+      subtitle: Who we are
+      id: infobar
+      description: AGD transforms Public Sector Finance and partners with government
+        agencies to make Singapore a better place through Finance.
+      button: About AGD
+      url: https://www.agd.gov.sg/who-we-are/overview/
   - infobar:
       title: CAREERS @ AGD
   - infopic:
@@ -65,27 +70,7 @@ sections:
       url: /careers-at-agd/internship/
       image: /images/agd-intership.png
       alt: Internship
-  - infopic:
-      description: Find out more
-      button: ABOUT US
-      url: /who-we-are/overview/
-      image: /images/agd-about-us-overlay.png
-      alt: About Us
-  - infopic:
-      title: Accountant-General’s Department
-      subtitle: Who we are
-      id: infopic
-      description: AGD transforms Public Sector Finance and partners with government
-        agencies to make Singapore a better place through Finance.
-      button: About AGD
-      alt: Image alt text
-      url: https://www.agd.gov.sg/who-we-are/overview/
-  - infobar:
-      title: Accountant-General’s Department
-      subtitle: Who we are
-      id: infobar
-      description: AGD transforms Public Sector Finance and partners with government
-        agencies to make Singapore a better place through Finance.
-      button: About AGD
-      url: https://www.agd.gov.sg/who-we-are/overview/
+  - resources:
+      title: NEWS & EVENTS
+      button: FIND OUT MORE
 ---
