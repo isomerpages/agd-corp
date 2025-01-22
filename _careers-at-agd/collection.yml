@@ -2,6 +2,7 @@ collections:
   careers-at-agd:
     output: true
     order:
+      - Explore Careers/Finance Associates Programme.md
       - Explore Careers/Overview.md
       - Explore Careers/.keep
       - What We Offer/.keep
