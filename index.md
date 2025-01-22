@@ -37,7 +37,7 @@ sections:
       description: Consists of a vast range of roles which involves examining
         financial issues at the Whole-of-Government level.
       button: Find Out More
-      image: /images/Careers.png
+      image: /images/SC1_9055_p2.jpg
       alt: Careers @ AGD
       url: /careers-at-agd/overview/
   - infopic:
