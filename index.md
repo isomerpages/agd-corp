@@ -72,10 +72,12 @@ sections:
       image: /images/agd-about-us-overlay.png
       alt: About Us
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: Accountant-General’s Department
+      subtitle: Who we are
       id: infopic
-      description: Infopic description
-      button: Button Text
+      description: AGD transforms Public Sector Finance and partners with government
+        agencies to make Singapore a better place through Finance.
+      button: About AGD
       alt: Image alt text
+      url: https://www.agd.gov.sg/who-we-are/overview/
 ---
