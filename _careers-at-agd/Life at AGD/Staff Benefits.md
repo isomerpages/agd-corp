@@ -3,8 +3,9 @@ title: Staff Benefits
 permalink: /careers-at-agd/What-We-Offer/staff-benefits/
 description: Staff Benefits
 third_nav_title: Life at AGD
+variant: markdown
 ---
-Staff Benefits
+Our Culture 
 ==============
 
 As a people-oriented organisation, we constantly review our HR policies and introduce new initiatives to engage and ensure that our employees' and their families' needs and well-being are looked after.
@@ -41,3 +42,5 @@ As a people-oriented organisation, we constantly review our HR policies and intr
 *   Continuous Learning/ Professional Development;
 *   Sponsorships; and
 *   Scholarships.
+
+![](/images/culture.png)
