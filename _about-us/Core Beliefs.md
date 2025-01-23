@@ -81,11 +81,11 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/AGDPicture1.png">
 </div>
 <p>The sail, incorporated into the letter 'A', represents <strong>stability and stewardship</strong> that
-our officers and central systems provide across Whole-Of-Government (WOG).</p>
-<p>It embodies AGD's role as a steadfast guide in public sector finance,
-providing a clear course through complex financial waters. Just as a sail
-harnesses the wind to propel a ship forward, AGD leverages its expertise
-to drive financial excellence across the public sector.</p>
+our officers and central systems provide across Whole-Of-Government (WOG).It
+embodies AGD's role as a steadfast guide in public sector finance, providing
+a clear course through complex financial waters. Just as a sail harnesses
+the wind to propel a ship forward, AGD leverages its expertise to drive
+financial excellence across the public sector.</p>
 <p>The butterfly, integrated into the letter 'D', is a symbol carried over
 from our previous logo. It represents our commitment to <strong>adaptability and growth</strong>,
 to enhance the value proposition of finance officers across WOG.</p>
