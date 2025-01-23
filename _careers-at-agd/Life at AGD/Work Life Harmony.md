@@ -5,8 +5,9 @@ description: Work Life Harmony
 third_nav_title: Life at AGD
 variant: markdown
 ---
-Work-Life Harmony
+Staff Benefits
 =================
+**Work-Life Harmony**
 
 We also offer a number of work-life initiatives to help our employees achieve the balance between their work and family commitments.
 
