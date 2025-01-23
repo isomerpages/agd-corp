@@ -9,7 +9,7 @@ description: ""
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/esther2.png">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/1.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -20,7 +20,7 @@ description: ""
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Lee Mei Chern" src="/images/meichern.png">
+<img style="width: 100%" height="auto" width="100%" alt="Lee Mei Chern" src="/images/8.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -31,7 +31,7 @@ description: ""
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Gan Wei Boon" src="/images/wei_boon.png">
+<img style="width: 100%" height="auto" width="100%" alt="Gan Wei Boon" src="/images/4.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -42,7 +42,7 @@ description: ""
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Ms Tay Lay Khim" src="/images/laykhim.png">
+<img style="width: 100%" height="auto" width="100%" alt="Ms Tay Lay Khim" src="/images/6.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -53,7 +53,7 @@ description: ""
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Ms Chua Bee Yan" src="/images/beeyan.png">
+<img style="width: 100%" height="auto" width="100%" alt="Ms Chua Bee Yan" src="/images/7.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -86,7 +86,7 @@ description: ""
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Group Director, Finance Transformation" src="/images/jenny.png">
+<img style="width: 100%" height="auto" width="100%" alt="Group Director, Finance Transformation" src="/images/3.png">
 </div>
 </div>
 <div class="isomer-card-body">
