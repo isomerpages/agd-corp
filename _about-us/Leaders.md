@@ -46,7 +46,7 @@ description: ""
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Tay Lay Khim</div>
+<div class="isomer-card-title">Ms Tay Lay Khim</div>
 <div class="isomer-card-description">Group Director, Assurance</div>
 </div>
 </div>
@@ -68,7 +68,7 @@ description: ""
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Tan Boon Siong</div>
+<div class="isomer-card-title">Mr Tan Boon Siong</div>
 <div class="isomer-card-description">Group Director, Treasury, Technical, Analytics</div>
 </div>
 </div>
