@@ -70,9 +70,6 @@ fulfilled by AGD.&nbsp; Some Finance Associates may also be attached to
 ministries and statutory boards to provide financial administration support.</p>
 <h3>Mentoring</h3>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/agd-we-offers.png">
-</div>
 <p>To help the Finance Associates quickly familiarise with the working environment,
 we will assign a buddy to provide support and answer any queries while
 settling into the new job.</p>
