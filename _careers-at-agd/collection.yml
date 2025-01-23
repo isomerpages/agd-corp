@@ -2,10 +2,10 @@ collections:
   careers-at-agd:
     output: true
     order:
+      - Explore Scholarships/.keep
+      - Explore Scholarships/AGD Accountancy Scholarship.md
       - Explore Scholarships/PSC Scholarship (Public Finance).md
       - Explore Scholarships/AGD Book Prize Award.md
-      - Explore Scholarships/AGD Accountancy Scholarship.md
-      - Explore Scholarships/.keep
       - Life at AGD/Work Life Harmony.md
       - Life at AGD/Our Culture.md
       - Life at AGD/Meet Our Scholars.md
