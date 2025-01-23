@@ -49,19 +49,19 @@ sections:
       image: /images/SC1_8938_p.jpg
       alt: Image alt text
   - infopic:
-      subtitle: What Our People Say
-      description: Our People are our Greatest Testimonies.
-      button: Find Out More
-      url: /careers-at-agd/What-Our-People-Say/what-our-people-say/
-      image: /images/SC1_8812.jpg
-      alt: Image alt text
-  - infopic:
       subtitle: Our Culture
       description: We believe that human capital is vital to our progress.
       button: FIND OUT MORE
       url: careers-at-agd/what-we-offer/staff-benefits/
       image: /images/Website_Dsign___Website6.png
       alt: What We Offer
+  - infopic:
+      subtitle: What Our People Say
+      description: Our People are our Greatest Testimonies.
+      button: Find Out More
+      url: /careers-at-agd/What-Our-People-Say/what-our-people-say/
+      image: /images/SC1_8812.jpg
+      alt: Image alt text
   - infopic:
       subtitle: Internship
       description: We offer internship programs to undergraduates who wish to gain
