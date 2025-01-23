@@ -74,6 +74,31 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
+<h1>Logo</h1>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AGDPicture1.png">
+</div>
+<p>The sail, incorporated into the letter 'A', represents <strong>stability and stewardship</strong> that
+our officers and central systems provide across Whole-Of-Government (WOG).</p>
+<p>It embodies AGD's role as a steadfast guide in public sector finance,
+providing a clear course through complex financial waters. Just as a sail
+harnesses the wind to propel a ship forward, AGD leverages its expertise
+to drive financial excellence across the public sector.</p>
+<p>The butterfly, integrated into the letter 'D', is a symbol carried over
+from our previous logo. It represents our commitment to <strong>adaptability and growth</strong>,
+to enhance the value proposition of finance officers across WOG.</p>
+<p>Just as a caterpillar transforms into a butterfly, AGD continues to evolve,
+taking on new roles and redefining existing responsibilities. The butterfly
+also signifies our nurturing environment, where budding ideas and talented
+officers can develop to their fullest potential.</p>
+<p>Our updated colour palette adds <strong>depth, energy, and passion</strong> to
+the logo. The darker blue represents our deepened expertise and the trust
+we have built over the years, while the vibrant orangey-red injects a new
+level of energy and passion into our brand. Together, these colors create
+a powerful visual metaphor of our established foundation and our dynamic
+approach to the future.</p>
 <h1>Tagline</h1>
 <h3>Professionalism</h3>
 <p>Build a people-centric organisation and level up capabilities of Public
