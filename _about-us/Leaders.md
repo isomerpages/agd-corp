@@ -16,7 +16,83 @@ description: ""
 <div class="isomer-card-title">Ms Esther Wee Yu</div>
 <div class="isomer-card-description">Accountant-General and Chief of Government Finance</div>
 </div>
-</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Lee Mei Chern" src="/images/meichern.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ms Lee Mei Chern</div><div class="isomer-card-description">Deputy Accountant-General (Governance &amp; Services)
-</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Lee Mei Chern" src="/images/meichern.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Ms Lee Mei Chern</div>
+<div class="isomer-card-description">Deputy Accountant-General (Governance &amp; Services)</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Gan Wei Boon" src="/images/wei_boon.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr Gan Wei Boon</div>
+<div class="isomer-card-description">Chief Information Officer</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Ms Tay Lay Khim" src="/images/laykhim.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Tay Lay Khim</div>
+<div class="isomer-card-description">Group Director, Assurance</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Ms Chua Bee Yan" src="/images/beeyan.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Ms Chua Bee Yan</div>
+<div class="isomer-card-description">Group Director, Financial Reporting &amp; Operations</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Group Director, Treasury, Technical, Analytics" src="/images/boon_siong.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Tan Boon Siong</div>
+<div class="isomer-card-description">Group Director, Treasury, Technical, Analytics</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Group Director, People &amp; Organisation" src="/images/tee_heng.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr Wee Tee Heng</div>
+<div class="isomer-card-description">Group Director, People &amp; Organisation</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Group Director, Finance Transformation" src="/images/jenny.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Ms Jenny Wong</div>
+<div class="isomer-card-description">Group Director, Finance Transformation</div>
+</div>
+</div>
 </div>
 <p></p>
