@@ -13,7 +13,7 @@ the Whole-of-Government.</p>
 <p>Fresh graduates joining AGD under the programme will undergo a 12-month
 developmental phase comprising an expanded induction programme and 2 rotational
 stints of 1 year each across different finance functions within AGD and
-other public agencies. This will allow them to build up their competencies
+different public agencies. This will allow them to build up their competencies
 and accelerate career development as well as to take on leadership responsibilities
 early in their career.</p>
 <h3>Requirements</h3>
