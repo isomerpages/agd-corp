@@ -10,6 +10,8 @@ AGD Accountancy Scholarship
 
 If you are looking to have a hand in shaping finance and accounting policies in the Civil Service, we offer scholarships for those seeking to achieve greater heights in a rewarding career with AGD.
 
+![](/images/Scholarship.png)
+
 **Choice of Study**
 
 *   Accountancy  
