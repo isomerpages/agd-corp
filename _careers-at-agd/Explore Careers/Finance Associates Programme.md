@@ -12,24 +12,26 @@ in key domain areas of finance, operations and policy formulation across
 the Whole-of-Government.</p>
 <p>Fresh graduates joining AGD under the programme will undergo a 12-month
 developmental phase comprising an expanded induction programme and 2 rotational
-stints of 1 year each across different finance functions. This will allow
-them to build up their competencies and accelerate career development as
-well as to take on leadership responsibilities early in their career.</p>
-<p></p>
+stints of 1 year each across different finance functions within AGD and
+other public agencies. This will allow them to build up their competencies
+and accelerate career development as well as to take on leadership responsibilities
+early in their career.</p>
 <h3>Requirements</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Singapore Citizen</p>
 </li>
 <li>
-<p>A degree from a recognised university in any discipline</p>
+<p>Excellent academic results</p>
 </li>
 <li>
-<p>Good university results and co-curricular records</p>
+<p>Strong leadership qualities</p>
 </li>
 <li>
-<p>Leadership potential, strong interpersonal skills and passion to make
-a meaningful impact</p>
+<p>Good co-curricular records</p>
+</li>
+<li>
+<p>Le</p>
 </li>
 </ul>
 <p></p>
@@ -38,10 +40,10 @@ a meaningful impact</p>
 selection process evaluates candidates based on their competencies and
 personal qualities through a series of interviews and an assessment centre.</p>
 <h3>Journey of a Finance Associate over a 2-Year Finance Associates Programme</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Career AGD Associates Programme" src="/images/CareersAGD/career-agd-associates-programme.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FAP.png">
 </div>
-<p>*need to update infographic</p>
 <h3>Expanded Induction Programme</h3>
 <p>The expanded induction programme comprises three modules - Basic, Foundational
 and Developmental – which the Finance Associates will undergo in their
@@ -66,8 +68,9 @@ AGD’s directorates to learn more about the central roles and functions
 fulfilled by AGD.&nbsp; Some Finance Associates may also be attached to
 ministries and statutory boards to provide financial administration support.</p>
 <h3>Mentoring</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:300px;height:200px;" height="auto" width="100%" alt="Career AGD-Associates-Programme" src="/images/CareersAGD/thumb-career-agd-associates-programme.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/agd-we-offers.png">
 </div>
 <p>To help the Finance Associates quickly familiarise with the working environment,
 we will assign a buddy to provide support and answer any queries while
