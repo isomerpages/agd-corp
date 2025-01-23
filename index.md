@@ -55,7 +55,7 @@ sections:
       description: We believe that human capital is vital to our progress.
       button: FIND OUT MORE
       url: careers-at-agd/what-we-offer/staff-benefits/
-      image: /images/Website_Dsign___Website6.png
+      image: /images/SC1_9138_p.jpg
       alt: What We Offer
   - infopic:
       subtitle: What Our People Say
