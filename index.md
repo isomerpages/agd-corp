@@ -32,6 +32,7 @@ sections:
       url: https://www.agd.gov.sg/who-we-are/overview/
   - infobar:
       title: Join AGD
+      url: www.careers.gov.sg
   - infopic:
       subtitle: Careers @ AGD
       description: Consists of a vast range of roles which involves examining
