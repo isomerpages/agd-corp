@@ -2,19 +2,19 @@ collections:
   careers-at-agd:
     output: true
     order:
+      - Explore Careers/.keep
+      - Explore Careers/Overview.md
+      - Explore Careers/Students.md
+      - Explore Careers/Finance Associates Programme.md
+      - Explore Careers/Career Opportunities for Professionals.md
       - Explore Scholarships/.keep
       - Explore Scholarships/AGD Accountancy Scholarship.md
       - Explore Scholarships/PSC Scholarship (Public Finance).md
       - Explore Scholarships/AGD Book Prize Award.md
+      - Life at AGD/.keep
       - Life at AGD/Work Life Harmony.md
       - Life at AGD/Our Culture.md
       - Life at AGD/Meet Our Scholars.md
       - Life at AGD/What Our People Say.md
       - Life at AGD/Growth and Development.md
       - Life at AGD/What We Offer.md
-      - Life at AGD/.keep
-      - Explore Careers/.keep
-      - Explore Careers/Overview.md
-      - Explore Careers/Students.md
-      - Explore Careers/Finance Associates Programme.md
-      - Explore Careers/Career Opportunities for Professionals.md
