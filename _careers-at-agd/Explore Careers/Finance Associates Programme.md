@@ -31,7 +31,8 @@ early in their career.</p>
 <p>Good co-curricular records</p>
 </li>
 <li>
-<p>Le</p>
+<p>Enrolment to an Accountancy, Analytics, Business, Business Administration,
+Business Management, Economics and Finance undergraduate programme</p>
 </li>
 </ul>
 <p></p>
@@ -89,5 +90,3 @@ the future.</p>
 <p>Click on the <a href="https://safe.menlosecurity.com/https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html" rel="noopener nofollow" target="_blank">link</a> and
 select 'Accountant-General's Department' under 'Agency'. We look forward
 to receiving your application.</p>
-<p></p>
-<p></p>
