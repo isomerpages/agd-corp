@@ -5,6 +5,8 @@ description: Overview
 variant: tiptap
 ---
 <h1>Overview</h1>
+<p></p>
+<p>*add infographic</p>
 <h3>A Leader in Transforming Public Sector Finance</h3>
 <p>The Accountant-General’s Department (AGD) is a department under the Ministry
 of Finance (MOF). We support the Accountant-General in fulfilling his statutory
