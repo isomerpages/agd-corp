@@ -4,14 +4,14 @@ links:
     collection: about-us
   - title: Careers @ AGD
     collection: careers-at-agd
-  - title: Vendors
-    collection: vendors
   - title: News & Events
     resource_room: true
   - title: Publications
     collection: publications
   - title: Contact Us
     url: /contact-us/
+  - title: Vendors
+    collection: vendors
   - title: Quick Links
     url: /quicklinks
     sublinks:
