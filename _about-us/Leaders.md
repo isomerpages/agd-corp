@@ -20,7 +20,7 @@ description: ""
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Lee Mei Chern" src="/images/8.png">
+<img style="width: 100%" height="auto" width="100%" alt="Lee Mei Chern" src="/images/66.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -31,7 +31,7 @@ description: ""
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Gan Wei Boon" src="/images/4.png">
+<img style="width: 100%" height="auto" width="100%" alt="Gan Wei Boon" src="/images/33.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -42,7 +42,7 @@ description: ""
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Ms Tay Lay Khim" src="/images/6.png">
+<img style="width: 100%" height="auto" width="100%" alt="Ms Tay Lay Khim" src="/images/44.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -53,7 +53,7 @@ description: ""
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Ms Chua Bee Yan" src="/images/7.png">
+<img style="width: 100%" height="auto" width="100%" alt="Ms Chua Bee Yan" src="/images/55.png">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -86,7 +86,7 @@ description: ""
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Group Director, Finance Transformation" src="/images/3.png">
+<img style="width: 100%" height="auto" width="100%" alt="Group Director, Finance Transformation" src="/images/22.png">
 </div>
 </div>
 <div class="isomer-card-body">
