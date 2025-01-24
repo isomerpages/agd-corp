@@ -5,9 +5,10 @@ description: Career Development Framework
 third_nav_title: Life at AGD
 variant: tiptap
 ---
-<h1>Career Development Framework</h1>
-<p>We have put in place an integrated career development framework aimed
-at developing the professional competencies of our officers and strengthening
+<h1>Growth and  Development </h1>
+<p></p>
+<p>We have put in place an integrated learning and development framework
+aimed at developing the professional competencies of our officers and strengthening
 our career value proposition as an employer. The framework underpins our
 commitment to nurture our people to their fullest potential.</p>
 <p></p>
