@@ -14,7 +14,7 @@ If you are looking to have a hand in shaping finance and accounting policies in 
 
 **Choice of Study**
 
-*   Accountancy  
+*  Accountancy, Analytics, Business, Business Administration, Business Management, Economics and Finance undergraduate programme
       
     
 
