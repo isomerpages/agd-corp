@@ -3,7 +3,7 @@ url: https://www.agd.gov.sg
 favicon: /images/agdweblogo.ico
 colors:
   primary-color: "#f15640"
-  secondary-color: "#f15640"
+  secondary-color: "#304196"
   media-colors:
     - title: media-color-one
       color: "#f15640"
