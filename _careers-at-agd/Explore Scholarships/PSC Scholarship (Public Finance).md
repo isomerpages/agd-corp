@@ -33,12 +33,14 @@ subject to meeting the emplacement criteria.</p>
 <p>Keen to pursue a career in Public Sector Finance</p>
 </li>
 <li>
-<p>Course of Study in Accountancy</p>
+<p>Course of Study in Accountancy, Analytics, Business, Business Administration,
+Business Management, Economics and Finance undergraduate programme</p>
 </li>
 </ul>
 <p>Applicants for the undergraduate scholarships are welcome to apply prior
 to pursuing their undergraduate degree or up until the penultimate year
 of their undergraduate degree.</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
