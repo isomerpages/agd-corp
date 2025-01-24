@@ -16,6 +16,26 @@ subject to meeting the emplacement criteria.</p>
 <p>&nbsp;</p>
 <p><strong>Eligibility Criteria</strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Singapore Citizen</p>
+</li>
+<li>
+<p>Excellent academic results</p>
+</li>
+<li>
+<p>Strong leadership qualities</p>
+</li>
+<li>
+<p>Good CCA records</p>
+</li>
+<li>
+<p>Keen to pursue a career in Public Sector Finance</p>
+</li>
+<li>
+<p>Choice of Study in Accountancy</p>
+</li>
+</ul>
 <p>Applicants for the undergraduate scholarships are welcome to apply prior
 to pursuing their undergraduate degree or up until the penultimate year
 of their undergraduate degree.</p>
@@ -81,7 +101,7 @@ upon release of final results.</p>
 </ul>
 <p>Application should be made before the final year of your undergraduate
 studies.</p>
-<p>For PSC Scholarship (PF), you must be pursuing a Degree in Accountancy.</p>
+<p>For PSC Scholarship (PF), you must be pursuing a <strong>Degree in Accountancy</strong>.</p>
 </td>
 </tr>
 </tbody>
