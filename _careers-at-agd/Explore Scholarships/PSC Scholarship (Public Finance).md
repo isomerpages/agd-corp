@@ -9,8 +9,8 @@ third_nav_title: Explore Scholarships
 </p>
 <p>The PSC Scholarship (Public Finance) aims to develop individuals trained
 in Accountancy for finance leadership positions in the Public Service.
-Scholarship holders will be assigned to a parent agency, either the Auditor-General's
-Office (AGO) or Accountant-General's Department (AGD). Scholars will also
+Scholarship holders will be assigned to a parent agency, either the Accountant-General's
+Department (AGD) or Auditor-General's Office (AGO). Scholars will also
 be emplaced onto the Public Service Leadership Programme (PSLP) upon graduation,
 subject to meeting the emplacement criteria.</p>
 <p>&nbsp;</p>
