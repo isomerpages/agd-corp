@@ -1,8 +1,0 @@
-collections:
-  pensioners-not-in-use:
-    output: true
-    order:
-      - Pensioners/.keep
-      - Vendors/.keep
-      - Vendors/Vendors@Gov App.md
-      - Private Clinics/.keep
