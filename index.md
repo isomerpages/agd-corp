@@ -54,7 +54,7 @@ sections:
       subtitle: Our Culture
       description: We believe that human capital is vital to our progress.
       button: FIND OUT MORE
-      url: careers-at-agd/what-we-offer/staff-benefits/
+      url: careers-at-agd/what-we-offer/our-culture/
       image: /images/SC1_9138_p.jpg
       alt: What We Offer
   - infopic:
