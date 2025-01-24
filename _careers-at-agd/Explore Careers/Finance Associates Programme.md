@@ -39,7 +39,8 @@ Business Management, Economics and Finance undergraduate programme</p>
 <h3>Selection Process</h3>
 <p>To select the best talents to join our Finance Associate Programme, our
 selection process evaluates candidates based on their competencies and
-personal qualities through a series of interviews and an assessment centre.</p>
+personal qualities through a series of psychometric tests, interviews and
+an assessment centre.</p>
 <h3>Journey of a Finance Associate over a 2-Year Finance Associates Programme</h3>
 <p></p>
 <div class="isomer-image-wrapper">
