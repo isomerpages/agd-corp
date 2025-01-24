@@ -18,3 +18,5 @@ Under this programme, interns will get the opportunity to work in a wide variety
 *   Participate in research projects on international developments;
 *   Work with our officers on various projects such as Data Analytics and Benchmarking of Financial Processes and Functions; and
 *   Present the outcome at management or senior management level.
+
+Drop us an email at Internship@agd.gov.sg and we will get in touch with you.
