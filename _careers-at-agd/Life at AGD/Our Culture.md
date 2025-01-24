@@ -6,7 +6,7 @@ third_nav_title: Life at AGD
 variant: tiptap
 ---
 <h1>Our Culture</h1>
-<p><strong>Group and Individual Oriented Activities to engage staff such as:</strong>
+<p><strong>Group Activities to engage staff such as:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
