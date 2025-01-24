@@ -45,10 +45,16 @@ Business Management, Economics and Finance undergraduate programme</p>
 selection process evaluates candidates based on their competencies and
 personal qualities through a series of psychometric tests, interviews and
 an assessment centre.</p>
-<h3>Journey of a Finance Associate over a 2-Year Finance Associates Programme</h3>
+<h3>Journey of a Finance Associate (General)</h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/FAP.png">
+</div>
+<p></p>
+<h3>Journey of a Finance Associate (Ops-Tech)</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FAP_Ops.png">
 </div>
 <h3>Expanded Induction Programme</h3>
 <p>The expanded induction programme comprises three modules - Basic, Foundational
@@ -59,15 +65,16 @@ and to apply these concepts throughout their deployment stints.</p>
 <p>The Basic module, conducted at the start of the programme, will provide
 the Finance Associates with a broad overview of AGD’s central roles such
 as cash management, financial reporting, assurance and Value-For-Money
-reviews and financial administration.
+reviews and financial administration.</p>
+<p>
 <br>The Foundational module, conducted in between the deployment stints of
 the Finance Associates, will focus on the applications of key foundational
 financial knowledge and skillsets as well as soft skills developments through
 case studies and hands-on exercises.</p>
-<p>The Developmental module, conducted at the end of the 12-month programme,
-will introduce the Finance Associates to core personal and professional
-development areas through the sharing of best practices and chats with
-senior policy-makers and finance leaders.</p>
+<p>The Developmental module, conducted at the end of the programme, will
+introduce the Finance Associates to core personal and professional development
+areas through the sharing of best practices and chats with senior policy-makers
+and finance leaders.</p>
 <h3>Deployment Stints</h3>
 <p>The deployment stints of Finance Associates will include attachments to
 AGD’s directorates to learn more about the central roles and functions
