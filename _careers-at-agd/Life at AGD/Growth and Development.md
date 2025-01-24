@@ -59,7 +59,7 @@ needs of the organisation.</p>
 <p>Self-Development Courses;</p>
 </li>
 <li>
-<p>Continuous Learning/ Professional Development;</p>
+<p>Continuous Learning and Professional Development Programmes;</p>
 </li>
 <li>
 <p>Sponsorships; and</p>
