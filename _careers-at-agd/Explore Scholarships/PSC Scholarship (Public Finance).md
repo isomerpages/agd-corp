@@ -33,7 +33,7 @@ subject to meeting the emplacement criteria.</p>
 <p>Keen to pursue a career in Public Sector Finance</p>
 </li>
 <li>
-<p>Choice of Study in Accountancy</p>
+<p>Course of Study in Accountancy</p>
 </li>
 </ul>
 <p>Applicants for the undergraduate scholarships are welcome to apply prior
@@ -101,13 +101,14 @@ upon release of final results.</p>
 </ul>
 <p>Application should be made before the final year of your undergraduate
 studies.</p>
-<p>For PSC Scholarship (PF), you must be pursuing a <strong>Degree in Accountancy</strong>.</p>
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
 <p><strong>Click&nbsp;<a href="https://safe.menlosecurity.com/https://www.psc.gov.sg/docs/default-source/psc/psc-scholarship-(public-finance)-brochure.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;to find out more information on PSC Scholarship (Public Finance).</strong>
 </p>
+<p></p>
 <p><strong>Click&nbsp;<a href="https://safe.menlosecurity.com/https:/www.psc.gov.sg/scholarships/undergraduate-scholarships/psc-scholarships?q=apply" rel="noopener noreferrer nofollow" target="_blank">here</a> to Apply.</strong>
 </p>
 <p></p>
