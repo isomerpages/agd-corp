@@ -43,7 +43,6 @@ study the modernization of the Government Financial System (NFS@Gov).</p>
 drives the strategic development of Future Finance and plays a key role
 in re- engineering current finance systems, structures and processes as
 well as launching finance growth areas/initiatives.</p>
-<p></p>
 <p>The Group plays a critical role in managing and ensuring the successful
 implementation of WOG transformations and revamp of the central payroll,
 claims and finance processes and delivery under the HR Payroll System and
@@ -69,7 +68,39 @@ policies and practices for compliance by Ministries and Statutory Boards.</p>
 and administration of business intelligence systems and data analytics
 projects.</p>
 <h3>People and Organisation Group</h3>
+<p>The People &amp; Organisation Group focuses on developing people and organisational
+capabilities.</p>
 <p></p>
+<p>The Finance and Corporate Development Directorate oversees the corporate
+requirements of AGD in the areas of finance, human capital management,
+corporate communication and services as well as organisational development.</p>
+<p></p>
+<p>The Directorate is also responsible for the long-term planning of corporate
+resources and in charge of driving the department’s initiatives to achieve
+organisational excellence.</p>
+<p></p>
+<p>The Government Finance Function Office resides in MOF and it comprises
+three branches -&nbsp; Finance Workforce Planning (FWP) Branch; the Strategies,
+Policies and Performance (SPP) Branch and the Finance Capabilities, Engagement
+and Risk Management (CER) Branch.</p>
+<p></p>
+<p>The FWP Branch (double reporting to GFFO and HCM) looks into developing
+the career pathways, providing career development in structured job rotations
+and talent attachment programmes, facilitating succession planning and
+rationalising of finance positions in the wider public sector.</p>
+<p></p>
+<p>The SPP Branch focuses on driving strategy reviews and managing performance
+of the finance function across the whole of government. It also keeps an
+oversight of the international counterparts of AG (and GFFO) across other
+countries.</p>
+<p></p>
+<p>The CER Branch works closely together with the Government Procurement
+Function Office (GPFO) sited in MOF and Civil Service College to oversee
+professional development of finance, internal audit and procurement specialists
+for the public service; this is done through a joint setup known as the
+Finance and Procurement Academy (FPA). It also drives outreach and engagement
+efforts to the finance and IA community across the public service; and
+looks after Enterprise Risk Management for the Finance Function.</p>
 <h2>Organisation Chart</h2>
 <p></p>
 <p></p>
