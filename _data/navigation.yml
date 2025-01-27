@@ -21,7 +21,9 @@ links:
         url: https://www.nfs.gov.sg/
       - title: Pension
         url: https://www.hrp.gov.sg/
-      - title: Vendors
-        url: /Vendors/
+      - title: Vendors@Gov
+        url: /Vendors/vendors-gov/
+      - title: Vendor's Manual
+        url: /Vendors/vendors-manual/
   - title: Contact Us
     url: /contact-us/
