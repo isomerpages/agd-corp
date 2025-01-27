@@ -75,6 +75,12 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
+<h3>We are building a Purpose driven, Performance-oriented, and People-centric oneAGD</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3Ps.png">
+</div>
+<h4>Our OneAGD social compact builds trust and strengthens our foundation to progress as OneAGD.</h4>
 <h1>Logo</h1>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -99,6 +105,8 @@ we have built over the years, while the vibrant orangey-red injects a new
 level of energy and passion into our brand. Together, these colors create
 a powerful visual metaphor of our established foundation and our dynamic
 approach to the future.</p>
+<p></p>
+<p></p>
 <h1>Tagline</h1>
 <h3>Professionalism</h3>
 <p>Build a people-centric organisation and level up capabilities of Public
