@@ -4,6 +4,8 @@ links:
     collection: about-us
   - title: Careers @ AGD
     collection: careers-at-agd
+  - title: News & Events
+    resource_room: true
   - title: Publications
     collection: publications
   - title: Contact Us
@@ -21,5 +23,3 @@ links:
         url: https://www.nfs.gov.sg/
       - title: Pension
         url: https://www.hrp.gov.sg/
-  - title: News & Events
-    resource_room: true
