@@ -114,6 +114,16 @@ variant: tiptap
 <div class="isomer-card-title">Coffee Cupping Workshop</div>
 </div>
 </div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="AGD Advance" src="/images/AGD_301.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">AGD Advance</div>
+</div>
+</div>
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/culture.png">
