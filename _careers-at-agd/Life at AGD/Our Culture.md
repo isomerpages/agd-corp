@@ -10,7 +10,7 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>AGD Learning Day for All Officers;</p>
+<p>OneAGD Connect;</p>
 </li>
 <li>
 <p>Annual Dinner and Dance;</p>
