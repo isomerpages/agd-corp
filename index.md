@@ -22,6 +22,8 @@ sections:
           description: ""
           url: /Vendors/vendors-gov/
       variant: center
+      button: Join AGD
+      url: https://jobs.careers.gov.sg/
   - infobar:
       title: Accountant-General’s Department
       subtitle: Who we are
@@ -30,10 +32,6 @@ sections:
         Singapore
       button: About AGD
       url: https://www.agd.gov.sg/who-we-are/overview/
-  - infobar:
-      title: Join AGD
-      url: www.careers.gov.sg
-      button: Click here
   - infopic:
       subtitle: Careers @ AGD
       description: Consists of a vast range of roles which involves examining
