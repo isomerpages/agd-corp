@@ -28,9 +28,6 @@ remuneration packages and benefits.</p>
 <script src="//www.instagram.com/embed.js" async="true"></script>
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Join AGD" src="/images/CareersAGD/join-agd.png">
-</div>
 <p>If you are looking to become a Chartered Accountant under ISCA, the work
 at AGD as an Accredited Training Organisation (ATO) under the Singapore
 CA Qualification is relevant to achieve this accreditation.</p>
