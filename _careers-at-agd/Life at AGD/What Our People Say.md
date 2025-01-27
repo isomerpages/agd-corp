@@ -3,48 +3,146 @@ title: What Our People Say
 permalink: /careers-at-agd/What-Our-People-Say/what-our-people-say/
 description: What Our People Say
 third_nav_title: Life at AGD
+variant: tiptap
 ---
-What Our People Say
-===================
-<img src="/images/CareersAGD/What%20Our%20People%20Say/wops-12.jpg" alt="Lee Mei Chern" style="width:auto" align="left">“Being able to make a difference and help strengthen corporate governance and improve efficiency in financial processing in the public sector makes my work extremely exciting and fulfilling.” <br> <br> **Lee Mei Chern**<br>Deputy Accountant-General
-
-**Lee Mei Chern**&nbsp;is presently the Deputy Accountant-General in AGD.
-
-*   Handled various portfolios such as Financial Reporting and Financial Systems Administration.
-*   Reviews the public sector’s key programmes, systems and processes and provides recommendations that will strengthen internal controls, increase efficiency and productivity.
-*   Takes the lead in growing the number of agencies tapping on AGD’s IA services and building a customer-focused culture within the IA teams. Client agencies have expressed high satisfaction with the services.
-*   Goes through many training sessions and job rotations. Will be undergoing overseas executive leadership programme.
-
- <img src="/images/CareersAGD/What%20Our%20People%20Say/wops-22.jpg" alt="Simon Chew" style="width:200px;height:200px;" align="left">“AGD offers opportunities even for non-accountancy graduate to work in interesting assignments and build up the knowledge in accounting and finance ” <br><br>**Simon Chew**<br>Deputy Director, Operating Budget &amp; sustainability
- 
-
-**Simon Chew**&nbsp;is a Chemical Engineer by training.
-
-*   Joined the Accountant-General’s Department as an Analyst after graduating.
-*   Managed cash management in the Treasury Directorate initially. Rotated to head the Salaries and Pensions Branch which ensured salaries and pensions were paid in a timely and accurate manner.
-*   Sponsored for his Singapore Qualification Programme (SQP) given his preference for work relating to numbers and desire to pursue a career in accounting. As an Approved Training Organisation under ISCA, his work experience in AGD would be relevant in meeting the requirements of SQP.
-*   Fulfilling his career aspiration in becoming a Chartered Accountant as he gets a posting to serve as a Head under the Assurance and Services group which allows him to provide assurance services to the agencies.
-*   Obtained the Chartered Accountant Certification and is seconded to other Government agencies to perform finance function.
-
-<img src="/images/CareersAGD/What%20Our%20People%20Say/wops-33.jpg" alt="Lye Su Yin" style="width:200px;height:200px;" align="left">“As a central agency, we are involved in many Whole-of-Government projects and reviews. This helps widen my perspective and think broader” <br> <br> **Lye Su Yin**<br>Deputy Director, SkillsFuture Enterprise Credit
-
-
-**Lye Su Yin**&nbsp;majored in Business and Management.
-
-*   Joined AGD in 2010, after graduating with a degree in Bachelor of Business and Management (Economics and Finance), Summa Cum Laude.
-*   Deployed to the Treasury Directorate whereby she helped to put in policies for optimal liquidity management. She worked with MOF to monitor the performance and risks related to the Government’s assets and liabilities.
-*   Sponsored for an overseas postgraduate scholarship to read Master of Science in Accountancy and Finance in the University of Bath, UK, to equip her with the necessary accounting knowledge. Concurrently assumed the appointment of Assistant Director (Financial Assets &amp; Liabilities/Reserves and Investments Reporting).
-*   Provided opportunities to be seconded to MAS to deepen her technical expertise in Treasury work.
-*   Building her strengths in performing policy reviews and programme implementation in future deployments.
-
-<img src="/images/CareersAGD/What%20Our%20People%20Say/wops-44.jpg" alt="Huang SiHong" style="width:200px;height:200px;" align="left">“The roles that I have been given require me to build up my expertise beyond my accounting knowledge. It challenges me to think out of the box” <br> <br> **Huang SiHong**<br>Deputy Director, Business Excellence &amp; Innovation
-
-
-
-**Huang Sihong**&nbsp;is an Accounting graduate.
-
-*   Joined AGD in 2014, under the Financial &amp; Management Reporting Directorate.
-*   Involved in Fi@Gov -a business intelligence project to support management decision making and financial analysis.
-*   Given ample opportunities to develop himself as a young officer, from presentations to senior management, to cross-directorate initiatives.
-*   Treasured the secondment opportunities to broaden exposure.
-*   What stood out for him was not just the exposure and learning opportunities. It’s also the people and the nurturing culture that we have here at AGD.
+<h1>What Our People Say</h1>
+<div class="isomer-image-wrapper">
+<img style="width:auto" height="auto" width="100%" alt="Lee Mei Chern" src="/images/CareersAGD/What%20Our%20People%20Say/wops-12.jpg">
+</div>
+<p>“Being able to make a difference and help strengthen corporate governance
+and improve efficiency in financial processing in the public sector makes
+my work extremely exciting and fulfilling.”
+<br>
+<br><strong>Lee Mei Chern</strong>
+<br>Deputy Accountant-General</p>
+<p><strong>Lee Mei Chern</strong>&nbsp;is presently the Deputy Accountant-General
+in AGD.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Handled various portfolios such as Financial Reporting and Financial Systems
+Administration.</p>
+</li>
+<li>
+<p>Reviews the public sector’s key programmes, systems and processes and
+provides recommendations that will strengthen internal controls, increase
+efficiency and productivity.</p>
+</li>
+<li>
+<p>Takes the lead in growing the number of agencies tapping on AGD’s IA services
+and building a customer-focused culture within the IA teams. Client agencies
+have expressed high satisfaction with the services.</p>
+</li>
+<li>
+<p>Goes through many training sessions and job rotations. Will be undergoing
+overseas executive leadership programme.</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width:200px;height:200px;" height="auto" width="100%" alt="Simon Chew" src="/images/CareersAGD/What%20Our%20People%20Say/wops-22.jpg">
+</div>
+<p>“AGD offers opportunities even for non-accountancy graduate to work in
+interesting assignments and build up the knowledge in accounting and finance
+”
+<br>
+<br><strong>Simon Chew</strong>
+<br>Deputy Director, Operating Budget &amp; sustainability</p>
+<p><strong>Simon Chew</strong>&nbsp;is a Chemical Engineer by training.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Joined the Accountant-General’s Department as an Analyst after graduating.</p>
+</li>
+<li>
+<p>Managed cash management in the Treasury Directorate initially. Rotated
+to head the Salaries and Pensions Branch which ensured salaries and pensions
+were paid in a timely and accurate manner.</p>
+</li>
+<li>
+<p>Sponsored for his Singapore Qualification Programme (SQP) given his preference
+for work relating to numbers and desire to pursue a career in accounting.
+As an Approved Training Organisation under ISCA, his work experience in
+AGD would be relevant in meeting the requirements of SQP.</p>
+</li>
+<li>
+<p>Fulfilling his career aspiration in becoming a Chartered Accountant as
+he gets a posting to serve as a Head under the Assurance and Services group
+which allows him to provide assurance services to the agencies.</p>
+</li>
+<li>
+<p>Obtained the Chartered Accountant Certification and is seconded to other
+Government agencies to perform finance function.</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width:200px;height:200px;" height="auto" width="100%" alt="Lye Su Yin" src="/images/CareersAGD/What%20Our%20People%20Say/wops-33.jpg">
+</div>
+<p>“As a central agency, we are involved in many Whole-of-Government projects
+and reviews. This helps widen my perspective and think broader”
+<br>
+<br><strong>Lye Su Yin</strong>
+<br>Deputy Director, SkillsFuture Enterprise Credit</p>
+<p><strong>Lye Su Yin</strong>&nbsp;majored in Business and Management.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Joined AGD in 2010, after graduating with a degree in Bachelor of Business
+and Management (Economics and Finance), Summa Cum Laude.</p>
+</li>
+<li>
+<p>Deployed to the Treasury Directorate whereby she helped to put in policies
+for optimal liquidity management. She worked with MOF to monitor the performance
+and risks related to the Government’s assets and liabilities.</p>
+</li>
+<li>
+<p>Sponsored for an overseas postgraduate scholarship to read Master of Science
+in Accountancy and Finance in the University of Bath, UK, to equip her
+with the necessary accounting knowledge. Concurrently assumed the appointment
+of Assistant Director (Financial Assets &amp; Liabilities/Reserves and
+Investments Reporting).</p>
+</li>
+<li>
+<p>Provided opportunities to be seconded to MAS to deepen her technical expertise
+in Treasury work.</p>
+</li>
+<li>
+<p>Building her strengths in performing policy reviews and programme implementation
+in future deployments.</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width:200px;height:200px;" height="auto" width="100%" alt="Huang SiHong" src="/images/CareersAGD/What%20Our%20People%20Say/wops-44.jpg">
+</div>
+<p>“The roles that I have been given require me to build up my expertise
+beyond my accounting knowledge. It challenges me to think out of the box”
+<br>
+<br><strong>Huang SiHong</strong>
+<br>Deputy Director, Business Excellence &amp; Innovation</p>
+<p><strong>Huang Sihong</strong>&nbsp;is an Accounting graduate.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Joined AGD in 2014, under the Financial &amp; Management Reporting Directorate.</p>
+</li>
+<li>
+<p>Involved in Fi@Gov -a business intelligence project to support management
+decision making and financial analysis.</p>
+</li>
+<li>
+<p>Given ample opportunities to develop himself as a young officer, from
+presentations to senior management, to cross-directorate initiatives.</p>
+</li>
+<li>
+<p>Treasured the secondment opportunities to broaden exposure.</p>
+</li>
+<li>
+<p>What stood out for him was not just the exposure and learning opportunities.
+It’s also the people and the nurturing culture that we have here at AGD.</p>
+</li>
+</ul>
+<div class="instagram-wrapper">
+<blockquote style="background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:540px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);" data-instgrm-version="14" data-instgrm-permalink="https://www.instagram.com/reel/CvFBWlNheKP/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-captioned="" class="instagram-media">
+<div style="padding: 16px;"><a style="background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" href="https://www.instagram.com/reel/CvFBWlNheKP/?utm_source=ig_embed&amp;utm_campaign=loading"><div style="display: flex; flex-direction: row; align-items: center;"><div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div><div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;"><div style="background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div><div style="background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div></div></div><div style="padding: 19% 0;"></div><div style="display:block; height:50px; margin:0 auto 12px; width:50px;"><svg xmlns:xlink="https://www.w3.org/1999/xlink" xmlns="https://www.w3.org/2000/svg" version="1.1" viewBox="0 0 60 60" height="50px" width="50px"><g fill-rule="evenodd" fill="none" stroke-width="1" stroke="none"><g fill="#000000" transform="translate(-511.000000, -20.000000)"><g><path d="M556.869,30.41 C554.814,30.41 553.148,32.076 553.148,34.131 C553.148,36.186 554.814,37.852 556.869,37.852 C558.924,37.852 560.59,36.186 560.59,34.131 C560.59,32.076 558.924,30.41 556.869,30.41 M541,60.657 C535.114,60.657 530.342,55.887 530.342,50 C530.342,44.114 535.114,39.342 541,39.342 C546.887,39.342 551.658,44.114 551.658,50 C551.658,55.887 546.887,60.657 541,60.657 M541,33.886 C532.1,33.886 524.886,41.1 524.886,50 C524.886,58.899 532.1,66.113 541,66.113 C549.9,66.113 557.115,58.899 557.115,50 C557.115,41.1 549.9,33.886 541,33.886 M565.378,62.101 C565.244,65.022 564.756,66.606 564.346,67.663 C563.803,69.06 563.154,70.057 562.106,71.106 C561.058,72.155 560.06,72.803 558.662,73.347 C557.607,73.757 556.021,74.244 553.102,74.378 C549.944,74.521 548.997,74.552 541,74.552 C533.003,74.552 532.056,74.521 528.898,74.378 C525.979,74.244 524.393,73.757 523.338,73.347 C521.94,72.803 520.942,72.155 519.894,71.106 C518.846,70.057 518.197,69.06 517.654,67.663 C517.244,66.606 516.755,65.022 516.623,62.101 C516.479,58.943 516.448,57.996 516.448,50 C516.448,42.003 516.479,41.056 516.623,37.899 C516.755,34.978 517.244,33.391 517.654,32.338 C518.197,30.938 518.846,29.942 519.894,28.894 C520.942,27.846 521.94,27.196 523.338,26.654 C524.393,26.244 525.979,25.756 528.898,25.623 C532.057,25.479 533.004,25.448 541,25.448 C548.997,25.448 549.943,25.479 553.102,25.623 C556.021,25.756 557.607,26.244 558.662,26.654 C560.06,27.196 561.058,27.846 562.106,28.894 C563.154,29.942 563.803,30.938 564.346,32.338 C564.756,33.391 565.244,34.978 565.378,37.899 C565.522,41.056 565.552,42.003 565.552,50 C565.552,57.996 565.522,58.943 565.378,62.101 M570.82,37.631 C570.674,34.438 570.167,32.258 569.425,30.349 C568.659,28.377 567.633,26.702 565.965,25.035 C564.297,23.368 562.623,22.342 560.652,21.575 C558.743,20.834 556.562,20.326 553.369,20.18 C550.169,20.033 549.148,20 541,20 C532.853,20 531.831,20.033 528.631,20.18 C525.438,20.326 523.257,20.834 521.349,21.575 C519.376,22.342 517.703,23.368 516.035,25.035 C514.368,26.702 513.342,28.377 512.574,30.349 C511.834,32.258 511.326,34.438 511.181,37.631 C511.035,40.831 511,41.851 511,50 C511,58.147 511.035,59.17 511.181,62.369 C511.326,65.562 511.834,67.743 512.574,69.651 C513.342,71.625 514.368,73.296 516.035,74.965 C517.703,76.634 519.376,77.658 521.349,78.425 C523.257,79.167 525.438,79.673 528.631,79.82 C531.831,79.965 532.853,80.001 541,80.001 C549.148,80.001 550.169,79.965 553.369,79.82 C556.562,79.673 558.743,79.167 560.652,78.425 C562.623,77.658 564.297,76.634 565.965,74.965 C567.633,73.296 568.659,71.625 569.425,69.651 C570.167,67.743 570.674,65.562 570.82,62.369 C570.966,59.17 571,58.147 571,50 C571,41.851 570.966,40.831 570.82,37.631"></path></g></g></g></svg></div><div style="padding-top: 8px;"><div style="color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;">View this post on Instagram</div></div><div style="padding: 12.5% 0;"></div><div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;"><div><div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div><div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div><div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div></div><div style="margin-left: 8px;"><div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div><div style="width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"></div></div><div style="margin-left: auto;"><div style="width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div><div style="background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div><div style="width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div></div></div><div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;"><div style="background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;"></div><div style="background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;"></div></div></a>
+<p style="color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a target="_blank" style="color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" href="https://www.instagram.com/reel/CvFBWlNheKP/?utm_source=ig_embed&amp;utm_campaign=loading">A post shared by AGD, Singapore (@agd_finance)</a>
+</p>
+</div>
+</blockquote>
+<script src="//www.instagram.com/embed.js" async="true"></script>
+</div>
+<p></p>
