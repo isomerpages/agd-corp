@@ -2,6 +2,7 @@
 title: Heritage and Milestones
 permalink: /who-we-are/heritage-and-milestones/
 description: Heritage and Milestones
+variant: markdown
 ---
 Heritage and Milestones
 =======================
@@ -166,3 +167,9 @@ Heritage and Milestones
 
 * #### Singapore Chartered Account (CA)                     
  Accountant-General's Department is now accredited to be an ATO under the Singapore Chartered Accountant (CA) Qualification framework and is now authorized to train candidates in their journey towards achieving CA (Singapore) designation for the next three years (expiry 26 January 2026).
+ 
+ ### 2024
+
+* #### Ms Esther Wee as Accountant-General
+
+	The current Accountant-General, Ms Esther Wee, was appointed as Accountant-General in February 2025.
