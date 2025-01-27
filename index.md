@@ -62,7 +62,7 @@ sections:
       description: Our People are our Greatest Testimonies.
       button: Find Out More
       url: /careers-at-agd/What-Our-People-Say/what-our-people-say/
-      image: /images/SC1_8812.jpg
+      image: /images/FAB6165_resized.jpg
       alt: Image alt text
   - infopic:
       subtitle: Internship
