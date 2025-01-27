@@ -5,7 +5,7 @@ description: AGD Award
 third_nav_title: Explore Scholarships
 variant: tiptap
 ---
-<h1>AGD Book Prize Award</h1>
+<h1>AGD Public Sector Finance Award</h1>
 <p>AGD has launched the AGD Public Sector Finance Award with Singapore Management
 University (SMU) in 2016. The award is open to outstanding full-time Singaporean
 undergraduates from the School of Accountancy in SMU.</p>
