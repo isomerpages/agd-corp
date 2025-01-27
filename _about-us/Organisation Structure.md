@@ -7,7 +7,7 @@ variant: tiptap
 <h1>Organisation Structure</h1>
 <p>AGD is headed by the Accountant-General and comprises the various directorate
 groups.</p>
-<h3>Assurance Group</h3>
+<h3>Assurance</h3>
 <p>The Assurance Directorate plays an instrumental role in enhancing Whole-of-Government
 governance and strengthening the Public Sector Internal Audit (IA) profession.</p>
 <p></p>
@@ -17,7 +17,7 @@ the IA profession in the areas of digitalisation, structure, and standards.
 The directorate also drives key initiatives to deepen the capabilities
 of IA officers.</p>
 <p></p>
-<h3>Financial Reporting and Operations Group</h3>
+<h3>Financial Reporting and Operations</h3>
 <p>The Financial Reporting Operations Group oversees the central finance
 operations.</p>
 <p>The Financial Reporting and HRP Operations Directorate handles all various
@@ -38,7 +38,7 @@ AGD helpdesk and service request systems), and</p>
 payment timeline for vendors, work with IMDA to drive the adoption of national
 e-invoicing system among vendors who transact with the Government, and
 study the modernization of the Government Financial System (NFS@Gov).</p>
-<h3>Finance Transformation Group</h3>
+<h3>Finance Transformation</h3>
 <p>The Finance Transformation Group considers new emerging capabilities,
 drives the strategic development of Future Finance and plays a key role
 in re- engineering current finance systems, structures and processes as
@@ -47,11 +47,11 @@ well as launching finance growth areas/initiatives.</p>
 implementation of WOG transformations and revamp of the central payroll,
 claims and finance processes and delivery under the HR Payroll System and
 the Integrated Corporate Systems.</p>
-<h3>Technology Group</h3>
+<h3>Technology</h3>
 <p>The Technology Directorate develops AGD’s IT strategy, policies, standards
 and procedures. It also plays a key role in system infrastructure &amp;
 security administration, as well as system maintenance and enhancements.</p>
-<h3>Treasury, Technical and Analytics Group</h3>
+<h3>Treasury, Technical and Analytics</h3>
 <p>The Treasury Directorate supports the MOF in the effective management
 of the Government’s balance sheet. They monitor the performance and risk
 of Government’s assets and seeks to optimise the level of liquidity and
@@ -67,7 +67,7 @@ policies and practices for compliance by Ministries and Statutory Boards.</p>
 <p>The Finance Data &amp; Analytics Directorate spearheads the development
 and administration of business intelligence systems and data analytics
 projects.</p>
-<h3>People and Organisation Group</h3>
+<h3>People and Organisation</h3>
 <p>The People &amp; Organisation Group focuses on developing people and organisational
 capabilities.</p>
 <p></p>
@@ -79,6 +79,7 @@ corporate communication and services as well as organisational development.</p>
 resources and in charge of driving the department’s initiatives to achieve
 organisational excellence.</p>
 <p></p>
+<h3>Government Finance Function Office </h3>
 <p>The Government Finance Function Office resides in MOF and it comprises
 three branches -&nbsp; Finance Workforce Planning (FWP) Branch; the Strategies,
 Policies and Performance (SPP) Branch and the Finance Capabilities, Engagement
