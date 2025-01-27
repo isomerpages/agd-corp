@@ -79,7 +79,7 @@ corporate communication and services as well as organisational development.</p>
 resources and in charge of driving the department’s initiatives to achieve
 organisational excellence.</p>
 <p></p>
-<h3>Government Finance Function Office </h3>
+<h3>Government Finance Function Office</h3>
 <p>The Government Finance Function Office resides in MOF and it comprises
 three branches -&nbsp; Finance Workforce Planning (FWP) Branch; the Strategies,
 Policies and Performance (SPP) Branch and the Finance Capabilities, Engagement
