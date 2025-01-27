@@ -2,5 +2,6 @@ collections:
   vendors:
     output: true
     order:
+      - Example Titlek.md
       - Vendors@Gov.md
       - Vendor’s Manual.md
