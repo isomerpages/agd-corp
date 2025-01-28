@@ -275,7 +275,7 @@ to professionalise finance officers working in the public sector.</p>
 Singapore Chartered Accountant (CA) Qualification framework and is now
 authorized to train candidates in their journey towards achieving CA (Singapore)
 designation for the next three years (expiry 26 January 2026).</p>
-<h3>2024</h3>
+<h3>2025</h3>
 <ul>
 <li>
 <p>Ms Esther Wee as Accountant-General</p>
