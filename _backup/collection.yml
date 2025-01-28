@@ -1,0 +1,5 @@
+collections:
+  backup:
+    output: true
+    order:
+      - What We Offer.md

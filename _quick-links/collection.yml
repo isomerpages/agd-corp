@@ -1,0 +1,8 @@
+collections:
+  quick-links:
+    output: true
+    order:
+      - NFS@Gov.md
+      - FI@Gov.md
+      - Pension.md
+      - Vendors@Gov.md
