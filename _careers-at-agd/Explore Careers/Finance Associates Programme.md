@@ -18,7 +18,7 @@ and accelerate career development as well as to take on leadership responsibilit
 early in their career.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FAP3.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/FAP3.png">
 </div>
 <h3>Requirements</h3>
 <ul data-tight="true" class="tight">
