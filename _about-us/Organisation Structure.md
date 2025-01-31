@@ -105,8 +105,7 @@ after Enterprise Risk Management for the Finance Function.</p>
 <h2>Organisation Chart</h2>
 <p></p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/org_chart.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/orgchart2.png">
 </div>
 <p></p>
