@@ -29,11 +29,11 @@ officers and 34,000 pensioners using the HR and Payroll (HRP) System.</p>
 <p></p>
 <p>The Financial Operations and Systems Directorate handles the various central
 financial operations which include the following:</p>
-<p>•administration of central cash management and payments processing to
+<p>•Administration of central cash management and payments processing to
 30,000 government vendors, and related policies and controls,</p>
-<p>•overseeing the administration of AGD central systems (i.e NFS@Gov, Vendors@Gov,
+<p>•Overseeing the administration of AGD central systems (i.e NFS@Gov, Vendors@Gov,
 AGD helpdesk and service request systems), and</p>
-<p>•spearheading projects to implement Whole-of-Government Chart of Account
+<p>•Spearheading projects to implement Whole-of-Government Chart of Account
 (WOG COA) to achieve financial data harmonisation for data analytics, improve
 payment timeline for vendors, work with IMDA to drive the adoption of national
 e-invoicing system among vendors who transact with the Government, and
