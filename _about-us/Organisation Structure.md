@@ -100,8 +100,8 @@ Function Office (GPFO) sited in MOF and Civil Service College to oversee
 professional development of finance, internal audit and procurement specialists
 for the public service; this is done through a joint setup known as the
 Finance and Procurement Academy (FPA). It also drives outreach and engagement
-efforts to the finance and IA community across the public service; and
-looks after Enterprise Risk Management for the Finance Function.</p>
+efforts to the finance and IA community across the public service and looks
+after Enterprise Risk Management for the Finance Function.</p>
 <h2>Organisation Chart</h2>
 <p></p>
 <p></p>
