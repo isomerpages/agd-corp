@@ -31,7 +31,7 @@ sections:
       description: Developing finance leaders at the Centre of Public Sector Finance,
         Singapore
       button: About AGD
-      url: https://www.agd.gov.sg/who-we-are/overview/
+      url: who-we-are/overview/
   - infopic:
       subtitle: Careers @ AGD
       description: Consists of a vast range of roles which involves examining
