@@ -70,7 +70,4 @@ sections:
       url: /careers-at-agd/internship/
       image: /images/SC1_8776.jpg
       alt: Internship
-  - resources:
-      title: NEWS & EVENTS
-      button: FIND OUT MORE
 ---
