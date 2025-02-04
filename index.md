@@ -20,7 +20,7 @@ sections:
           url: /Vendors/vendors-gov/
       variant: center
       button: Join AGD
-      url: https://jobs.careers.gov.sg/
+      url: https://jobs.careers.gov.sg/?a=Accountant-General%27s+Department
   - infobar:
       title: Accountant-General’s Department
       subtitle: Who we are
