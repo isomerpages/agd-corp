@@ -28,8 +28,7 @@ sections:
       title: Accountant-General’s Department
       subtitle: Who we are
       id: infobar
-      description: Developing finance leaders at the Centre of Public Sector Finance,
-        Singapore
+      description: Putting finance at the heart of decision-making
       button: About AGD
       url: who-we-are/overview/
   - infopic:
