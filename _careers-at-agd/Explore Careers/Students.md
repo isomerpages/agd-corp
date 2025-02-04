@@ -3,20 +3,36 @@ title: Students
 permalink: /careers-at-agd/internship/
 description: Internship
 third_nav_title: Explore Careers
-variant: markdown
+variant: tiptap
 ---
-Students
-==========
-
-We offer internship programs to undergraduates who wish to gain experience in accounting and finance related work in the Public Sector.
-
-Under this programme, interns will get the opportunity to work in a wide variety of challenging projects, gaining valuable and practical work experience. The internship experience will also help them develop an interdisciplinary perspective, giving them a significant edge when seeking future employment.
-
-**Under the internship program, opportunities include:**
-
-*   Participate in reviews of how Government operates and whether Government's spending is value-for-money. This involves going for field trips and external meetings;
-*   Participate in research projects on international developments;
-*   Work with our officers on various projects such as Data Analytics and Benchmarking of Financial Processes and Functions; and
-*   Present the outcome at management or senior management level.
-
-Drop us an email at Internship@agd.gov.sg and we will get in touch with you.
+<h1>Students</h1>
+<p>We offer internship programs to undergraduates who wish to gain experience
+in accounting and finance related work in the Public Sector.</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/dXn2nh8JrT4?si=KBBgjmIrT0zPAosq"></iframe>
+</div>
+<p>Under this programme, interns will get the opportunity to work in a wide
+variety of challenging projects, gaining valuable and practical work experience.
+The internship experience will also help them develop an interdisciplinary
+perspective, giving them a significant edge when seeking future employment.</p>
+<p><strong>Under the internship program, opportunities include:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Participate in reviews of how Government operates and whether Government's
+spending is value-for-money. This involves going for field trips and external
+meetings;</p>
+</li>
+<li>
+<p>Participate in research projects on international developments;</p>
+</li>
+<li>
+<p>Work with our officers on various projects such as Data Analytics and
+Benchmarking of Financial Processes and Functions; and</p>
+</li>
+<li>
+<p>Present the outcome at management or senior management level.</p>
+</li>
+</ul>
+<p>Drop us an email at Internship@agd.gov.sg and we will get in touch with
+you.</p>
