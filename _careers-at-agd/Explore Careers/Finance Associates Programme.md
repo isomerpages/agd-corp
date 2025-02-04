@@ -95,6 +95,5 @@ of functions and areas to prepare them to take on supervisory roles in
 the future.</p>
 <p></p>
 <h3>How To Apply</h3>
-<p>Click on the <a href="https://safe.menlosecurity.com/https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html" rel="noopener nofollow" target="_blank">link</a> and
-select 'Accountant-General's Department' under 'Agency'. We look forward
-to receiving your application.</p>
+<p>Click on the <a href="https://jobs.careers.gov.sg/?a=Accountant-General%27s+Department" rel="noopener nofollow" target="_blank">link</a> to
+apply now. We look forward to receiving your application.</p>
