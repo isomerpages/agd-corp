@@ -21,4 +21,4 @@ As we constantly challenge ourselves to contribute towards transforming Public S
   
 We promote continuous learning and has in place various training sponsorships and study leave for individuals to develop their professional competencies.
 
-Apply via [Careers @ Gov](https://www.careers.gov.sg/) to kick-start your career with us today!
+Apply [now](https://jobs.careers.gov.sg/?a=Accountant-General%27s+Department) to kick-start your career with us today!
