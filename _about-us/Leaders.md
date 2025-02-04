@@ -75,22 +75,11 @@ description: ""
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Group Director, People &amp; Organisation" src="/images/tee_heng.png">
+<img style="width: 100%" height="auto" width="100%" alt="Group Director, Finance Transformation" src="/images/sn1.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Mr Wee Tee Heng</div>
-<div class="isomer-card-description">Group Director, People &amp; Organisation</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Group Director, Finance Transformation" src="/images/222.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Ms Jenny Wong</div>
+<div class="isomer-card-title">Ms Chew Siow Nee</div>
 <div class="isomer-card-description">Group Director, Finance Transformation</div>
 </div>
 </div>
