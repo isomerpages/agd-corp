@@ -68,7 +68,4 @@ needs of the organisation.</p>
 <p>Scholarships.</p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Career Development Framework" src="/images/CareersAGD/What%20we%20offer/cdf.png">
-</div>
 <p></p>
