@@ -6,6 +6,30 @@ third_nav_title: Life at AGD
 variant: tiptap
 ---
 <h1>What Our People Say</h1>
+<h3><strong>#AGDsharings with our Officers </strong></h3>
+<p>Find out more about the captivating realm of Accounting in the Public
+Sector, through the insightful #AGDsharings from our talented scholars
+and officers.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/sharing1.png">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Sharing2.png">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Sharing3.png">
+</div>
+<p></p>
+<p><strong>Discover the dynamic environment that awaits here in AGD, where our officers constantly challenge ourselves to contribute towards transforming the Public Sector Finance!</strong>
+</p>
+<p>
+<br>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width:auto" height="auto" width="100%" alt="Lee Mei Chern" src="/images/CareersAGD/What%20Our%20People%20Say/wops-12.jpg">
 </div>
@@ -72,41 +96,7 @@ which allows him to provide assurance services to the agencies.</p>
 Government agencies to perform finance function.</p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width:200px;height:200px;" height="auto" width="100%" alt="Lye Su Yin" src="/images/CareersAGD/What%20Our%20People%20Say/wops-33.jpg">
-</div>
-<p>“As a central agency, we are involved in many Whole-of-Government projects
-and reviews. This helps widen my perspective and think broader”
-<br>
-<br><strong>Lye Su Yin</strong>
-<br>Deputy Director, SkillsFuture Enterprise Credit</p>
-<p><strong>Lye Su Yin</strong>&nbsp;majored in Business and Management.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Joined AGD in 2010, after graduating with a degree in Bachelor of Business
-and Management (Economics and Finance), Summa Cum Laude.</p>
-</li>
-<li>
-<p>Deployed to the Treasury Directorate whereby she helped to put in policies
-for optimal liquidity management. She worked with MOF to monitor the performance
-and risks related to the Government’s assets and liabilities.</p>
-</li>
-<li>
-<p>Sponsored for an overseas postgraduate scholarship to read Master of Science
-in Accountancy and Finance in the University of Bath, UK, to equip her
-with the necessary accounting knowledge. Concurrently assumed the appointment
-of Assistant Director (Financial Assets &amp; Liabilities/Reserves and
-Investments Reporting).</p>
-</li>
-<li>
-<p>Provided opportunities to be seconded to MAS to deepen her technical expertise
-in Treasury work.</p>
-</li>
-<li>
-<p>Building her strengths in performing policy reviews and programme implementation
-in future deployments.</p>
-</li>
-</ul>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:200px;height:200px;" height="auto" width="100%" alt="Huang SiHong" src="/images/CareersAGD/What%20Our%20People%20Say/wops-44.jpg">
 </div>
@@ -136,45 +126,7 @@ presentations to senior management, to cross-directorate initiatives.</p>
 It’s also the people and the nurturing culture that we have here at AGD.</p>
 </li>
 </ul>
-<div class="isomer-image-wrapper">
-<img style="width:200px;height:200px;" height="auto" width="100%" alt="Justin Kong" src="/images/CareersAGD/Meet%20Our%20Scholars/mos-11.jpg">
-</div>
-<p>“If I were to sum up my journey as an AGD scholar in three words, it would
-be ‘exposure’, ‘rigour’ and ‘fulfilment’.”
-<br>
-<br><strong>Justin Kong</strong>
-<br>Head, Economics Programmes 2
-<br>Ministry of Finance</p>
-<p>I joined AGD in 2014 under the Financial and Management Reporting Directorate
-which had the key responsibility of preparing the Government Financial
-Statements. To facilitate meaningful and reliable reporting, I was involved
-in reviewing and improving the central accounting systems, processes and
-rules. This enabled me to have a bird’s eye view of the Government’s finances.</p>
-<p>My second posting in 2017 was to the Treasury Directorate where I worked
-with the Ministry of Finance to ensure proper management of the Government’s
-assets, liabilities and reserves. The Treasury Directorate also supports
-the Accountant-General in reporting on the reserves position to the President
-and informing the President of any proposed transaction that is likely
-to draw on past reserves.</p>
-<p>These roles became starkly critical when COVID-19 struck and they had
-to seek the President’s approval to draw on the reserves. They had to ensure
-sufficient resources were available for the roll-out of support measures
-while maintaining proper safeguards as they handled unprecedented circumstances.
-I was also roped into the preparation of the multiple budgets that they
-had during the crisis. Knowing how my work would benefit fellow Singaporeans,
-this spurred me on throughout the many late-night work sessions and kept
-the teamwork strong.</p>
-<p>I am currently seconded to the Economic Programmes (EP) Directorate under
-the Ministry of Finance which plays an important role in the allocation
-of fiscal and other financial resources across economic programmes to support
-the nation’s economic priorities. The team (EP2) is involved in areas such
-as resourcing and supporting Singapore’s energy resilience and security,
-energy transition and decarbonisation journey. His team also play a role
-in facilitating business’ access to capital through means such as equity,
-debt and project financing. Being exposed to policy work covering a diverse
-range of issues has been an enriching experience. Knowing that our work
-can make a positive impact on Singapore’s economy and society makes it
-all the more fulfilling.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:200px;height:200px;" height="auto" width="100%" alt="Macus Lim" src="/images/CareersAGD/Meet%20Our%20Scholars/mos-22.jpg">
 </div>
