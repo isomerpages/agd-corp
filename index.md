@@ -15,9 +15,6 @@ sections:
         - title: Careers @ AGD
           description: ""
           url: /careers-at-agd/overview/
-        - title: News and Events
-          description: ""
-          url: /news-and-events/
         - title: Vendors
           description: ""
           url: /Vendors/vendors-gov/
