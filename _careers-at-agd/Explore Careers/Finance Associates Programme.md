@@ -23,9 +23,6 @@ early in their career.</p>
 <h3>Requirements</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Singapore Citizen</p>
-</li>
-<li>
 <p>Excellent academic results</p>
 </li>
 <li>
