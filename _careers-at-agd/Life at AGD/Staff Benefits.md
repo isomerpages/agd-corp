@@ -14,7 +14,7 @@ We also offer a number of work-life initiatives to cater to the needs of our off
 *   Hybrid working arrangements, with officers returning to workplace on designated on-site days and working from home otherwise
 *   Staggered working hours that allow staff the flexibility to choose their reporting time and lunch break;
 *   Blue-Sky Fridays on which staff are given the flexibility to accumulate their time-off and end work earlier;
-*   Part-time work arrangments are offered, especially for mothers with young children
+*   Part-time work arrangements are offered, especially for mothers with young children
 
 
 As a people-oriented organisation, we constantly review our HR policies and introduce new initiatives to engage and ensure that our employees' needs and well-being are looked after.
