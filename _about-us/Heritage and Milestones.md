@@ -114,8 +114,10 @@ streamlined Government’s financial processes by leveraging on technology.</p>
 <h3>2000</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Ms Chua Geok Wah as Accountant-GeneralMs Chua Geok Wah took over the role
-of Accountant-General for 15 years.</p>
+<p>Ms Chua Geok Wah as Accountant-General</p>
+<p>
+<br>Ms Chua Geok Wah took over the role of Accountant-General for 15 years.</p>
+<p></p>
 </li>
 <li>
 <p>Launch of the Pay and Claims System (PaC@Gov)PaC@Gov eliminated the need
