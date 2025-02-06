@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/Website_Hero_Banner__Website2.png
       key_highlights:
-        - title: About AGD
+        - title: About Us
           description: ""
           url: /who-we-are/overview/
         - title: Careers @ AGD
@@ -24,8 +24,8 @@ sections:
       subtitle: Who we are
       id: infobar
       description: Putting finance at the heart of decision-making
-      button: About AGD
-      url: who-we-are/overview/
+      button: Join AGD
+      url: https://jobs.careers.gov.sg/?a=Accountant-General%27s+Department
   - infopic:
       subtitle: Careers @ AGD
       description: Consists of a vast range of roles which involves examining
