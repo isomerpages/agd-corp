@@ -84,7 +84,7 @@ variant: tiptap
 <h1>Logo</h1>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/AGDPicture1.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/logo3.png">
 </div>
 <p>The sail, incorporated into the letter 'A', represents <strong>stability and stewardship</strong> that
 our officers and central systems provide across Whole-Of-Government (WOG).It
