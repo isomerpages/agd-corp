@@ -55,5 +55,3 @@ the relevant financial year.</summary>
 </details>
 </div>
 <p></p>
-<p>figures in the GFS include adjustments made in Q4 of the relevant financial
-year.</p>
