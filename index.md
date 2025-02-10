@@ -35,6 +35,14 @@ sections:
       alt: Careers @ AGD
       url: /careers-at-agd/overview/
   - infopic:
+      subtitle: Internship
+      description: We offer internship programs to undergraduates who wish to gain
+        experience in accounting and finance.
+      button: FIND OUT MORE
+      url: /careers-at-agd/internship/
+      image: /images/SC1_8776.jpg
+      alt: Internship
+  - infopic:
       subtitle: Scholarship
       description: We offer scholarships for those seeking to achieve greater heights
         in a rewarding career with AGD.
@@ -56,12 +64,4 @@ sections:
       url: /careers-at-agd/What-Our-People-Say/what-our-people-say/
       image: /images/FAB6165_resized.jpg
       alt: Image alt text
-  - infopic:
-      subtitle: Internship
-      description: We offer internship programs to undergraduates who wish to gain
-        experience in accounting and finance.
-      button: FIND OUT MORE
-      url: /careers-at-agd/internship/
-      image: /images/SC1_8776.jpg
-      alt: Internship
 ---
