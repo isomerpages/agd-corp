@@ -55,17 +55,5 @@ the relevant financial year.</summary>
 </details>
 </div>
 <p></p>
-<p>Q2. What is the difference between the Revenue and Expenditure Estimates
-and the Government Financial Statements?</p>
-<p>The Revenue and Expenditure Estimates is prepared pursuant to Articles
-147(1) to 147(4) of the Constitution, setting out the annual estimates
-of revenue and expenditure of Singapore during the succeeding financial
-year. The Government Financial Statements is prepared pursuant to Article
-147(5) of the Constitution, setting out the audited financial position
-of the Government in the recently-concluded financial year.</p>
-<p>Q3. Why does the revised estimates figures not tally between the GFS and
-the Revenue and Expenditure Estimates?</p>
-<p>The revised estimates figures in the Revenue and Expenditure Estimates
-represent the revised estimates as at Q3 of the relevant financial year,
-while the revised estimates figures in the GFS include adjustments made
-in Q4 of the relevant financial year.</p>
+<p>figures in the GFS include adjustments made in Q4 of the relevant financial
+year.</p>
