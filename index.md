@@ -27,14 +27,6 @@ sections:
       button: Join AGD
       url: https://jobs.careers.gov.sg/?a=Accountant-General%27s+Department
   - infopic:
-      subtitle: Careers @ AGD
-      description: Consists of a vast range of roles which involves examining
-        financial issues at the Whole-of-Government level.
-      button: Find Out More
-      image: /images/SC1_9055_p2.jpg
-      alt: Careers @ AGD
-      url: /careers-at-agd/overview/
-  - infopic:
       subtitle: Internship
       description: We offer internship programs to undergraduates who wish to gain
         experience in accounting and finance.
@@ -42,6 +34,14 @@ sections:
       url: /careers-at-agd/internship/
       image: /images/SC1_8776.jpg
       alt: Internship
+  - infopic:
+      subtitle: Careers @ AGD
+      description: Consists of a vast range of roles which involves examining
+        financial issues at the Whole-of-Government level.
+      button: Find Out More
+      image: /images/SC1_9055_p2.jpg
+      alt: Careers @ AGD
+      url: /careers-at-agd/overview/
   - infopic:
       subtitle: Scholarship
       description: We offer scholarships for those seeking to achieve greater heights
