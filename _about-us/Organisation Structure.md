@@ -4,7 +4,7 @@ permalink: /who-we-are/organisation-structure/
 description: Organisation Structure
 variant: tiptap
 ---
-<h1>Organisation Structure</h1>
+<h1>What We Do</h1>
 <p>AGD is headed by the Accountant-General and comprises the various directorate
 groups.</p>
 <h3>Assurance</h3>
@@ -102,10 +102,5 @@ for the public service; this is done through a joint setup known as the
 Finance and Procurement Academy (FPA). It also drives outreach and engagement
 efforts to the finance and IA community across the public service and looks
 after Enterprise Risk Management for the Finance Function.</p>
-<h2>Organisation Chart</h2>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/orgchart2.png">
-</div>
+<h2></h2>
 <p></p>
