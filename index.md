@@ -62,6 +62,6 @@ sections:
       description: Our People are our Greatest Testimonies.
       button: Find Out More
       url: /careers-at-agd/What-Our-People-Say/what-our-people-say/
-      image: /images/FAB6165_resized.jpg
+      image: /images/SC1_8812.jpg
       alt: Image alt text
 ---
