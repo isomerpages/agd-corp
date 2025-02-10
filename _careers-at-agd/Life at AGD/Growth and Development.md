@@ -18,7 +18,7 @@ acquire different skills and knowledge in various areas of work through
 job rotation and project work.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/L_D.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Enhanced_L_D_Framework_for_all_AGD_Officers__Compiled_.png">
 </div>
 <p>AGD’s L&amp;D framework aligns to the oneAGD culture:</p>
 <ul data-tight="true" class="tight">
