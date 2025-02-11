@@ -25,15 +25,16 @@ prepared in accordance with section 18 of the Financial Procedure Act 1966.</p>
 <h3>Frequently Asked Questions</h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Q1. Where can I find the FY2018 Government Financial Statements?</summary>
+<summary><strong>Q1. Where can I find the FY2018 Government Financial Statements?</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Government Financial Statements prior to FY2019 are available only in
 hardcopy in the Lee Kong Chian Reference Library.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Q2. What is the difference between the Revenue and Expenditure Estimates
-and the Government Financial Statements?</summary>
+<summary><strong>Q2. What is the difference between the Revenue and Expenditure Estimates and the Government Financial Statements?</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The Revenue and Expenditure Estimates is prepared pursuant to Articles
 147(1) to 147(4) of the Constitution, setting out the annual estimates
