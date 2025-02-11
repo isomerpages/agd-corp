@@ -36,7 +36,7 @@ description: ""
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Ms Tay Lay Khim</div>
-<div class="isomer-card-description">Group Director, Assurance</div>
+<div class="isomer-card-description">Internal Audit Cluster Lead and Group Director, Assurance</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -53,12 +53,12 @@ description: ""
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Group Director, Treasury, Technical, Analytics" src="/images/boon_siong.png">
+<img style="width: 100%" height="auto" width="100%" alt="Group Director, Treasury, Technical, Analytics" src="/images/333.png">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Tan Boon Siong</div>
-<div class="isomer-card-description">Group Director, Treasury, Technical, Analytics</div>
+<div class="isomer-card-description">Central Admin Cluster Lead and Group Director, Treasury, Technical, Analytics</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -93,6 +93,30 @@ Financial officer at LTA</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Chin Chee Kiat</div>
 <div class="isomer-card-description">Infrastructure Cluster Lead and Chief Financial Officer at PUB</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Norman Tan" src="/images/99.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr Norman Tan</div>
+<div class="isomer-card-description">Economic &amp; Security Cluster Lead and Director of Finance Management
+at MINDEF</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Ms Lee Mei Chern" src="/images/88.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Ms Lee Mei Chern</div>
+<div class="isomer-card-description">Social Cluster Lead and Divisional Director of Corporate Services Division
+at ACRA</div>
 </div>
 </div>
 </div>
