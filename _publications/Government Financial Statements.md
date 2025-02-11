@@ -44,13 +44,13 @@ of the Government in the recently-concluded financial year.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Q3. Why does the revised estimates figures not tally between the GFS and the Revenue and Expenditure Estimates?</strong> The
-revised estimates figures in the Revenue and Expenditure Estimates represent
-the revised estimates as at Q3 of the relevant financial year, while the
-revised estimates figures in the GFS include adjustments made in Q4 of
-the relevant financial year.</summary>
+<summary><strong>Q3. Why does the revised estimates figures not tally between the GFS and the Revenue and Expenditure Estimates?</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>The revised estimates figures in the Revenue and Expenditure Estimates
+represent the revised estimates as at Q3 of the relevant financial year,
+while the revised estimates figures in the GFS include adjustments made
+in Q4 of the relevant financial year.</p>
 </div>
 </details>
 </div>
