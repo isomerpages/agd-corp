@@ -31,17 +31,6 @@ description: ""
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Gan Wei Boon" src="/images/33.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Mr Gan Wei Boon</div>
-<div class="isomer-card-description">Chief Information Officer</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Ms Tay Lay Khim" src="/images/44.png">
 </div>
 </div>
@@ -81,6 +70,29 @@ description: ""
 <div class="isomer-card-body">
 <div class="isomer-card-title">Ms Chew Siow Nee</div>
 <div class="isomer-card-description">Group Director, Finance Transformation</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Ms Yong Yenn Leng" src="/images/111.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Ms Yong Yenn Leng</div>
+<div class="isomer-card-description">Infrstructure Cluster and Economic &amp; Security Cluster Lead and Chief
+Financial officer at LTA</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Chin Chee Kiat" src="/images/7777.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr Chin Chee Kiat</div>
+<div class="isomer-card-description">Infrastructure Cluster Lead and Chief Financial Officer at PUB</div>
 </div>
 </div>
 </div>
