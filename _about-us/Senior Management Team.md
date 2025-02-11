@@ -31,6 +31,17 @@ description: ""
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Mr Chin Chee Kiat" src="/images/7777.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Mr Chin Chee Kiat</div>
+<div class="isomer-card-description">Infrastructure Cluster Lead and Chief Financial Officer at PUB</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Ms Tay Lay Khim" src="/images/44.png">
 </div>
 </div>
@@ -87,17 +98,6 @@ Financial officer at LTA</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mr Chin Chee Kiat" src="/images/7777.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Mr Chin Chee Kiat</div>
-<div class="isomer-card-description">Infrastructure Cluster Lead and Chief Financial Officer at PUB</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Mr Norman Tan" src="/images/99.png">
 </div>
 </div>
@@ -110,11 +110,11 @@ at MINDEF</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Ms Lee Mei Chern" src="/images/88.png">
+<img style="width: 100%" height="auto" width="100%" alt="Ms Lim Hwei Chen" src="/images/88.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Ms Lee Mei Chern</div>
+<div class="isomer-card-title">Ms Lim Hwei Chen</div>
 <div class="isomer-card-description">Social Cluster Lead and Divisional Director of Corporate Services Division
 at ACRA</div>
 </div>
