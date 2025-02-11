@@ -47,8 +47,8 @@ description: ""
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Ms Lim Hwei Chen</div>
-<div class="isomer-card-description">Social Cluster Lead and Divisional Director of Corporate Services Division
-at ACRA</div>
+<div class="isomer-card-description">Central Admin Cluster Lead and Divisional Director of Corporate Services
+Division at ACRA</div>
 </div>
 </div>
 <div class="isomer-card">
