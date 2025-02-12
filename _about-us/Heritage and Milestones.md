@@ -5,10 +5,8 @@ description: Heritage and Milestones
 variant: tiptap
 ---
 <h1>Heritage and Milestones</h1>
-<p></p>
-<h3></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/new_timeline.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/timeline3.png">
 </div>
 <h3>1867</h3>
 <ul>
