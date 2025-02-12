@@ -9,7 +9,7 @@ variant: tiptap
 <p>We offer internship programs to undergraduates who wish to gain experience
 in accounting and finance related work in the Public Sector.</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6e56NB6t3jE?si=1g9S_H-g0XK0ZQbJ"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/6e56NB6t3jE?si=1g9S_H-g0XK0ZQbJ&amp;vq=hd720"></iframe>
 </div>
 <p>Under this programme, interns will get the opportunity to work in a wide
 variety of challenging projects, gaining valuable and practical work experience.
