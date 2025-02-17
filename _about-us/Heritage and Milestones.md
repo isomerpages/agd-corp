@@ -14,21 +14,18 @@ variant: tiptap
 <summary><strong>History</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>1867</strong>
-</p>
+<h4><strong>1867</strong></h4>
 <p>• Establishment of the Crown Colony of the British Empire</p>
 <p>This was the year that the Straits Settlements were made a Crown Colony
 of the British Empire. During this period, the Lieutenant-Governor of Penang
 reported on the revenue and expenditure of the settlements. Mr William
 Willans Willans was the Treasurer for the Crown Colony.</p>
-<p><strong>1947</strong>
-</p>
+<h4><strong>1947</strong></h4>
 <p>• Preparation of First Set of Financial Statements for the Crown Colony
 of Singapore</p>
 <p>Mr N. M. Kennedy took over in 1947 and prepared the first set of financial
 statements for the Crown Colony of Singapore for the year 1946.</p>
-<p><strong>1965</strong>
-</p>
+<h4><strong>1965</strong></h4>
 <p>• AGD as the “Central Banker”</p>
 <p>The Accountant-General's Department came under Singapore Government’s
 authority, as a department of Ministry of Finance. For 6 years after independence
@@ -43,14 +40,12 @@ Monetary Authority of Singapore (MAS) when it was formed in 1971.</p>
 <summary><strong>Transformation</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>1987</strong>
-</p>
+<h4><strong>1987</strong></h4>
 <p>• Enactment of the Accountants Act</p>
 <p>The enactment of the Accountants Act resulted in the splitting of the
 Singapore Society of Accountants into two separate entities – Public Accountants
 Board and Institute of Certified Public Accountants.</p>
-<p><strong>1988</strong>
-</p>
+<h4><strong>1988</strong></h4>
 <p>• Presentation of the White Paper</p>
 <p>The first White Paper on the protection of reserves was first conceived
 in 1988. AGD played a significant role in developing the initial set of
