@@ -50,8 +50,7 @@ Board and Institute of Certified Public Accountants.</p>
 <p>The first White Paper on the protection of reserves was first conceived
 in 1988. AGD played a significant role in developing the initial set of
 principles and guidelines safeguarding past reserves.</p>
-<p><strong>1999</strong>
-</p>
+<h4><strong>1999</strong></h4>
 <p>• Launch of the New Financial System (NFS@Gov)</p>
 <p>The New Financial System (NFS@Gov) supports a wide range of mission-critical
 functions for the Whole-of-Government. This new system was initially developed
@@ -60,16 +59,14 @@ the system to a Y2K-compliant one. Currently, this integrated system provides
 budgeting, accounting, and financial management services, which cuts across
 agencies, operational processes and technology. The system has radically
 streamlined Government’s financial processes by leveraging on technology.</p>
-<p><strong>2000</strong>
-</p>
+<h4><strong>2000</strong></h4>
 <p>• Launch of the Pay and Claims System (PaC@Gov)</p>
 <p>PaC@Gov eliminated the need for physical pay slips and claim forms. The
 automated payroll system now allows civil servants to view their pay for
 the past 12 months, the year-to-date balance, and other information. They
 are also able to submit claims electronically, which results in time savings
 and reduces paperwork.</p>
-<p><strong>2004</strong>
-</p>
+<h4><strong>2004</strong></h4>
 <p>• Launch of Vendors@Gov</p>
 <p>Vendors@Gov is a secured one-stop online portal that allows Government
 vendors to conveniently submit and track the status of their E-invoices,
@@ -85,21 +82,18 @@ Accounting &amp; Corporate Regulatory Authority (ACRA) and the Immigration
 &amp; Checkpoints Authority (ICA) to automate the validation of vendors’
 bank accounts. This had saved much time and effort for multiple parties
 – vendors, banks, ministries and AGD.</p>
-<p><strong>2005</strong>
-</p>
+<h4><strong>2005</strong></h4>
 <p>• Provision of Assurance Services to External Agencies</p>
 <p>AGD Internal Audit team began extending its internal audit service offerings
 to external agencies, providing services to 2 agencies for a start. The
 team assists clients to examine and evaluate the adequacy and effectiveness
 of their internal controls in responding to organisational risks.</p>
-<p><strong>2006</strong>
-</p>
+<h4><strong>2006</strong></h4>
 <p>• Introduction of the Medical Billing System (MBS@Gov)</p>
 <p>Through MBS@Gov, private clinics are able to efficiently submit claims
 for the Government’s share of medical bills incurred by civil servants,
 pensioners and their dependants at the clinics.</p>
-<p><strong>2007</strong>
-</p>
+<h4><strong>2007</strong></h4>
 <p>• Launch of the Pensioner’s Portal</p>
 <p>The portal provides Government pensioners with convenient access to useful
 pension-related information any time. Pensioners are able to view their
@@ -126,15 +120,13 @@ Ministries and Statutory Boards that would like to engage fund managers
 to manage their surpluses or trust monies. This initiative seeks to demand-aggregate
 investments so that agencies can enjoy economies of scale and gain easy
 access to professional fund management and investment consultancy services.</p>
-<p><strong>2009</strong>
-</p>
+<h4><strong>2009</strong></h4>
 <p>• Implementation of Centralised Liquidity Management (CLM)</p>
 <p>Through the CLM initiative, AGD centralises excess cash held by Statutory
 Board, manages and invests the excess cash on their behalf, generating
 higher returns on SBs’ cash and brings about substantial savings and efficiency
 gains for the public sector.</p>
-<p><strong>2016</strong>
-</p>
+<h4><strong>2016</strong></h4>
 <p>• Launch of Fi@Gov</p>
 <p>Fi@Gov is the public sector’s one stop financial analytics platform that
 provides insights and analysis for decision making, performance monitoring
@@ -148,20 +140,17 @@ to functions that already exist on the Vendors@Gov portal.</p>
 relevant training to our officers. The Academy also extends our training
 programmes to the public sector finance community to raise the capabilities
 of finance officers.</p>
-<p><strong>2017</strong>
-</p>
+<h4><strong>2017</strong></h4>
 <p>• Launch of Pac@Gov Mobile App</p>
 <p>Pac@Gov Mobile App allows public officers to view their pay information,
 submit claims and apply leave on-the-go.</p>
-<p><strong>2018</strong>
-</p>
+<h4><strong>2018</strong></h4>
 <p>• AGD is awarded SQC - Star for making significant improvements in the
 business excellence journey.</p>
 <p>• Head of Profession for Finance</p>
 <p>Accountant-General has been appointed as the Head of Profession for Finance
 to professionalise finance officers working in the public sector.</p>
-<p><strong>2022</strong>
-</p>
+<h4><strong>2022</strong></h4>
 <p>• Singapore Chartered Account (CA)</p>
 <p>Accountant-General's Department is now accredited to be an ATO under the
 Singapore Chartered Accountant (CA) Qualification framework and is now
@@ -174,42 +163,34 @@ designation for the next three years (expiry 26 January 2026).</p>
 <summary><strong>Past and Current Accountant-Generals</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p><strong>1937</strong>
-</p>
+<h4><strong>1937</strong></h4>
 <p>• Appointment of the First Straits Settlements Accountant-General</p>
 <p>As part of the financial reorganisation of the Colonial Governments, Mr
 W.C. Hodges was appointed as the first Straits Settlements Accountant-General,
 responsible for collecting revenue and accounting for revenue and expenditure.</p>
-<p><strong>1961</strong>
-</p>
+<h4><strong>1961</strong></h4>
 <p>• Appointment of First Local Accountant-General</p>
 <p>Mr Chua Kim Yeow became the first local Accountant-General. Mr Chua served
 as the Accountant-General for 19 years.</p>
-<p><strong>1979</strong>
-</p>
+<h4><strong>1979</strong></h4>
 <p>• Mr Ang Teck Leong as Accountant-General</p>
 <p>Mr Ang Teck Leong took over the helm from Mr Chua as Accountant-General
 for the next 5 years</p>
-<p><strong>1984</strong>
-</p>
+<h4><strong>1984</strong></h4>
 <p>• Mr Chris Liew Peng Fook as Accountant-General</p>
 <p>Mr Chris Liew Peng Fook took over as Accountant-General upon Mr Ang’s
 retirement and assumed the leadership position for 11 years.</p>
-<p><strong>1995</strong>
-</p>
+<h4><strong>1995</strong></h4>
 <p>• Mr Goh Khee Kuan as Accountant-General</p>
 <p>Mr Goh Khee Kuan became the Accountant-General in 1995.</p>
-<p><strong>2000</strong>
-</p>
+<h4><strong>2000</strong></h4>
 <p>• Ms Chua Geok Wah as Accountant-General</p>
 <p>Ms Chua Geok Wah took over the role of Accountant-General for 15 years.</p>
-<p><strong>2015</strong>
-</p>
+<h4><strong>2015</strong></h4>
 <p>• Mr Ow Fook Chuen as Accountant-General</p>
 <p>The current Accountant-General, Mr Ow Fook Chuen, was appointed as Accountant-General
 in March 2015.</p>
-<p><strong>2025</strong>
-</p>
+<h4><strong>2025</strong></h4>
 <p>• Ms Esther Wee as Accountant-General</p>
 <p>The current Accountant-General, Ms Esther Wee, was appointed as Accountant-General
 in February 2025.</p>
