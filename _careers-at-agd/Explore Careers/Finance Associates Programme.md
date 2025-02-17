@@ -45,12 +45,12 @@ and interviews.</p>
 <h3>Journey of a Finance Associate (General)</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FAPGen.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/FAPGen.jpg">
 </div>
 <h3>Journey of a Finance Associate (Ops-Tech)</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FAPOps.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/FAPOps.jpg">
 </div>
 <h3>Expanded Induction Programme</h3>
 <p>The expanded induction programme comprises three modules - Basic, Foundational
