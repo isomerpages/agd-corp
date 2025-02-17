@@ -103,7 +103,8 @@ of their internal controls in responding to organisational risks.</p>
 <p>Through MBS@Gov, private clinics are able to efficiently submit claims
 for the Government’s share of medical bills incurred by civil servants,
 pensioners and their dependants at the clinics.</p>
-<p>2007</p>
+<p><strong>2007</strong>
+</p>
 <p>• Launch of the Pensioner’s Portal</p>
 <p>The portal provides Government pensioners with convenient access to useful
 pension-related information any time. Pensioners are able to view their
@@ -157,18 +158,66 @@ of finance officers.</p>
 <p>• Launch of Pac@Gov Mobile App</p>
 <p>Pac@Gov Mobile App allows public officers to view their pay information,
 submit claims and apply leave on-the-go.</p>
-<p>2018</p>
+<p><strong>2018</strong>
+</p>
 <p>• AGD is awarded SQC - Star for making significant improvements in the
 business excellence journey.</p>
 <p>• Head of Profession for Finance</p>
 <p>Accountant-General has been appointed as the Head of Profession for Finance
 to professionalise finance officers working in the public sector.</p>
-<p>2022</p>
+<p><strong>2022</strong>
+</p>
 <p>• Singapore Chartered Account (CA)</p>
 <p>Accountant-General's Department is now accredited to be an ATO under the
 Singapore Chartered Accountant (CA) Qualification framework and is now
 authorized to train candidates in their journey towards achieving CA (Singapore)
 designation for the next three years (expiry 26 January 2026).</p>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Past and Current Accountant-Generals</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>1937</strong>
+</p>
+<p>• Appointment of the First Straits Settlements Accountant-General</p>
+<p>As part of the financial reorganisation of the Colonial Governments, Mr
+W.C. Hodges was appointed as the first Straits Settlements Accountant-General,
+responsible for collecting revenue and accounting for revenue and expenditure.</p>
+<p><strong>1961</strong>
+</p>
+<p>• Appointment of First Local Accountant-General</p>
+<p>Mr Chua Kim Yeow became the first local Accountant-General. Mr Chua served
+as the Accountant-General for 19 years.</p>
+<p><strong>1979</strong>
+</p>
+<p>• Mr Ang Teck Leong as Accountant-General</p>
+<p>Mr Ang Teck Leong took over the helm from Mr Chua as Accountant-General
+for the next 5 years</p>
+<p><strong>1984</strong>
+</p>
+<p>• Mr Chris Liew Peng Fook as Accountant-General</p>
+<p>Mr Chris Liew Peng Fook took over as Accountant-General upon Mr Ang’s
+retirement and assumed the leadership position for 11 years.</p>
+<p><strong>1995</strong>
+</p>
+<p>• Mr Goh Khee Kuan as Accountant-General</p>
+<p>Mr Goh Khee Kuan became the Accountant-General in 1995.</p>
+<p><strong>2000</strong>
+</p>
+<p>• Ms Chua Geok Wah as Accountant-General</p>
+<p>Ms Chua Geok Wah took over the role of Accountant-General for 15 years.</p>
+<p><strong>2015</strong>
+</p>
+<p>• Mr Ow Fook Chuen as Accountant-General</p>
+<p>The current Accountant-General, Mr Ow Fook Chuen, was appointed as Accountant-General
+in March 2015.</p>
+<p><strong>2025</strong>
+</p>
+<p>• Ms Esther Wee as Accountant-General</p>
+<p>The current Accountant-General, Ms Esther Wee, was appointed as Accountant-General
+in February 2025.</p>
 <p></p>
 </div>
 </details>
