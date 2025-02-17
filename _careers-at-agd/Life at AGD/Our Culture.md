@@ -126,16 +126,22 @@ variant: tiptap
 </div>
 </div>
 <p></p>
-<p>Our OneAGD Social Compact is also an integral part of our organisational
-culture. It embodies our shared values, guides our interactions, and strengthens
-our collective commitment to excellence in public sector finance.</p>
+<p>Our <strong>OneAGD Social Compact </strong>is also an integral part of
+our organisational culture. It embodies our shared values, guides our interactions,
+and strengthens our collective commitment to excellence in public sector
+finance.</p>
 <p><strong>The OneAGD&nbsp;Social Compact ​</strong>
 </p>
-<p></p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Building Trust, Embracing Diversity
-and Encouraging Open Communication</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cultivating Collaboration and Professionalism</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Caring and Showing Appreciation
-Towards One Another</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Building Trust, Embracing Diversity and Encouraging Open Communication</p>
+</li>
+<li>
+<p>Cultivating Collaboration and Professionalism</p>
+</li>
+<li>
+<p>Caring and Showing Appreciation Towards One Another</p>
+</li>
+</ul>
 <p></p>
 <p></p>
