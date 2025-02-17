@@ -86,34 +86,16 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/logo3.png">
 </div>
-<p>The sail, incorporated into the letter 'A', represents <strong>stability and stewardship</strong> that
-our officers and central systems provide across Whole-Of-Government (WOG).It
-embodies AGD's role as a steadfast guide in public sector finance, providing
-a clear course through complex financial waters. Just as a sail harnesses
-the wind to propel a ship forward, AGD leverages its expertise to drive
-financial excellence across the public sector.</p>
-<p>The butterfly, integrated into the letter 'D', is a symbol carried over
-from our previous logo. It represents our commitment to <strong>adaptability and growth</strong>,
-to enhance the value proposition of finance officers across WOG.</p>
-<p>Just as a caterpillar transforms into a butterfly, AGD continues to evolve,
-taking on new roles and redefining existing responsibilities. The butterfly
-also signifies our nurturing environment, where budding ideas and talented
-officers can develop to their fullest potential.</p>
-<p>Our updated colour palette adds <strong>depth, energy, and passion</strong> to
-the logo. The darker blue represents our deepened expertise and the trust
-we have built over the years, while the vibrant orangey-red injects a new
-level of energy and passion into our brand. Together, these colors create
-a powerful visual metaphor of our established foundation and our dynamic
-approach to the future.</p>
+<p>The 'A' in our logo incorporates a sail, symbolising the stability and
+stewardship our officers and central systems provide across the Whole-of-Government
+(WOG). It reflects AGD's role as a steadfast guide in public sector finance
+and financial excellence.</p>
+<p>The 'D' integrates a butterfly, a symbol carried over from our previous
+logo. It represents our commitment to adaptability and growth to enhance
+the value proposition of finance officers across WOG. The butterfly also
+signifies our nurturing environment, where ideas and talent flourish.</p>
+<p>The darker blue represents our deepened expertise and trust built over
+years, while the vibrant orange-red injects passion into our brand. Together,
+these colours create a powerful visual metaphor of our established foundation
+and dynamic approach to the future.</p>
 <p></p>
-<p></p>
-<h1>Tagline</h1>
-<h3>Professionalism</h3>
-<p>Build a people-centric organisation and level up capabilities of Public
-Sector finance professionals</p>
-<h3>Stewardship</h3>
-<p>Fulfil AGD's key statutory duties and serve as the central finance services
-provider</p>
-<h3>Transformation</h3>
-<p>Uplift the role of finance from being the custodian of public finance
-to a strategic partner who empowers decision-making</p>
