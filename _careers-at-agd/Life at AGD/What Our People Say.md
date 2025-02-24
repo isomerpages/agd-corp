@@ -12,17 +12,14 @@ Sector, through the insightful sharings from our talented scholars and
 officers.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/sharing1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/naz.png">
 </div>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Sharing2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/shaf.png">
 </div>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Sharing3.png">
-</div>
 <p></p>
 <p></p>
