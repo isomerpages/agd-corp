@@ -10,7 +10,7 @@ Staff Benefits
 **Flexi-work Arrangements**
 
 We also offer a number of work-life initiatives to cater to the needs of our officers:
-
+![](/images/Slide31.png)
 *   Hybrid working arrangements
 *   Staggered working hours
 *   Part-time work arrangements 
