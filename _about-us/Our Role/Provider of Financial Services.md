@@ -3,6 +3,7 @@ title: Provider of Financial Services
 permalink: /our-services/provider-of-financial-services/
 description: Provider of Financial Services
 third_nav_title: Our Role
+variant: markdown
 ---
 Provider of Financial Services
 ==============================
@@ -17,9 +18,9 @@ We manage the Government’s cash, receipts, and payments to vendors, employees,
 
 ### Providing Value-adding Financial Services Through Demand Aggregation
 
-We support the financial functions of Ministries **and Statutory Boards** by deploying our officers and supply strategic inputs to Senior Management.  
+We support the financial functions of Ministries and Statutory Boards by deploying our officers and supply strategic inputs to Senior Management.  
   
-We provide internal audit services to Government agencies in order to strengthen controls, systems, and processes. The Assurance team taps on analytics to strengthen risk management and controls in the Public Sector. Demand aggregation **of fund management services** allows Statutory Boards to enjoy lower management fees and leads to manpower savings.
+We provide internal audit services to Government agencies in order to strengthen controls, systems, and processes. The Assurance team taps on analytics to strengthen risk management and controls in the Public Sector. Demand aggregation of fund management services allows Statutory Boards to enjoy lower management fees and leads to manpower savings.
 
 ### Leveraging Technology to Build New Financial Capabilities
 
