@@ -25,7 +25,7 @@ officers.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ash.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Final_Version___Red_And_White_Modern_Spotlight_On_Our_Dedicated_Employees_Instagram_Post.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
