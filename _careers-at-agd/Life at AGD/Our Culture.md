@@ -11,6 +11,9 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/jer2.png">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/shaq2.png">
+</div>
 <p><strong>At AGD, we offer a diverse range of activities to engage staff such as:</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -131,22 +134,14 @@ variant: tiptap
 </div>
 </div>
 <p></p>
+<h3>The OneAGD&nbsp;Social Compact ​</h3>
 <p>Our <strong>OneAGD Social Compact </strong>is also an integral part of
 our organisational culture. It embodies our shared values, guides our interactions,
 and strengthens our collective commitment to excellence in public sector
 finance.</p>
-<p><strong>The OneAGD&nbsp;Social Compact ​</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Building Trust, Embracing Diversity and Encouraging Open Communication</p>
-</li>
-<li>
-<p>Cultivating Collaboration and Professionalism</p>
-</li>
-<li>
-<p>Caring and Showing Appreciation Towards One Another</p>
-</li>
-</ul>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Presentation1.png">
+</div>
 <p></p>
