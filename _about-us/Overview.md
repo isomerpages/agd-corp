@@ -6,9 +6,8 @@ variant: tiptap
 ---
 <h1>Overview</h1>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/re.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide2.png">
 </div>
 <h3>A Leader in Transforming Public Sector Finance</h3>
 <p>The Accountant-General’s Department (AGD) is a department under the Ministry
