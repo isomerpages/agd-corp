@@ -6,10 +6,7 @@ third_nav_title: Explore Careers
 variant: tiptap
 ---
 <h1>Overview</h1>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/P0rTPHjO2hU"></iframe>
-</div>
-<h3>One Career, Many Opportunities</h3>
+<h3>Endless Possibilities, One Career</h3>
 <p>We welcome talents who are committed to contributing towards transforming
 Public Sector Finance as well as boosting the finance capability for One
 Public Service.</p>
@@ -21,6 +18,9 @@ diverse roles through job rotations to Government agencies and external
 organisations.</p>
 <p>We promote continuous learning and has in place various training sponsorships
 and study leave for individuals to develop their professional competencies.</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/P0rTPHjO2hU"></iframe>
+</div>
 <h3>OneAGD Community</h3>
 <p>Our dynamic and fulfilling work at AGD is strengthened by the invaluable
 support of our OneAGD community.</p>
