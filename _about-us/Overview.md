@@ -72,7 +72,7 @@ analytics&nbsp;to aid management in its decision-making processes.</p>
 <h5>Government in time for the future</h5>
 <p>As a future-ready organisation, AGD seeks to embrace new knowledge and
 technology to keep abreast of the latest trends in innovation and achieve
-transformation. With tighter integration of&nbsp;<strong>Government financial systems</strong>,
+transformation. With tighter integration of&nbsp;Government financial systems,
 the whole financial process is now made more seamless. Government systems
 have also on-boarded InvoiceNow, the nationwide e-invoicing network, to
 receive e-invoices from vendors in a touchless manner.</p>
