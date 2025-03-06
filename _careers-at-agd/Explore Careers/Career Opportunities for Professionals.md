@@ -17,4 +17,4 @@ will also enjoy attractive remuneration packages and benefits.</p>
 at AGD as an Accredited Training Organisation (ATO) under the Singapore
 CA Qualification is relevant to achieve this accreditation.</p>
 <p>Click on the <a href="https://jobs.careers.gov.sg/?a=Accountant-General%27s+Department" rel="noopener nofollow" target="_blank">link</a> to
-apply now.</p>
+apply now and shape the future of public sector finance with AGD!</p>
