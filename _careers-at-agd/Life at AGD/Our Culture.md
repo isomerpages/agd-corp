@@ -33,7 +33,10 @@ variant: tiptap
 <p>Active Day;</p>
 </li>
 <li>
-<p>Community Involvement Initiatives</p>
+<p>Mental Well-being Programmes</p>
+</li>
+<li>
+<p>Community Involvement Initiatives;</p>
 </li>
 <li>
 <p>and Excursions/ Outings;</p>
@@ -134,14 +137,4 @@ variant: tiptap
 </div>
 </div>
 <p></p>
-<h3>The OneAGD&nbsp;Social Compact ​</h3>
-<p>Our <strong>OneAGD Social Compact </strong>is also an integral part of
-our organisational culture. It embodies our shared values, guides our interactions,
-and strengthens our collective commitment to excellence in public sector
-finance.</p>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Presentation1.png">
-</div>
 <p></p>
