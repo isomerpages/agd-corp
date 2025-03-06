@@ -3,13 +3,14 @@ title: Partner of Building Capabilities
 permalink: /our-services/partner-of-building-capabilities/
 description: Partner of Building Capabilities
 third_nav_title: Our Role
+variant: markdown
 ---
 ## Partner of Building Capabilities
 
 
 ### Building Financial Competencies
 
-We work in collaboration with the Ministry of Finance and Public Service Division in strengthening the financial competencies of the officers in the Public Sector. AGD has also established the Finance Academy to look into growing the capabilities of AGD officers and the wider Public Sector finance community through the development of training programmes.
+We work in collaboration with the Ministry of Finance and Public Service Division in strengthening the financial competencies of the officers in the Public Sector. AGD has also looked into growing the capabilities of AGD officers and the wider Public Sector finance community through the development of training programmes.
 
 ### Developing Finance Leaders for the Public Sector
 
