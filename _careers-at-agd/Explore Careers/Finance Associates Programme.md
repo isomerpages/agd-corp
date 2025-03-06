@@ -25,20 +25,26 @@ your career.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide5.png">
 </div>
-<h3>Requirements</h3>
+<h3>What We Are Looking For</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Excellent academic results</p>
+<p>Tertiary education in Accountancy, Business, Data Analytics, Economics,
+or Finance related disciplines</p>
+</li>
+<li>
+<p>Well-rounded individual who is dynamic, innovative and agile</p>
+</li>
+<li>
+<p>Strong analytical and communication skills</p>
 </li>
 <li>
 <p>Strong leadership qualities</p>
 </li>
 <li>
-<p>Good co-curricular records</p>
-</li>
-<li>
-<p>Enrolment to an Accountancy, Analytics, Business, Business Administration,
-Business Management, Economics and Finance undergraduate programme</p>
+<p>Successful candidates will be required to acquire the relevant professional
+competencies or qualification if they do not have a recognised Accountancy/Finance
+degree/masters</p>
+<p></p>
 </li>
 </ul>
 <p></p>
