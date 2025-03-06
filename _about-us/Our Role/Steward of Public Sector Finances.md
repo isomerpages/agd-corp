@@ -12,28 +12,15 @@ returns from Government assets and borrowings, and provide critical financial
 insights to guide decision-making across agencies. As stewards of public
 resources, we report on reserves to the President and oversee Singapore
 Government Securities.</p>
-<h3>Formulating Accounting, Financial, and Reserves Policies</h3>
-<p>We formulate, review and advise on financial, accounting and reserves-related
-policies and principles.</p>
-<h3>Setting Accounting Standards, Policies, and Practices</h3>
-<p>We set accounting standards, policies, and practices for compliance by
-Ministries and Statutory Boards.</p>
-<h3>Protecting the Reserves</h3>
-<p>The Accountant-General reports on the reserves position to the President
-and informs the President of any proposed transaction that is likely to
-draw on past reserves.</p>
-<h3>Monitoring Financial Returns from Government Assets</h3>
-<p>We monitor the financial returns from the Government’s financial investments
-and Land and Buildings portfolio.</p>
-<h3>Monitoring Government Borrowings</h3>
-<p>We monitor the Government’s borrowings through the Singapore Government
-Securities (SGS) and Special Singapore Government Securities (SSGS). We
-are expanding our role in debt management.</p>
-<h3>Ensuring High Standards of Governance</h3>
-<p>We establish and maintain high standards of governance in the Public Sector
-by designing and implementing stringent policies and controls in our financial
-and accounting systems. We also provide auditing and assurance services
-to Government agencies.</p>
-<h3>Conducting Value-for-Money Reviews</h3>
-<p>We conduct value-for-money reviews to assess whether public programmes
-meet the intended policy objectives economically, effectively and efficiently.</p>
+<h3>Policy Development and Standards Setting</h3>
+<p>We develop and review comprehensive financial, accounting, and reserves-related
+policies for the Government. This includes setting and maintaining accounting
+standards and practices that Ministries and Statutory Boards must follow,
+ensuring consistency and transparency across the public sector.</p>
+<h3>Governance and Performance Oversight</h3>
+<p>We uphold public sector excellence through robust governance frameworks
+and controls in financial systems. Our role extends to conducting value-for-money
+reviews of public programmes and providing auditing services, ensuring
+that government initiatives deliver optimal results efficiently and effectively.</p>
+<h3></h3>
+<p></p>
