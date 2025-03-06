@@ -12,8 +12,8 @@ with the evolving needs of our employees, we make sure that our greatest
 assets are well placed to enjoy a lasting career with us.</p>
 <p><strong>Flexi-work Arrangements</strong>
 </p>
-<p>We also offer a number of work-life initiatives to cater to the needs
-of our officers:</p>
+<p>We offer a number of work-life initiatives to cater to the needs of our
+officers:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide31.png">
 </div>
