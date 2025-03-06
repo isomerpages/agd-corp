@@ -54,6 +54,9 @@ selection process evaluates candidates based on their competencies and
 personal qualities through a series of written test, psychometric tests
 and interviews.</p>
 <h3>Journey of a Finance Associate (General)</h3>
+<p>The FAP (General) track aims to develop Finance Professionals to take
+on apex C-Suite Finance and Governance positions across Public Service
+agencies.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/FAP5.png">
