@@ -75,7 +75,7 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<h3>OneAGD Culture - Purpose driven, Performance-oriented, and People-centric </h3>
+<h3>OneAGD Culture - Purpose driven, Performance-oriented, and People-centric</h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/3Ps.png">
@@ -86,16 +86,23 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/logo3.png">
 </div>
-<p>The 'A' in our logo incorporates a sail, symbolising the stability and
-stewardship our officers and central systems provide across the Whole-of-Government
-(WOG). It reflects AGD's role as a steadfast guide in public sector finance
-and financial excellence.</p>
-<p>The 'D' integrates a butterfly, a symbol carried over from our previous
-logo. It represents our commitment to adaptability and growth to enhance
-the value proposition of finance officers across WOG. The butterfly also
-signifies our nurturing environment, where ideas and talent flourish.</p>
+<p>The sail-inspired 'A' represents our role as your trusted navigator in
+public sector finance. Just as a sail harnesses the wind's power to chart
+a steady course, we provide the stability and guidance you need to build
+a meaningful career in public sector finance.</p>
+<p>The butterfly-shaped 'D' symbolises the nurturing environment we offer,
+where ideas and talent flourish. At AGD, you will spread your wings in
+a workplace that nurtures growth and celebrates innovation. Like a butterfly
+emerging from its chrysalis, we support your professional metamorphosis
+through continuous learning and development opportunities.</p>
 <p>The darker blue represents our deepened expertise and trust built over
 years, while the vibrant orange-red injects passion into our brand. Together,
 these colours create a powerful visual metaphor of our established foundation
 and dynamic approach to the future.</p>
+<p>The deep blue embodies our wealth of expertise and unwavering reliability,
+while the vibrant orange-red pulses with the energy and passion that drives
+us forward. Together, they reflect our perfect balance of established wisdom
+and fresh thinking—a place where you can build on strong foundations while
+shaping the future of public sector finance.</p>
+<p></p>
 <p></p>
