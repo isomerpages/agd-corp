@@ -5,7 +5,7 @@ description: Scholarship
 third_nav_title: Explore Scholarships
 variant: tiptap
 ---
-<h1>AGD Accountancy Scholarship</h1>
+<h1>AGD  Scholarship</h1>
 <p>If you are looking to have a hand in shaping finance and accounting policies
 in the Civil Service, we offer scholarships for those seeking to achieve
 greater heights in a rewarding career with AGD.</p>
