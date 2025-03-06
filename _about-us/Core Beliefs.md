@@ -75,12 +75,12 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<h3>We are building a Purpose driven, Performance-oriented, and People-centric oneAGD</h3>
+<h3>OneAGD Culture - Purpose driven, Performance-oriented, and People-centric </h3>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/3Ps.png">
 </div>
-<h4>Our OneAGD social compact builds trust and strengthens our foundation to progress as OneAGD.</h4>
+<h4></h4>
 <h1>Logo</h1>
 <p></p>
 <div class="isomer-image-wrapper">
