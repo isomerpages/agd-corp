@@ -6,16 +6,21 @@ third_nav_title: Explore Careers
 variant: tiptap
 ---
 <h1>Finance Associates Programme</h1>
-<p>The Finance Associates Programme is our flagship programme for new hires.
-The Programme allows our associates to systematically acquire strong foundations
-in key domain areas of finance, operations and policy formulation across
-the Whole-of-Government.</p>
-<p>Fresh graduates joining AGD under the programme will undergo a 12-month
-developmental phase comprising an expanded induction programme and 2 rotational
-stints of 1 year each across different finance functions within AGD and
-different public agencies. This will allow them to build up their competencies
-and accelerate career development as well as to take on leadership responsibilities
-early in their career.</p>
+<p>Are you aspiring to become a Chief Finance Officer, Chief Treasury Officer,
+Chief Audit Executive or Chief Operations Officer? At AGD, we will equip
+you with vital experiences and skillsets across diverse functions, preparing
+you for supervisory roles and future C-suite positions.</p>
+<p>Your role will span crucial responsibilities including examining whole-of-government
+financial issues, forecasting and monitoring Government's treasury and
+investment position, enhancing public sector corporate governance, and
+maintaining the integrity of Government Accounting systems. Through this
+programme, you will build strong foundations in key areas of finance, operations
+and whole-of-government policy formulation.</p>
+<p>You will be developed and given exposure to different finance functions
+to help you acquire necessary competencies, which will accelerate your
+career development as you take on leadership responsibilities early in
+your career.</p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide5.png">
