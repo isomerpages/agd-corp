@@ -5,10 +5,10 @@ description: Mission, Vision & Values
 variant: tiptap
 ---
 <h1>Our Core Beliefs</h1>
-<h3>Our Mission</h3>
-<p>Putting finance at the heart of decision-making</p>
 <h3>Our Vision</h3>
 <p>A future-ready leader in transforming Public Sector finance</p>
+<h3>Our Mission</h3>
+<p>Putting finance at the heart of decision-making</p>
 <h3>Our Values (ICITE)</h3>
 <table style="minWidth: 50px">
 <colgroup>
