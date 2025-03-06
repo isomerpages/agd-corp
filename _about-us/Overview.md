@@ -66,9 +66,9 @@ fiscal sustainability of Singapore. We seek to&nbsp;engender a culture
 of prudence&nbsp;within the public sector while meeting the increasing
 expectations of the public.</p>
 <h5>Accountability for performance</h5>
-<p>We perform&nbsp;<strong>financial management reporting and analysis</strong>&nbsp;to
-ensure that Government agencies are held accountable, using efficient&nbsp;<strong>data analytics</strong>&nbsp;to
-aid management in its decision-making processes.</p>
+<p>We perform&nbsp;financial management reporting and analysis&nbsp;to ensure
+that Government agencies are held accountable, using efficient&nbsp;data
+analytics&nbsp;to aid management in its decision-making processes.</p>
 <h5>Government in time for the future</h5>
 <p>As a future-ready organisation, AGD seeks to embrace new knowledge and
 technology to keep abreast of the latest trends in innovation and achieve
