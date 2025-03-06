@@ -62,7 +62,9 @@ agencies.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/FAP5.png">
 </div>
 <h3>Journey of a Finance Associate (Ops-Tech)</h3>
-<p></p>
+<p>The FAP (Ops-Tech) track aims to develop Finance Professionals specialising
+in Ops-Tech to take on apex C-Suite positions such as Chief Operations
+Officer (COO) to manage and run central systems/operations and shared services.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/FAP4.png">
 </div>
