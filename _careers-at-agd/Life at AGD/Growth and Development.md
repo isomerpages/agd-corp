@@ -7,49 +7,48 @@ variant: tiptap
 ---
 <h1>Growth and Development</h1>
 <p></p>
-<p>We have put in place an integrated learning and development framework
-aimed at developing the professional competencies of our officers and strengthening
-our career value proposition as an employer. The framework underpins our
-commitment to nurture our people to their fullest potential.</p>
-<p>At AGD, we believe in developing our people through continuous learning
-and are committed to investing resources and time to support their professional
-and personal growth. We also provide our officers with opportunities to
-acquire different skills and knowledge in various areas of work through
-job rotation and project work.</p>
+<p>At AGD, we are dedicated to nurturing you into an exceptional finance
+professional through our comprehensive learning and development framework.
+Our commitment extends beyond conventional training, as we invest significantly
+in both your professional excellence and personal growth.</p>
+<p>We believe in your continuous development and are committed to investing
+resources and time to support your growth. You will have opportunities
+to acquire different skills and knowledge through varied job rotations
+and exciting project work.</p>
+<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Enhanced_L_D_Framework_for_all_AGD_Officers__Compiled_.png">
 </div>
-<p>AGD’s L&amp;D framework aligns to the oneAGD culture:</p>
+<p>Our L&amp;D framework aligns with the oneAGD culture:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>PERFORMANCE-ORIENTED-</strong> Opportunities for professional growth
-and development to support a performance-oriented organisation</p>
+<p><strong>PERFORMANCE-ORIENTED-</strong> Accelerate your professional growth
+and development</p>
 </li>
 </ul>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>PURPOSE-DRIVEN - </strong>Opportunities for officers to come together
-to understand the common purpose AGD has for the wider public service</p>
+<p><strong>PURPOSE-DRIVEN - </strong>Be part of AGD's mission to transform
+public sector finance</p>
 </li>
 </ul>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>PEOPLE-CENTRIC - </strong>Structured training programmes available
-for all levels to build competencies and leadership</p>
+<p><strong>PEOPLE-CENTRIC - </strong>Build your competencies and leadership
+through structured training</p>
 </li>
 </ul>
 <p></p>
-<p>As part of the career development programme, we have put in place a structured
-posting process for AGD officers to systematically expand their competencies
-across the wide range of central functions and responsibilities. Regular
-career conversations will be conducted between AGD officers and their supervisors
-to try to better match the personal aspirations of the officers with the
-needs of the organisation.</p>
+<p>We tailor your development journey to your unique aspirations. Through
+regular career conversations, we align your personal goals with exciting
+opportunities across AGD. Our structured posting programme ensures you
+gain comprehensive exposure to central functions and responsibilities,
+building your foundation for leadership roles.</p>
 <p></p>
-<p><strong>Training and development opportunities and various training sponsorships to build professional capabilities such as:</strong>
+<p><strong>We provide training and development opportunities and sponsorships to build your professional capabilities such as:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
