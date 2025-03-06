@@ -85,23 +85,23 @@ explore core personal and professional development areas through best practices
 sharing and engaging discussions with senior policy-makers and finance
 leaders.</p>
 <h3>Deployment Stints</h3>
-<p>The deployment stints of Finance Associates will include attachments to
-AGD’s directorates to learn more about the central roles and functions
-fulfilled by AGD.&nbsp; Some Finance Associates may also be attached to
-ministries and statutory boards to provide financial administration support.</p>
+<p>During your deployment stints, you will be attached to AGD's directorates
+to learn more about our central roles and functions. You will also have
+the opportunity to work outside AGD through attachments to ministries and
+statutory boards.</p>
 <h3>Mentoring</h3>
-<p>To help the Finance Associates quickly familiarise with the working environment,
-we will assign a buddy to provide support and answer any queries while
-settling into the new job.</p>
-<p>At the same time, we will assign mentors to all of our Finance Associates.
-Besides providing guidance on the professional development and career aspirations,
-the mentors will also help assess the performance and progress of associates.</p>
+<p>To help you quickly adapt to the working environment, you will be paired
+with a buddy who will provide support and answer your queries as you settle
+into your new role. You will also receive guidance on your professional
+development and career aspirations through mentorship by our Senior Leaders.</p>
 <h3>Post Associates Programme</h3>
-<p>There will be 2 to 3 structured postings, within AGD and/or the ministries
-and statutory boards, in the first six to seven years to equip Finance
-Associates with the necessary experiences and skillsets through a spectrum
-of functions and areas to prepare them to take on supervisory roles in
-the future.</p>
+<p>Upon graduation from the programme, you will participate in a central
+posting exercise called "One Career, Many Opportunities" (OCMO) where you
+will choose from many available roles based on your desired Route of Advancement
+(RoA), within AGD and/or across ministries and statutory boards. These
+postings aim to equip you with the necessary experience and skillsets across
+a spectrum of functions and areas, preparing you to take on supervisory
+roles in the future.</p>
 <p></p>
 <h3>How To Apply</h3>
 <p>Click on the <a href="https://jobs.careers.gov.sg/?a=Accountant-General%27s+Department" rel="noopener nofollow" target="_blank">link</a> to
