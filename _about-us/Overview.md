@@ -54,10 +54,10 @@ the standards (Accounting Standards Act, Section 11).</p>
 <h3>Strategic Outcomes</h3>
 <p>We seek to fulfil the following strategic outcomes:</p>
 <h5>Effective and efficient use of resources</h5>
-<p>We ensure that Government’s resources are used effectively through our&nbsp;<strong>financial policies</strong>&nbsp;and
-value-for-money reviews; we benchmark our resource management framework
-with the leading jurisdictions and strive to learn from the best practices.
-We monitor and report&nbsp;<strong>Singapore’s reserves</strong>&nbsp;position,
+<p>We ensure that Government’s resources are used effectively through our&nbsp;financial
+policies&nbsp;and value-for-money reviews; we benchmark our resource management
+framework with the leading jurisdictions and strive to learn from the best
+practices. We monitor and report&nbsp;<strong>Singapore’s reserves</strong>&nbsp;position,
 fulfilling the Accountant-General’s statutory duty to safeguard reserves.</p>
 <h5>Fiscal sustainability</h5>
 <p>Even as the Government pledges to take better care of Singaporeans through
