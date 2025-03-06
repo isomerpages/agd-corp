@@ -73,11 +73,26 @@ capabilities.</p>
 <p></p>
 <p>The Finance and Corporate Development Directorate oversees the corporate
 requirements of AGD in the areas of finance, human capital management,
-corporate communication and services as well as organisational development.</p>
+corporate communication and services as well as organisational development.
+The Directorate is also responsible for the long-term planning of corporate
+resources.</p>
 <p></p>
-<p>The Directorate is also responsible for the long-term planning of corporate
-resources and in charge of driving the department’s initiatives to achieve
-organisational excellence.</p>
+<p>The Human Capital Management (HCM) Directorate is dedicated to nurturing
+and developing the human capital needs of our officers at both AGD HQ and
+those at the agencies. As stewards of AGD's workforce, HCM plays a crucial
+role in creating a dynamic, inclusive and high-performing work environment.
+Through HCM's efforts in analysing current and future staffing needs and
+creating policies that align with public service values and best practices,
+HCM supports AGD's mission by empowering our people and fostering an environment
+where every employee can thrive and contribute to Singapore's public service
+excellence.</p>
+<p></p>
+<p>The Strategic Planning &amp; Organisational Excellence (SPORE) Directorate
+is a key component of AGD's commitment to continuous improvement and strategic
+alignment. SPORE's primary mission is to strengthen AGD's inner core by
+fostering cohesion across the entire organisation. By fostering cohesion
+and driving excellence, SPORE enhances AGD's overall effectiveness, efficiency
+and adaptability in the ever-evolving public sector financial landscape.</p>
 <p></p>
 <h3>Government Finance Function Office</h3>
 <p>The Government Finance Function Office resides in MOF and it comprises
