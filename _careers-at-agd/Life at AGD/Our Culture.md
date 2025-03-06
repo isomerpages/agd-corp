@@ -33,7 +33,7 @@ variant: tiptap
 <p>Active Day;</p>
 </li>
 <li>
-<p>Mental Well-being Programmes</p>
+<p>Mental Well-being Programmes;</p>
 </li>
 <li>
 <p>Community Involvement Initiatives;</p>
