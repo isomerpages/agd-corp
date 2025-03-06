@@ -5,7 +5,7 @@ description: Scholarship
 third_nav_title: Explore Scholarships
 variant: tiptap
 ---
-<h1>AGD  Scholarship</h1>
+<h1>AGD Scholarship</h1>
 <p>If you are looking to have a hand in shaping finance and accounting policies
 in the Civil Service, we offer scholarships for those seeking to achieve
 greater heights in a rewarding career with AGD.</p>
@@ -62,6 +62,9 @@ Economics and Finance undergraduate programme</p>
 </li>
 <li>
 <p>Support for student exchange program</p>
+</li>
+<li>
+<p>Sponsorship of Master’s degree at local/overseas universities</p>
 </li>
 </ul>
 <p><strong>Academic Requirements</strong>
