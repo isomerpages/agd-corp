@@ -87,4 +87,4 @@ Economics and Finance undergraduate programme</p>
 <p>Good co-curricular activities (CCA) records</p>
 </li>
 </ul>
-<p><a href="https://www.psc.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Apply</a> now!</p>
+<p>Click on the link to <a href="https://www.psc.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">apply</a> now!</p>
