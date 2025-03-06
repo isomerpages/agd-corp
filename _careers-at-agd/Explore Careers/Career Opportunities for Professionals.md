@@ -6,6 +6,7 @@ third_nav_title: Explore Careers
 variant: tiptap
 ---
 <h1>Career Opportunities for Professionals</h1>
+<h3>If you are a Mid-Career Professional</h3>
 <p>AGD is more than just a workplace; it is a place with people at its heart
 and a community working collaboratively across government agencies to drive
 transformative change. Be part of the AGD family and experience it for
