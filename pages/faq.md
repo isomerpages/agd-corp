@@ -10,9 +10,9 @@ of Finance (MOF) that works closely with multiple agencies to make Singapore
 a better place through Finance.</p>
 <h4>What services does AGD provide?</h4>
 <p>AGD offers a comprehensive range of solutions and services that helps
-transform public sector finance, from strengthening our role as steward
-of public finance, providing value-adding financial systems to developing
-public sector financial capabilities.</p>
+transform public sector finance. These include strengthening our role as
+steward of public finances, providing value-adding financial systems, and
+developing public sector financial capabilities.</p>
 <h1>Career with AGD</h1>
 <h4>How do I apply for a job in AGD?</h4>
 <p>Applications for AGD’s job openings can be done through&nbsp;<a href="https://www.careers.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Careers@Gov</a>.</p>
@@ -20,10 +20,12 @@ public sector financial capabilities.</p>
 <p>Drop HR an email at Internship@agd.gov.sg and we will get in touch with
 you.</p>
 <h4>Would there be training provided if I join AGD as a fresh graduate?</h4>
-<p>Fresh graduates, as well as new hires with less than 3 years of working
-experience, will undergo our 2-year AGD Associates Programme. Officers
-will not only attend 3 phases of trainings but also take part in different
-team bonding activities. More information can be found <a href="https://www.agd.gov.sg/careers-at-agd/finance-associates-programme/" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p>The Finance Associates Programme (FAP) is AGD's flagship development programme
+for fresh graduates and professionals with up to two years of working experience.
+Through three structured training programmes, associates gain essential
+knowledge in finance functions, operations, and policy formation. The programme
+aims to groom future finance leaders who will take on C-suite positions
+across public service agencies. More information can be found <a href="https://www.agd.gov.sg/careers-at-agd/finance-associates-programme/" rel="noopener nofollow" target="_blank">here</a>.</p>
 <h4>Will the experience in AGD be recognised for ISCA membership and/or Singapore Chartered Accountant Qualification?</h4>
 <p>AGD is an Accredited Training Organisation (ATO) and the working experience
 at AGD is recognised as relevant experience for gaining admission to ISCA
