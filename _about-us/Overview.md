@@ -62,8 +62,9 @@ fulfilling the Accountant-General’s statutory duty to safeguard reserves.</p>
 <h5>Fiscal sustainability</h5>
 <p>Even as the Government pledges to take better care of Singaporeans through
 greater social outlays, it is imperative that we continue to promote the
-fiscal sustainability of Singapore. We seek to&nbsp;<strong>engender a culture of prudence</strong>&nbsp;within
-the public sector while meeting the increasing expectations of the public.</p>
+fiscal sustainability of Singapore. We seek to&nbsp;engender a culture
+of prudence&nbsp;within the public sector while meeting the increasing
+expectations of the public.</p>
 <h5>Accountability for performance</h5>
 <p>We perform&nbsp;<strong>financial management reporting and analysis</strong>&nbsp;to
 ensure that Government agencies are held accountable, using efficient&nbsp;<strong>data analytics</strong>&nbsp;to
