@@ -28,6 +28,5 @@ initiating communities of financial practice in the areas of internal audit,
 financial management etc. The Centre of Excellence in Assurance &amp; Public
 Finance will drive key initiatives to deepen the sectoral capabilities
 of financial officers and ensure their continual engagement and professional
-development. We will strengthen public finance capabilities in land and
-infrastructure, security and resilience, social and economic sectors, with
-a view to building competent finance teams serving the government agencies.</p>
+development. We will strengthen public finance capabilities with a view
+to building competent finance teams across government agencies.</p>
