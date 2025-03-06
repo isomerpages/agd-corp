@@ -7,10 +7,11 @@ variant: tiptap
 ---
 <h1>Steward of Public Sector Finances</h1>
 <h3>Financial Stewardship and Reporting</h3>
-<p>We prepare the Government Financial Statements for auditing and presentation
-to the Parliament by the Minister for Finance. We also make use of analytics
-to help evaluate financial information that can guide Government agencies
-in making better decisions.</p>
+<p>We prepare and analyse Government Financial Statements, monitor financial
+returns from Government assets and borrowings, and provide critical financial
+insights to guide decision-making across agencies. As stewards of public
+resources, we report on reserves to the President and oversee Singapore
+Government Securities.</p>
 <h3>Formulating Accounting, Financial, and Reserves Policies</h3>
 <p>We formulate, review and advise on financial, accounting and reserves-related
 policies and principles.</p>
