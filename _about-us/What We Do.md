@@ -15,7 +15,7 @@ governance and strengthening the Public Sector Internal Audit (IA) profession.</
 spanning a range of sectors. It also develops central policy guidance for
 the IA profession in the areas of digitalisation, structure, and standards.
 The directorate also drives key initiatives to deepen the capabilities
-of IA officers.</p>
+of IA officers in partnership with Government Finance Function Office.</p>
 <p></p>
 <h3>Financial Reporting and Operations</h3>
 <p>The Financial Reporting Operations Group oversees the central finance
