@@ -15,7 +15,7 @@ to ensure the integrity of these systems.</p>
 <h3>Managing Government Funds and Cash Flow</h3>
 <p>We manage the Government’s cash, receipts, and payments to vendors, employees,
 and pensioners and ensure that the payments are efficiently processed.</p>
-<h3>Providing Value-adding Financial and Internal Audit Services </h3>
+<h3>Providing Value-adding Financial and Internal Audit Services</h3>
 <p>We support the financial functions of Ministries&nbsp;and Statutory Boards&nbsp;by
 deploying our officers and provide strategic inputs to Senior Management.</p>
 <p>We provide internal audit services to Government agencies in order to
