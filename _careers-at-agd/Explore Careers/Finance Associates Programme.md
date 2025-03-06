@@ -68,32 +68,28 @@ Officer (COO) to manage and run central systems/operations and shared services.<
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/FAP4.png">
 </div>
-<h3>Expanded Induction Programme</h3>
-<p>The expanded induction programme comprises three modules - Basic, Foundational
-and Developmental – which the Finance Associates will undergo in their
-first year with AGD.&nbsp; The different modules are specially tailored
-to equip our Associates with rudimentary concepts in Public Finance functions
-and to apply these concepts throughout their deployment stints.</p>
-<p>The Basic module, conducted at the start of the programme, will provide
-the Finance Associates with a broad overview of AGD’s central roles such
-as cash management, financial reporting, assurance and Value-For-Money
-reviews and financial administration.</p>
-<p>
-<br>The Foundational module, conducted in between the deployment stints of
-the Finance Associates, will focus on the applications of key foundational
-financial knowledge and skillsets as well as soft skills developments through
-case studies and hands-on exercises.</p>
-<p>The Developmental module, conducted at the end of the programme, will
-introduce the Finance Associates to core personal and professional development
-areas through the sharing of best practices and chats with senior policy-makers
-and finance leaders.</p>
+<h3>AGD Induction Programme</h3>
+<p>As a Finance Associate, you will undergo a comprehensive induction programme
+comprising three modules - Basic, Foundational and Developmental – during
+your first two years with AGD. These modules are specially designed to
+equip you with essential concepts in Public Finance functions and help
+you apply them throughout your deployment stints.</p>
+<p>Your journey begins with the Basic module, providing you with a broad
+overview of AGD's central roles including cash management, financial reporting,
+assurance and Value-For-Money reviews, and financial administration.</p>
+<p>Between your deployment stints, you will participate in the Foundational
+module, where you will focus on applying key financial knowledge and developing
+soft skills through case studies and hands-on exercises.</p>
+<p>Your induction concludes with the Developmental module, where you will
+explore core personal and professional development areas through best practices
+sharing and engaging discussions with senior policy-makers and finance
+leaders.</p>
 <h3>Deployment Stints</h3>
 <p>The deployment stints of Finance Associates will include attachments to
 AGD’s directorates to learn more about the central roles and functions
 fulfilled by AGD.&nbsp; Some Finance Associates may also be attached to
 ministries and statutory boards to provide financial administration support.</p>
 <h3>Mentoring</h3>
-<p></p>
 <p>To help the Finance Associates quickly familiarise with the working environment,
 we will assign a buddy to provide support and answer any queries while
 settling into the new job.</p>
