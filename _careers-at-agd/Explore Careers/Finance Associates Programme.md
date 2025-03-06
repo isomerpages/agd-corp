@@ -104,5 +104,5 @@ a spectrum of functions and areas, preparing you to take on supervisory
 roles in the future.</p>
 <p></p>
 <h3>How To Apply</h3>
-<p>Click on the <a href="https://jobs.careers.gov.sg/?a=Accountant-General%27s+Department" rel="noopener nofollow" target="_blank">link</a> to
-apply now. We look forward to receiving your application.</p>
+<p>Your path to shaping public sector finance starts here. Click on the
+<a href="https://jobs.careers.gov.sg/?a=Accountant-General%27s+Department" rel="noopener nofollow" target="_blank">link</a>to apply now. We look forward to receiving your application.</p>
