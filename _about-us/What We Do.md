@@ -61,8 +61,9 @@ at optimal risk exposure and effectively allocate resources.</p>
 <p>The directorate also supports the Accountant-General in his Constitutional
 duty to safeguard reserves.</p>
 <p></p>
-<p>The Technical Directorate is involved in setting accounting standards,
-policies and practices for compliance by Ministries and Statutory Boards.</p>
+<p>The Technical Directorate is involved in setting accounting and sustainability
+reporting standards and practices for compliance by Ministries and Statutory
+Boards.</p>
 <p></p>
 <p>The Finance Data &amp; Analytics Directorate spearheads the development
 and administration of business intelligence systems and data analytics
