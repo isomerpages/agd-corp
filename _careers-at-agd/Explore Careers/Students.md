@@ -16,7 +16,7 @@ Public Sector.</p>
 variety of challenging projects, gaining valuable and practical work experience.
 The internship experience will also help them develop an interdisciplinary
 perspective, giving them a significant edge when seeking future employment.</p>
-<p><strong>Under the internship program, opportunities include:</strong>
+<p><strong>Under the internship programme, opportunities include:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
