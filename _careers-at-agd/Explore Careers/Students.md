@@ -6,7 +6,7 @@ third_nav_title: Explore Careers
 variant: tiptap
 ---
 <h1>For Students</h1>
-<p>We offer internship programs to pre-university and undergraduate students
+<p>We offer internship programmes to pre-university and undergraduate students
 who wish to gain experience in accounting and finance related work in the
 Public Sector.</p>
 <div class="iframe-wrapper">
