@@ -14,7 +14,7 @@ exceptional students in the School of Accountancy and spur them to greater
 heights of academic excellence.</p>
 <p>This award aims to promote students to become well-rounded in the accounting
 field. It will provide recognition for an outstanding second year student
-in the Bachelor of Accountancy program at SMU’s School of Accountancy.</p>
+in the Bachelor of Accountancy programme at SMU’s School of Accountancy.</p>
 <h4>Eligibility Criteria</h4>
 <ul data-tight="true" class="tight">
 <li>
