@@ -61,7 +61,7 @@ Economics and Finance undergraduate programme</p>
 <p>Maintenance and other allowances</p>
 </li>
 <li>
-<p>Support for student exchange program</p>
+<p>Support for student exchange programme</p>
 </li>
 <li>
 <p>Sponsorship of Master’s degree at local/overseas universities</p>
