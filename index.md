@@ -44,8 +44,8 @@ sections:
       alt: Image alt text
   - infopic:
       subtitle: Internship
-      description: We offer internship programs to undergraduates who wish to gain
-        experience in accounting and finance.
+      description: We offer internship programmes to pre-university and undergraduate
+        students who wish to gain experience in accounting and finance.
       button: FIND OUT MORE
       url: /careers-at-agd/internship/
       image: /images/SC1_8776.jpg
