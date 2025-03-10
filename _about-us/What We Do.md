@@ -20,6 +20,7 @@ of IA officers in partnership with Government Finance Function Office.</p>
 <h3>Financial Reporting and Operations</h3>
 <p>The Financial Reporting Operations Group oversees the central finance
 operations.</p>
+<p></p>
 <p>The Financial Reporting and HRP Operations Directorate handles all various
 aspects of financial reporting within the Government, including statutory
 and management reporting and the related processes, providing oversight
@@ -38,36 +39,34 @@ AGD helpdesk and service request systems), and</p>
 payment timeline for vendors, work with IMDA to drive the adoption of national
 e-invoicing system among vendors who transact with the Government, and
 study the modernization of the Government Financial System (NFS@Gov).</p>
+<p></p>
 <h3>Finance Transformation</h3>
 <p>The Finance Transformation Group considers new emerging capabilities,
 drives the strategic development of Future Finance and plays a key role
 in re- engineering current finance systems, structures and processes as
 well as launching finance growth areas/initiatives.</p>
+<p></p>
 <p>The Group plays a critical role in managing and ensuring the successful
 implementation of WOG transformations and revamp of the central payroll,
 claims and finance processes and delivery under the HR Payroll System and
 the Integrated Corporate Systems.</p>
+<p></p>
 <h3>Technology</h3>
 <p>The Technology Directorate develops AGD’s IT strategy, policies, standards
 and procedures. It also plays a key role in system infrastructure &amp;
 security administration, as well as system maintenance and enhancements.</p>
+<p></p>
 <h3>Treasury, Technical and Analytics</h3>
-<p>The Treasury Directorate supports the MOF in the effective management
-of the Government’s balance sheet. They monitor the performance and risk
-of Government’s assets and seeks to optimise the level of liquidity and
-efficiency of cash management, increase the cost efficiency of liabilities
-at optimal risk exposure and effectively allocate resources.</p>
+<p>The Treasury Directorate supports MOF in the effective management of the
+Government's balance sheet, ensuring that assets and liabilities are holistically
+and efficiently managed. The directorate also supports the Accountant-General
+in his Constitutional duty to safeguard reserves.</p>
+<p>The Technical Directorate is involved in setting accounting standards,
+policies and practices for compliance by Statutory Boards.</p>
+<p>The Finance Data &amp; Analytics Directorate maintains the whole-of-government
+finance data warehouse and finance data analytics platform, and supports
+the government finance community in using data analytics in their work.</p>
 <p></p>
-<p>The directorate also supports the Accountant-General in his Constitutional
-duty to safeguard reserves.</p>
-<p></p>
-<p>The Technical Directorate is involved in setting accounting and sustainability
-reporting standards and practices for compliance by Ministries and Statutory
-Boards.</p>
-<p></p>
-<p>The Finance Data &amp; Analytics Directorate spearheads the development
-and administration of business intelligence systems and data analytics
-projects.</p>
 <h3>People and Organisation</h3>
 <p>The People &amp; Organisation Group focuses on developing people and organisational
 capabilities.</p>
