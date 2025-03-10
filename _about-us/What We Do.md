@@ -100,10 +100,10 @@ three branches -&nbsp; Finance Workforce Planning (FWP) Branch; the Strategies,
 Policies and Performance (SPP) Branch and the Finance Capabilities, Engagement
 and Risk Management (CER) Branch.</p>
 <p></p>
-<p>The FWP Branch (double reporting to GFFO and HCM) looks into developing
-the career pathways, providing career development in structured job rotations
-and talent attachment programmes, facilitating succession planning and
-rationalising of finance positions in the wider public sector.</p>
+<p>The FWP Branch looks into developing the career pathways, providing career
+development in structured job rotations and talent attachment programmes,
+facilitating succession planning and rationalising of finance and internal
+audit positions in the wider public sector.</p>
 <p></p>
 <p>The SPP Branch focuses on driving strategy reviews and managing performance
 of the finance function across the whole of government. It also keeps an
