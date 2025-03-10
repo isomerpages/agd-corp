@@ -24,10 +24,11 @@ officers. Our role extends beyond talent development; we collaborate with
 agencies to establish industry standards and design optimal finance and
 internal audit structures that maximise their potential.</p>
 <h3>Sharing through Communities of Financial Practice</h3>
-<p>We will share best practices among public sector financial officers through
-initiating communities of financial practice in the areas of internal audit,
-financial management etc. The functional leadership in Assurance &amp;
-Public Finance will drive key initiatives to deepen the sectoral capabilities
-of financial officers and ensure their continual engagement and professional
-development. We will strengthen public finance capabilities with a view
-to building competent finance teams across government agencies.</p>
+<p>We will share best practices among public sector finance and internal
+audit officers through initiating communities of financial practice in
+the areas of internal audit, financial management etc. The functional leadership
+in Assurance &amp; Public Finance will drive key initiatives to deepen
+the sectoral capabilities of financial officers and ensure their continual
+engagement and professional development. We will strengthen public finance
+capabilities with a view to building competent finance teams across government
+agencies.</p>
