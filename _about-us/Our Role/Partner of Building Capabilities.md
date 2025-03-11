@@ -8,10 +8,10 @@ variant: tiptap
 <h2>Partner of Building Capabilities</h2>
 <h3>Building Financial Competencies</h3>
 <p>We work in collaboration with the Ministry of Finance and Public Service
-Division in strengthening the financial competencies of the officers in
-the Public Sector. AGD has also looked into growing the capabilities of
-AGD officers and the wider Public Sector finance community through the
-development of training programmes.</p>
+Division to strengthen the financial competencies of officers in the Public
+Sector. AGD has also established the Finance &amp; Procurement Academy
+to look into growing the capabilities of AGD officers and the wider Public
+Sector finance community through the development of training programmes.</p>
 <h3>Developing Finance and Internal Audit Leaders for the Public Sector</h3>
 <p>We help to manage the professional and career development of finance and
 internal audit professionals with the aim of attracting and developing
