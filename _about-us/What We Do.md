@@ -87,35 +87,38 @@ HCM supports AGD's mission by empowering our people and fostering an environment
 where every employee can thrive and contribute to Singapore's public service
 excellence.</p>
 <p></p>
-<p>The Strategic Planning &amp; Organisational Excellence (SPORE) Directorate
-is a key component of AGD's commitment to continuous improvement and strategic
-alignment. SPORE's primary mission is to strengthen AGD's inner core by
-fostering cohesion across the entire organisation. By fostering cohesion
-and driving excellence, SPORE enhances AGD's overall effectiveness, efficiency
-and adaptability in the ever-evolving public sector financial landscape.</p>
+<p>The Strategic Planning &amp; Organisational Excellence (SPORE) unit is
+committed to driving strategic alignment and organisational excellence
+within AGD. SPORE is focused on enabling the development of AGD's organisational
+strategy, being a catalyst for organisational transformation, and nurturing
+a strong organisational culture and engagement as OneAGD.</p>
 <p></p>
 <h3>Government Finance Function Office</h3>
-<p>The Government Finance Function Office resides in MOF and it comprises
-three branches -&nbsp; Finance Workforce Planning (FWP) Branch; the Strategies,
-Policies and Performance (SPP) Branch and the Finance Capabilities, Engagement
-and Risk Management (CER) Branch.</p>
+<p>The Government Finance Function Office resides in MOF and comprises three
+branches – the Finance Workforce Planning (FWP) Branch; the Strategies,
+Policies, Practices and Performance (SPPP) Branch and the Capabilities,
+Engagement and Risk Management (CER) Branch.</p>
 <p></p>
 <p>The FWP Branch looks into developing the career pathways, providing career
 development in structured job rotations and talent attachment programmes,
 facilitating succession planning and rationalising of finance and internal
 audit positions in the wider public sector.</p>
 <p></p>
-<p>The SPP Branch focuses on driving strategy reviews and managing performance
-of the finance function across the whole of government. It also keeps an
-oversight of the international counterparts of AG (and GFFO) across other
-countries.</p>
+<p>The SPPP Branch drives functional excellence through performance management
+and reporting across the Whole-of-Government finance function, while serving
+as a catalyst for finance transformation initiatives. By leveraging emerging
+technologies and studying ways to reorganise small finance teams, they
+spearhead efficiency improvements across the public sector. The team also
+manages overseas engagements, facilitating knowledge exchange and fostering
+collaborative relationships.</p>
 <p></p>
-<p>The CER Branch works closely together with the Government Procurement
-Function Office (GPFO) sited in MOF and Civil Service College to oversee
-professional development of finance, internal audit and procurement specialists
-for the public service; this is done through a joint setup known as the
-Finance and Procurement Academy (FPA). It also drives outreach and engagement
-efforts to the finance and IA community across the public service and looks
-after Enterprise Risk Management for the Finance Function.</p>
+<p>The CER Branch collaborates with the Government Procurement Function Office
+(GPFO) in MOF and Civil Service College to oversee the professional development
+of finance, Internal Audit (IA) and procurement officers for the public
+service through the Finance and Procurement Academy (FPA). It also drives
+outreach and engagement initiatives for the finance and IA community across
+the public service and oversees risk management for the Whole-of-Government
+Finance Function.</p>
+<p></p>
 <h2></h2>
 <p></p>
