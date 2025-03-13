@@ -161,38 +161,37 @@ Board and Institute of Certified Public Accountants.</p>
 <summary><strong>Past and Current Accountant-Generals</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<h4><strong>2025</strong></h4>
+<p>• Ms Esther Wee as Accountant-General</p>
+<p>The current Accountant-General, Ms Esther Wee, was appointed as Accountant-General
+in February 2025.</p>
+<h4><strong>2015</strong></h4>
+<p>• Mr Ow Fook Chuen as Accountant-General</p>
+<p>The current Accountant-General, Mr Ow Fook Chuen, was appointed as Accountant-General
+in March 2015.</p>
+<h4><strong>2000</strong></h4>
+<p>• Ms Chua Geok Wah as Accountant-General</p>
+<p>Ms Chua Geok Wah took over the role of Accountant-General for 15 years.</p>
+<h4><strong>1995</strong></h4>
+<p>• Mr Goh Khee Kuan as Accountant-General</p>
+<p>Mr Goh Khee Kuan became the Accountant-General in 1995.</p>
+<h4><strong>1984</strong></h4>
+<p>• Mr Chris Liew Peng Fook as Accountant-General</p>
+<p>Mr Chris Liew Peng Fook took over as Accountant-General upon Mr Ang’s
+retirement and assumed the leadership position for 11 years.</p>
+<h4><strong>1979</strong></h4>
+<p>• Mr Ang Teck Leong as Accountant-General</p>
+<p>Mr Ang Teck Leong took over the helm from Mr Chua as Accountant-General
+for the next 5 years.</p>
+<h4><strong>1961</strong></h4>
+<p>• Appointment of First Local Accountant-General</p>
+<p>Mr Chua Kim Yeow became the first local Accountant-General. Mr Chua served
+as the Accountant-General for 19 years.</p>
 <h4><strong>1937</strong></h4>
 <p>• Appointment of the First Straits Settlements Accountant-General</p>
 <p>As part of the financial reorganisation of the Colonial Governments, Mr
 W.C. Hodges was appointed as the first Straits Settlements Accountant-General,
 responsible for collecting revenue and accounting for revenue and expenditure.</p>
-<h4><strong>1961</strong></h4>
-<p>• Appointment of First Local Accountant-General</p>
-<p>Mr Chua Kim Yeow became the first local Accountant-General. Mr Chua served
-as the Accountant-General for 19 years.</p>
-<h4><strong>1979</strong></h4>
-<p>• Mr Ang Teck Leong as Accountant-General</p>
-<p>Mr Ang Teck Leong took over the helm from Mr Chua as Accountant-General
-for the next 5 years</p>
-<h4><strong>1984</strong></h4>
-<p>• Mr Chris Liew Peng Fook as Accountant-General</p>
-<p>Mr Chris Liew Peng Fook took over as Accountant-General upon Mr Ang’s
-retirement and assumed the leadership position for 11 years.</p>
-<h4><strong>1995</strong></h4>
-<p>• Mr Goh Khee Kuan as Accountant-General</p>
-<p>Mr Goh Khee Kuan became the Accountant-General in 1995.</p>
-<h4><strong>2000</strong></h4>
-<p>• Ms Chua Geok Wah as Accountant-General</p>
-<p>Ms Chua Geok Wah took over the role of Accountant-General for 15 years.</p>
-<h4><strong>2015</strong></h4>
-<p>• Mr Ow Fook Chuen as Accountant-General</p>
-<p>The current Accountant-General, Mr Ow Fook Chuen, was appointed as Accountant-General
-in March 2015.</p>
-<h4><strong>2025</strong></h4>
-<p>• Ms Esther Wee as Accountant-General</p>
-<p>The current Accountant-General, Ms Esther Wee, was appointed as Accountant-General
-in February 2025.</p>
-<p></p>
 </div>
 </details>
 </div>
