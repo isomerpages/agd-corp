@@ -14,17 +14,6 @@ variant: tiptap
 <summary><strong>History</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h4><strong>1867</strong></h4>
-<p>• Establishment of the Crown Colony of the British Empire</p>
-<p>This was the year that the Straits Settlements were made a Crown Colony
-of the British Empire. During this period, the Lieutenant-Governor of Penang
-reported on the revenue and expenditure of the settlements. Mr William
-Willans Willans was the Treasurer for the Crown Colony.</p>
-<h4><strong>1947</strong></h4>
-<p>• Preparation of First Set of Financial Statements for the Crown Colony
-of Singapore</p>
-<p>Mr N. M. Kennedy took over in 1947 and prepared the first set of financial
-statements for the Crown Colony of Singapore for the year 1946.</p>
 <h4><strong>1965</strong></h4>
 <p>• AGD as the “Central Banker”</p>
 <p>The Accountant-General's Department came under Singapore Government’s
@@ -33,7 +22,17 @@ in 1965, AGD took on responsibilities of a “Central Banker” and performed
 the roles of Registrar of Loans, Deputy Foreign Exchange Controller and
 Commissioner of Banking. These functions were transferred from AGD to the
 Monetary Authority of Singapore (MAS) when it was formed in 1971.</p>
-<p></p>
+<h4><strong>1947</strong></h4>
+<p>• Preparation of First Set of Financial Statements for the Crown Colony
+of Singapore</p>
+<p>Mr N. M. Kennedy took over in 1947 and prepared the first set of financial
+statements for the Crown Colony of Singapore for the year 1946.</p>
+<h4><strong>1867</strong></h4>
+<p>• Establishment of the Crown Colony of the British Empire</p>
+<p>This was the year that the Straits Settlements were made a Crown Colony
+of the British Empire. During this period, the Lieutenant-Governor of Penang
+reported on the revenue and expenditure of the settlements. Mr William
+Willans Willans was the Treasurer for the Crown Colony.</p>
 </div>
 </details>
 <details class="isomer-details">
