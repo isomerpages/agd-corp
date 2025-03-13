@@ -5,7 +5,7 @@ description: Internship
 third_nav_title: Explore Careers
 variant: tiptap
 ---
-<h1>For Students</h1>
+<h1>Internship Opportunities</h1>
 <p>We offer internship programmes to pre-university and undergraduate students
 who wish to gain experience in accounting and finance related work in the
 Public Sector.</p>
