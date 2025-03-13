@@ -6,7 +6,7 @@ third_nav_title: Explore Careers
 variant: tiptap
 ---
 <h1>Overview</h1>
-<h3>Endless Possibilities, One Career</h3>
+<h3>One Career, Endless Possibilities</h3>
 <p>We welcome talents who are committed to contributing towards transforming
 Public Sector Finance as well as boosting the finance capability for One
 Public Service.</p>
