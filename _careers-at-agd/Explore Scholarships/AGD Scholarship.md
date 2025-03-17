@@ -9,17 +9,16 @@ variant: tiptap
 <p>If you are looking to have a hand in shaping finance and accounting policies
 in the Civil Service, we offer scholarships for those seeking to achieve
 greater heights in a rewarding career with AGD.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Char.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/B1.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Eun1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/B2.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/sha.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/b3.png">
 </div>
 <p><strong>Choice of Study</strong>
 </p>
