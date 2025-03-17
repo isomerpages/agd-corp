@@ -6,13 +6,11 @@ third_nav_title: Life at AGD
 variant: tiptap
 ---
 <h1>Our Culture</h1>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/jer2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/b6.png">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/shaq2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/b11.png">
 </div>
 <p><strong>At AGD, we offer a diverse range of activities to engage staff such as:</strong>
 </p>
