@@ -41,15 +41,16 @@ e-invoicing system among vendors who transact with the Government, and
 study the modernization of the Government Financial System (NFS@Gov).</p>
 <p></p>
 <h3>Finance Transformation</h3>
-<p>The Finance Transformation Group considers new emerging capabilities,
-drives the strategic development of Future Finance and plays a key role
-in re- engineering current finance systems, structures and processes as
-well as launching finance growth areas/initiatives.</p>
+<p>The Finance Transformation Group plays a critical role in driving the
+strategic development of Future Finance by managing and ensuring the successful
+consolidation and implementation of Statutory Boards’ finance and payroll
+systems onto a cloud-based central corporate system.</p>
 <p></p>
-<p>The Group plays a critical role in managing and ensuring the successful
-implementation of WOG transformations and revamp of the central payroll,
-claims and finance processes and delivery under the HR Payroll System and
-the Integrated Corporate Systems.</p>
+<p>The Group drives WOG Finance transformation by adopting new emerging capabilities
+and through launching of growth areas/initiatives. It leverages technology
+to re-engineer workflows and streamline operations, with the aim of optimising
+processes and strengthening governance for the central finance, payroll,
+and claims systems.</p>
 <p></p>
 <h3>Technology</h3>
 <p>The Technology Directorate develops AGD’s IT strategy, policies, standards
@@ -61,8 +62,10 @@ security administration, as well as system maintenance and enhancements.</p>
 Government's balance sheet, ensuring that assets and liabilities are holistically
 and efficiently managed. The directorate also supports the Accountant-General
 in his Constitutional duty to safeguard reserves.</p>
+<p></p>
 <p>The Technical Directorate is involved in setting accounting standards,
 policies and practices for compliance by Statutory Boards.</p>
+<p></p>
 <p>The Finance Data &amp; Analytics Directorate maintains the whole-of-government
 finance data warehouse and finance data analytics platform, and supports
 the government finance community in using data analytics in their work.</p>
