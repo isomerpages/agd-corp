@@ -71,8 +71,8 @@ record with the University in respect of behavior involving dishonesty
 or moral turpitude.</p>
 </li>
 <li>
-<p>The Award recipient will undergo a ten-week internship programme at AGD
-during the third year of the undergraduate study.</p>
+<p>The Award recipient will be offered a ten-week internship programme at
+AGD during the third year of the undergraduate study.</p>
 </li>
 </ul>
 <h4>No. of Awards</h4>
