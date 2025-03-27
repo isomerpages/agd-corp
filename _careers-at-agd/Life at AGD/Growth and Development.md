@@ -61,10 +61,10 @@ building your foundation for leadership roles.</p>
 <p>Continuous Learning and Professional Development Programmes</p>
 </li>
 <li>
-<p>Sponsorships and</p>
+<p>Sponsorships</p>
 </li>
 <li>
-<p>Scholarships.</p>
+<p>Scholarships</p>
 </li>
 </ul>
 <p></p>
