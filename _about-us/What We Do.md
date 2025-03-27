@@ -98,7 +98,7 @@ a strong organisational culture and engagement as OneAGD.</p>
 <p></p>
 <h3>Government Finance Function Office</h3>
 <p>The Government Finance Function Office resides in MOF and comprises three
-branches – the Finance Workforce Planning (FWP) Branch; the Strategies,
+branches – the Finance Workforce Planning (FWP) Branch, the Strategies,
 Policies, Practices and Performance (SPPP) Branch and the Capabilities,
 Engagement and Risk Management (CER) Branch.</p>
 <p></p>
