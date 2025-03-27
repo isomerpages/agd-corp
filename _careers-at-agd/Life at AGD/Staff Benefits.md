@@ -50,7 +50,7 @@ officers:</p>
 <p>Child-Care / Parent-Care Leave</p>
 </li>
 <li>
-<p>Compassionate Leave and</p>
+<p>Compassionate Leave</p>
 </li>
 <li>
 <p>Study Leave</p>
@@ -60,7 +60,7 @@ officers:</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Medical Subsidies and</p>
+<p>Medical Subsidies</p>
 </li>
 <li>
 <p>Dental Subsidies</p>
