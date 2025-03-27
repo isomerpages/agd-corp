@@ -52,16 +52,16 @@ building your foundation for leadership roles.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Work-Related Courses;</p>
+<p>Work-Related Courses</p>
 </li>
 <li>
-<p>Self-Development Courses;</p>
+<p>Self-Development Courses</p>
 </li>
 <li>
-<p>Continuous Learning and Professional Development Programmes;</p>
+<p>Continuous Learning and Professional Development Programmes</p>
 </li>
 <li>
-<p>Sponsorships; and</p>
+<p>Sponsorships and</p>
 </li>
 <li>
 <p>Scholarships.</p>
