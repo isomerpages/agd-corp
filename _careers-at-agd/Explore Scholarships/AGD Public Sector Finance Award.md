@@ -78,8 +78,7 @@ AGD during the third year of the undergraduate study.</p>
 <h4>No. of Awards</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>1 Award will be granted per academic year for 5 academic years, from AY2015/2016
-to AY2019/2020.</p>
+<p>1 Award will be granted per academic year</p>
 </li>
 </ul>
 <h4>Value of Award</h4>
