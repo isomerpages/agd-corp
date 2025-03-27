@@ -17,28 +17,28 @@ variant: tiptap
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>OneAGD Connect;</p>
+<p>OneAGD Connect</p>
 </li>
 <li>
-<p>Annual Dinner and Dance;</p>
+<p>Annual Dinner and Dance</p>
 </li>
 <li>
-<p>AGD Work-plan Retreat;</p>
+<p>AGD Work-plan Retreat</p>
 </li>
 <li>
-<p>Team Bonding;</p>
+<p>Team Bonding</p>
 </li>
 <li>
-<p>Active Day;</p>
+<p>Active Day</p>
 </li>
 <li>
-<p>Mental Well-being Programmes;</p>
+<p>Mental Well-being Programmes</p>
 </li>
 <li>
-<p>Community Involvement Initiatives;</p>
+<p>Community Involvement Initiatives</p>
 </li>
 <li>
-<p>and Excursions/ Outings;</p>
+<p>and Excursions/ Outings</p>
 </li>
 </ul>
 <p></p>
