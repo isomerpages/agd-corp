@@ -32,25 +32,25 @@ officers:</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Vacation Leave;</p>
+<p>Vacation Leave</p>
 </li>
 <li>
-<p>Volunteer Leave;</p>
+<p>Volunteer Leave</p>
 </li>
 <li>
-<p>Marriage Leave;</p>
+<p>Marriage Leave</p>
 </li>
 <li>
-<p>Hospitalisation / Medical Leave;</p>
+<p>Hospitalisation / Medical Leave</p>
 </li>
 <li>
-<p>Maternity / Paternity Leave;</p>
+<p>Maternity / Paternity Leave</p>
 </li>
 <li>
-<p>Child-Care / Parent-Care Leave;</p>
+<p>Child-Care / Parent-Care Leave</p>
 </li>
 <li>
-<p>Compassionate Leave; and</p>
+<p>Compassionate Leave and</p>
 </li>
 <li>
 <p>Study Leave</p>
@@ -60,7 +60,7 @@ officers:</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Medical Subsidies; and</p>
+<p>Medical Subsidies and</p>
 </li>
 <li>
 <p>Dental Subsidies</p>
