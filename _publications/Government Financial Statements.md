@@ -7,12 +7,8 @@ variant: tiptap
 <h1>FY2023/2024 Government Financial Statements</h1>
 <p>The Government Financial Statements for the financial year 2023/2024 were
 prepared in accordance with section 18 of the Financial Procedure Act 1966.</p>
-<ul data-tight="true" class="tight">
-<li>
 <p><a href="/files/Publications/FY2023_Government_Financial_Statements.pdf" rel="noopener noreferrer nofollow" target="_blank">FY2023/2024_Government_Financial_Statements.pdf </a>(pdf
 1,715 KB)</p>
-</li>
-</ul>
 <h3>Archives of the Government Financial Statements</h3>
 <p><a href="/files/Publications/fy2022_government_financial_statements.pdf" rel="noopener noreferrer nofollow" target="_blank">FY2022/2023 Government Financial Statements</a> (pdf
 3,509 KB)</p>
