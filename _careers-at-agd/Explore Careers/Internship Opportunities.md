@@ -22,14 +22,14 @@ perspective, giving them a significant edge when seeking future employment.</p>
 <li>
 <p>Participate in reviews of how Government operates and whether Government's
 spending is value-for-money. This involves going for field trips and external
-meetings;</p>
+meetings</p>
 </li>
 <li>
-<p>Participate in research projects on international developments;</p>
+<p>Participate in research projects on international developments</p>
 </li>
 <li>
 <p>Work with our officers on various projects such as Data Analytics and
-Benchmarking of Financial Processes and Functions; and</p>
+Benchmarking of Financial Processes and Functions and</p>
 </li>
 <li>
 <p>Present the outcome at management or senior management level.</p>
