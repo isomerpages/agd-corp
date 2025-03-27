@@ -17,8 +17,7 @@ developing public sector financial capabilities.</p>
 <h4>How do I apply for a job in AGD?</h4>
 <p>Applications for AGD’s job openings can be done through&nbsp;<a href="https://www.careers.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Careers@Gov</a>.</p>
 <h4>I am keen to undergo an internship at AGD, how do I apply?</h4>
-<p>Drop HR an email at Internship@agd.gov.sg and we will get in touch with
-you.</p>
+<p>Email us at Internship@agd.gov.sg and we will get in touch with you.</p>
 <h4>Would there be training provided if I join AGD as a fresh graduate?</h4>
 <p>The Finance Associates Programme (FAP) is AGD's flagship development programme
 for fresh graduates and professionals with up to two years of working experience.
