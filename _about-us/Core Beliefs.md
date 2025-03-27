@@ -61,7 +61,7 @@ variant: tiptap
 <p>Excellence</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Being the best we can be; doing the best we can</p>
+<p>Being the best we can be, doing the best we can</p>
 </td>
 </tr>
 <tr>
