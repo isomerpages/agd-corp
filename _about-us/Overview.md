@@ -15,7 +15,7 @@ of Finance (MOF). We support the Accountant-General in fulfilling the statutory
 duties under the Constitution, the Financial Procedure Act and other legislative
 statutes. We partner with MOF in making Singapore a better place through
 finance and work closely with Government agencies to raise the capabilities
-of financial management in the Public Sector.</p>
+of financial management and strengthen governance in the Public Sector.</p>
 <h3>Statutory Duties of Accountant-General</h3>
 <p>The statutory duties of the Accountant-General as specified under the
 Constitution and various statutes are as follows:</p>
