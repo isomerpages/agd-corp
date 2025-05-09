@@ -9,7 +9,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide2.png">
 </div>
-<h3>A Leader in Transforming Public Sector Finance</h3>
+<h3>A Leader in Transforming Public Sector Finance and Internal Audit</h3>
 <p>The Accountant-General’s Department (AGD) is a department under the Ministry
 of Finance (MOF). We support the Accountant-General in fulfilling his statutory
 duties under the Constitution, the Financial Procedure Act and other legislative
