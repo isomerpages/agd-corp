@@ -11,7 +11,7 @@ variant: tiptap
 </div>
 <h3>A Leader in Transforming Public Sector Finance and Internal Audit</h3>
 <p>The Accountant-General’s Department (AGD) is a department under the Ministry
-of Finance (MOF). We support the Accountant-General in fulfilling his statutory
+of Finance (MOF). We support the Accountant-General in fulfilling the statutory
 duties under the Constitution, the Financial Procedure Act and other legislative
 statutes. We partner with MOF in making Singapore a better place through
 finance and work closely with Government agencies to raise the capabilities
