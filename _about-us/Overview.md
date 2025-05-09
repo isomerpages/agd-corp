@@ -73,9 +73,7 @@ analytics&nbsp;to aid management in its decision-making processes.</p>
 <p>As a future-ready organisation, AGD seeks to embrace new knowledge and
 technology to keep abreast of the latest trends in innovation and achieve
 transformation. With tighter integration of&nbsp;Government financial systems,
-the whole financial process is now made more seamless. Government systems
-have also on-boarded InvoiceNow, the nationwide e-invoicing network, to
-receive e-invoices from vendors in a touchless manner.</p>
+the whole financial process is now made more seamless.</p>
 <h3>Our Financial Services - Raising Productivity Through Innovation</h3>
 <p>Over the years, we have expanded and transformed our portfolio of services
 by:</p>
