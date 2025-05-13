@@ -78,7 +78,7 @@ Financial Officer at LTA</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Ms Tay Lay Khim" src="/images/400x600.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Ms Tay Lay Khim" src="/images/Lay_Khim.png">
 </div>
 </div>
 <div class="isomer-card-body">
