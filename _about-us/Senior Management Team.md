@@ -111,7 +111,7 @@ Financial Officer at LTA</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Group Director, Finance Transformation" src="/images/sn1.png">
+<img style="width: 100%" height="auto" width="100%" alt="Group Director, Finance Transformation" src="/images/Siow_Nee.png">
 </div>
 </div>
 <div class="isomer-card-body">
