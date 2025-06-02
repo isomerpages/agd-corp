@@ -81,7 +81,31 @@ audit</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/3Ps.png">
 </div>
-<h4></h4>
+<h1>AGD Social Compact</h1>
+<p>AGD’s social compact is underpinned by the principles of:</p>
+<p><strong>Building Trust, Embracing Diversity and Encouraging Open Communication</strong>
+</p>
+<p>We understand and respect that everyone in AGD is different, not only
+in personal beliefs and preferences but also in working habits and styles.
+We build trust through open communications and are committed to living
+out the shared AGD values and culture of being Purpose-driven, People-centric
+and Performance-oriented.</p>
+<p><strong>Cultivating Collaboration and Professionalism</strong>
+</p>
+<p>Collaboration underpins our success to progress together as OneAGD. To
+foster teamwork and innovation, we encourage collaboration and cross-pollination
+of ideas through inter-directorate and cross-functional projects. We strive
+to understand each other’s perspectives in an amicable and transparent
+manner, challenging each other constructively to achieve better outcomes.
+Through different postings within AGD and the wider public service, we
+ensure a rich exchange of knowledge and skills, nurturing a vibrant work
+environment.</p>
+<p><strong>Caring and Showing Appreciation Towards One Another</strong>
+</p>
+<p>We show appreciation and empathy to one another, prioritising mutual support
+during difficult periods. This culture of empathy and care creates a positive
+workplace atmosphere where everyone feels empowered to contribute their
+best and to help one another.</p>
 <h1>Logo</h1>
 <p></p>
 <div class="isomer-image-wrapper">
