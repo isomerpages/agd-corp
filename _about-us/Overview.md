@@ -51,14 +51,17 @@ and financial statements of every statutory body is in compliance with
 the standards (Accounting Standards Act, Section 11).</p>
 </li>
 </ul>
-<h3>Strategic Outcomes</h3>
-<p>We seek to fulfil the following strategic outcomes:</p>
-<h5>Effective and efficient use of resources</h5>
-<p>We ensure that Government’s resources are used effectively through our&nbsp;financial
-policies; we benchmark our resource management framework with the leading
-jurisdictions and strive to learn from the best practices. We monitor and
-report&nbsp;Singapore’s reserves&nbsp;position, fulfilling the Accountant-General’s
-statutory duty to safeguard reserves.</p>
+<h3>Strategic Thrusts</h3>
+<p>We seek to deliver on our mission and vision through the fulfilment of
+four strategic thrusts:</p>
+<h5>Strong Stewardship of Public Finances</h5>
+<p>Through the establishment of robust policies, accounting standards, and
+internal controls to safeguard public finances, the Accountant-General's
+Department maintains high standards in financial and reserves reporting
+while ensuring optimal management of Singapore's balance sheet. Our work
+includes reviewing investment management rules, strengthening governance
+through fraud detection, and setting sustainability disclosure standards
+for Statutory Boards.</p>
 <h5>Fiscal sustainability</h5>
 <p>Even as the Government pledges to take better care of Singaporeans through
 greater social outlays, it is imperative that we continue to promote the
