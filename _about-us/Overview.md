@@ -62,21 +62,33 @@ while ensuring optimal management of Singapore's balance sheet. Our work
 includes reviewing investment management rules, strengthening governance
 through fraud detection, and setting sustainability disclosure standards
 for Statutory Boards.</p>
-<h5>Fiscal sustainability</h5>
-<p>Even as the Government pledges to take better care of Singaporeans through
-greater social outlays, it is imperative that we continue to promote the
-fiscal sustainability of Singapore. We seek to&nbsp;engender a culture
-of prudence&nbsp;within the public sector while meeting the increasing
-expectations of the public.</p>
-<h5>Accountability for performance</h5>
-<p>We perform&nbsp;financial management reporting and analysis&nbsp;to ensure
-that Government agencies are held accountable, using efficient&nbsp;data
-analytics&nbsp;to aid management in its decision-making processes.</p>
-<h5>Government in time for the future</h5>
-<p>As a future-ready organisation, AGD seeks to embrace new knowledge and
-technology to keep abreast of the latest trends in innovation and achieve
-transformation. With tighter integration of&nbsp;Government financial systems,
-the whole financial process is now made more seamless.</p>
+<h5>Best-in-class Central Operations &amp; Professional Services</h5>
+<p>We manage and enhance critical financial systems that serve the whole
+of government, including NFS@Gov, Vendors@Gov, and Cumulus Workday. We
+catalyse digital transformation efforts to upgrade central systems and
+streamline processes, improving Whole-of-Nation payment efficiency and
+strengthening controls and integration of key systems across government
+agencies.</p>
+<h5>Leading Public Sector Finance &amp; Internal Audit (IA)</h5>
+<p>AGD drives innovation and excellence in public sector finance and internal
+audit. Through continuous upskilling, we transform the Finance &amp; IA
+workforce into a Leading, Engaged, Agile, and Productive workforce with
+deep technical expertise, equipped with future-ready capabilities.</p>
+<p>AGD also empowers public sector finance and internal audit to make data-driven
+decisions, enabled by technology and harmonisation of financial data. We
+also elevate Singapore’s international presence through building networks
+with key counterparts.</p>
+<p></p>
+<h5>People as Our Core</h5>
+<p>We foster a performance-oriented, purpose-driven, and people-centric culture
+that emphasises both professional growth and a strong AGD core. Our commitment
+to deepening our workforce’s capabilities include comprehensive training
+programmes, regular cross-sharing sessions, and opportunities for leadership
+development.</p>
+<p>Through regular staff engagements and an emphasis on empathetic leadership,
+we promote a supportive workplace environment that values staff well-being,
+diversity, and collaboration.</p>
+<p></p>
 <h3>Our Financial Services - Raising Productivity Through Innovation</h3>
 <p>Over the years, we have expanded and transformed our portfolio of services
 by:</p>
