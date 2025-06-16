@@ -2,19 +2,19 @@ title: Accountant-General’s Department
 url: https://www.agd.gov.sg
 favicon: /images/agdweblogo.ico
 colors:
-  primary-color: "#f15842"
+  primary-color: "#f18543"
   secondary-color: "#314697"
   media-colors:
     - title: media-color-one
-      color: "#f15640"
+      color: "#f18543"
     - title: media-color-two
-      color: "#f15640"
+      color: "#f18543"
     - title: media-color-three
-      color: "#f15640"
+      color: "#f18543"
     - title: media-color-four
-      color: "#f15640"
+      color: "#f18543"
     - title: media-color-five
-      color: "#f15640"
+      color: "#f18543"
 description: Accountant-General’s Department of the Singapore Government
 permalink: none
 baseurl: ""
