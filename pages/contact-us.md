@@ -5,7 +5,7 @@ permalink: /contact-us/
 agency_name: AGD
 locations:
   - address:
-      - "100 High Street #06-01"
+      - "100 High Street #05-01"
       - The Treasury
       - Singapore 179434
     operating_hours: []
