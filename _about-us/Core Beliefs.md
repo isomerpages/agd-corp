@@ -121,11 +121,11 @@ a workplace that nurtures growth and celebrates innovation. Like a butterfly
 emerging from its chrysalis, we support your professional metamorphosis
 through continuous learning and development opportunities.</p>
 <p>The darker blue represents our deepened expertise and trust built over
-years, while the vibrant orange-red injects passion into our brand. Together,
+years, while the vibrant orange injects passion into our brand. Together,
 these colours create a powerful visual metaphor of our established foundation
 and dynamic approach to the future.</p>
 <p>The deep blue embodies our wealth of expertise and unwavering reliability,
-while the vibrant orange-red pulses with the energy and passion that drives
+while the vibrant orange pulses with the energy and passion that drives
 us forward. Together, they reflect our perfect balance of established wisdom
 and fresh thinking—a place where you can build on strong foundations while
 shaping the future of public sector finance.</p>
