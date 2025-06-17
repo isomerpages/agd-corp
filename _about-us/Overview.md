@@ -6,9 +6,6 @@ variant: tiptap
 ---
 <h1>Overview</h1>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide2.png">
-</div>
 <h3>A Leader in Transforming Public Sector Finance and Internal Audit</h3>
 <p>The Accountant-General’s Department (AGD) is a department under the Ministry
 of Finance (MOF). We support the Accountant-General in fulfilling the statutory
@@ -51,7 +48,36 @@ and financial statements of every statutory body is in compliance with
 the standards (Accounting Standards Act, Section 11).</p>
 </li>
 </ul>
-<h3>Strategic Thrusts</h3>
+<p></p>
+<h3>Our Role<strong> </strong></h3>
+<p>AGD supports MOF in serving Singapore and the Government.</p>
+<p></p>
+<h4>Steward of Public Sector Finances</h4>
+<p>As the steward of public sector finances, AGD safeguards public resources
+by preparing the Government Financial Statements, managing the Whole-of-Government
+balance sheet, and providing critical insights to guide decision-making
+across agencies. We also set and maintain accounting standards, policies
+and practices to ensure consistency and transparency in financial reporting
+across the public sector.</p>
+<p></p>
+<h4>Provider of Finance &amp; Internal Audit Services</h4>
+<p>AGD functions as a key enabler in the public sector by providing critical
+integrated financial systems and services, ensuring secure and efficient
+processing of government cash, receipts, and payments to vendors, employees,
+and pensioners.</p>
+<p>&nbsp;</p>
+<p>We also provide a central audit system and assurance services to Government
+agencies, delivering professional internal audit services and key audit
+insights to strengthen Whole-of-Government governance.</p>
+<p></p>
+<h4>Builder of A Forward-Looking and Competent Finance &amp; IA Workforce</h4>
+<p>In our role as a capability builder, AGD develops the financial and internal
+audit competencies of the Public Sector Finance &amp; IA workforce. From
+development of competency frameworks and curation of targeted training
+programmes to structured job rotations across Government agencies for officers,
+we nurture finance and internal audit professionals and leaders who can
+effectively serve the public sector.</p>
+<h3>Our Strategic Thrusts</h3>
 <p>We seek to deliver on our mission and vision through the fulfilment of
 four strategic thrusts:</p>
 <h5>Strong Stewardship of Public Finances</h5>
