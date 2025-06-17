@@ -12,22 +12,22 @@ Sector, through the insightful sharings from our talented scholars and
 officers</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/b9.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/9D.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/b10.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/10D.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/b7.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/7D.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/b12.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/12D.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/b4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4E.png">
 </div>
 <p></p>
