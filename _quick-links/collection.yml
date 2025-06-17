@@ -2,6 +2,7 @@ collections:
   quick-links:
     output: true
     order:
+      - Quick Links/.keep
       - NFS@Gov.md
       - FI@Gov.md
       - Pension.md
