@@ -7,15 +7,6 @@ links:
   - title: Publications
     collection: publications
   - title: Quick Links
-    url: /
-    sublinks:
-      - title: FI@Gov
-        url: https://fi.gov.sg/MicroStrategy/asp/Main.aspx
-      - title: NFS@Gov
-        url: https://www.nfs.gov.sg/
-      - title: Pension
-        url: https://www.hrp.gov.sg/
+    url: /quick-links/
   - title: Contact Us
     url: /contact-us/
-  - title: Quick Links (Test)
-    url: /quick-links/
