@@ -109,7 +109,7 @@ best and to help one another.</p>
 <h1>Logo</h1>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/logo3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/New_Orange__haz_edit_2.png">
 </div>
 <p>The sail-inspired 'A' represents our role as your trusted navigator in
 public sector finance. Just as a sail harnesses the wind's power to chart
