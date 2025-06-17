@@ -7,7 +7,7 @@ links:
   - title: Publications
     collection: publications
   - title: Quick Links
-    url: /quicklinks
+    url: /
     sublinks:
       - title: FI@Gov
         url: https://fi.gov.sg/MicroStrategy/asp/Main.aspx
