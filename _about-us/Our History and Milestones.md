@@ -167,8 +167,7 @@ Board and Institute of Certified Public Accountants.</p>
 in February 2025.</p>
 <h4><strong>2015</strong></h4>
 <p>• Mr Ow Fook Chuen as Accountant-General</p>
-<p>The current Accountant-General, Mr Ow Fook Chuen, was appointed as Accountant-General
-in March 2015.</p>
+<p>Mr Ow Fook Chuen was appointed as Accountant-General in March 2015.</p>
 <h4><strong>2000</strong></h4>
 <p>• Ms Chua Geok Wah as Accountant-General</p>
 <p>Ms Chua Geok Wah took over the role of Accountant-General for 15 years.</p>
