@@ -47,7 +47,6 @@ degree/masters</p>
 <p></p>
 </li>
 </ul>
-<p></p>
 <h3>Selection Process</h3>
 <p>To select the best talents to join our Finance Associate Programme, our
 selection process evaluates candidates based on their competencies and
@@ -57,15 +56,14 @@ and interviews.</p>
 <p>The FAP (General) track aims to develop Finance Professionals to take
 on apex C-Suite Finance and Governance positions across Public Service
 agencies.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2BD.png">
 </div>
+<p></p>
 <h3>Journey of a Finance Associate (Ops-Tech)</h3>
 <p>The FAP (Ops-Tech) track aims to develop Finance Professionals specialising
 in Ops-Tech to take on apex C-Suite positions such as Chief Operations
 Officer (COO) to manage and run central systems/operations and shared services.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/3BD.png">
 </div>
@@ -103,7 +101,6 @@ will choose from many available roles based on your desired Route of Advancement
 postings aim to equip you with the necessary experience and skillsets across
 a spectrum of functions and areas, preparing you to take on supervisory
 roles in the future.</p>
-<p></p>
 <h3>How To Apply</h3>
 <p>Your path to shaping public sector finance starts here. Click on the
 <a href="https://jobs.careers.gov.sg/?a=Accountant-General%27s+Department" rel="noopener nofollow" target="_blank">link</a>to apply now. We look forward to receiving your application.</p>
