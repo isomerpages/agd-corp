@@ -65,7 +65,6 @@ across the public sector.</p>
 integrated financial systems and services, ensuring secure and efficient
 processing of government cash, receipts, and payments to vendors, employees,
 and pensioners.</p>
-<p>&nbsp;</p>
 <p>We also provide a central audit system and assurance services to Government
 agencies, delivering professional internal audit services and key audit
 insights to strengthen Whole-of-Government governance.</p>
@@ -77,6 +76,7 @@ development of competency frameworks and curation of targeted training
 programmes to structured job rotations across Government agencies for officers,
 we nurture finance and internal audit professionals and leaders who can
 effectively serve the public sector.</p>
+<p></p>
 <h3>Our Strategic Thrusts</h3>
 <p>We seek to deliver on our mission and vision through the fulfilment of
 four strategic thrusts:</p>
