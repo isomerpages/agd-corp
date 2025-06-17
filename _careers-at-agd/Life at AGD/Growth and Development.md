@@ -16,10 +16,10 @@ resources and time to support your growth. You will have opportunities
 to acquire different skills and knowledge through varied job rotations
 and exciting project work.</p>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Enhanced_L_D_Framework_for_all_AGD_Officers__Compiled_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Enhanced_L_D_Framework_for_all_AGD_Officers__Compiled___3_.png">
 </div>
+<p></p>
 <p>Our L&amp;D framework aligns with the oneAGD culture:</p>
 <ul data-tight="true" class="tight">
 <li>
