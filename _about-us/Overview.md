@@ -49,7 +49,7 @@ the standards (Accounting Standards Act, Section 11).</p>
 </li>
 </ul>
 <p></p>
-<h3>Our Role<strong> </strong></h3>
+<h3>Our Role</h3>
 <p>AGD supports MOF in serving Singapore and the Government.</p>
 <p></p>
 <h4>Steward of Public Sector Finances</h4>
@@ -115,23 +115,3 @@ development.</p>
 we promote a supportive workplace environment that values staff well-being,
 diversity, and collaboration.</p>
 <p></p>
-<h3>Our Financial Services - Raising Productivity Through Innovation</h3>
-<p>Over the years, we have expanded and transformed our portfolio of services
-by:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>leveraging technologies to integrate our systems</p>
-</li>
-<li>
-<p>making our processes increasingly paperless, accurate and efficient</p>
-</li>
-<li>
-<p>improving the availability of our systems through various channels, including
-mobile applications</p>
-</li>
-<li>
-<p>ensuring faster payment to government suppliers</p>
-</li>
-</ul>
-<p>These initiatives are a result of our efforts in raising productivity
-within the public sector finance.</p>
