@@ -80,7 +80,8 @@ effectively serve the public sector.</p>
 <h3>Our Strategic Thrusts</h3>
 <p>We seek to deliver on our mission and vision through the fulfilment of
 four strategic thrusts:</p>
-<h5>Strong Stewardship of Public Finances</h5>
+<p></p>
+<h4>Strong Stewardship of Public Finances</h4>
 <p>Through the establishment of robust policies, accounting standards, and
 internal controls to safeguard public finances, the Accountant-General's
 Department maintains high standards in financial and reserves reporting
@@ -88,14 +89,16 @@ while ensuring optimal management of Singapore's balance sheet. Our work
 includes reviewing investment management rules, strengthening governance
 through fraud detection, and setting sustainability disclosure standards
 for Statutory Boards.</p>
-<h5>Best-in-class Central Operations &amp; Professional Services</h5>
+<p></p>
+<h4>Best-in-class Central Operations &amp; Professional Services</h4>
 <p>We manage and enhance critical financial systems that serve the whole
 of government, including NFS@Gov, Vendors@Gov, and Cumulus Workday. We
 catalyse digital transformation efforts to upgrade central systems and
 streamline processes, improving Whole-of-Nation payment efficiency and
 strengthening controls and integration of key systems across government
 agencies.</p>
-<h5>Leading Public Sector Finance &amp; Internal Audit (IA)</h5>
+<p></p>
+<h4>Leading Public Sector Finance &amp; Internal Audit (IA)</h4>
 <p>AGD drives innovation and excellence in public sector finance and internal
 audit. Through continuous upskilling, we transform the Finance &amp; IA
 workforce into a Leading, Engaged, Agile, and Productive workforce with
@@ -105,7 +108,7 @@ decisions, enabled by technology and harmonisation of financial data. We
 also elevate Singapore’s international presence through building networks
 with key counterparts.</p>
 <p></p>
-<h5>People as Our Core</h5>
+<h4>People as Our Core</h4>
 <p>We foster a performance-oriented, purpose-driven, and people-centric culture
 that emphasises both professional growth and a strong AGD core. Our commitment
 to deepening our workforce’s capabilities include comprehensive training
