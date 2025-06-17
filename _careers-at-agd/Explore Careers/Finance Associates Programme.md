@@ -59,14 +59,15 @@ on apex C-Suite Finance and Governance positions across Public Service
 agencies.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FAP5.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2BD.png">
 </div>
 <h3>Journey of a Finance Associate (Ops-Tech)</h3>
 <p>The FAP (Ops-Tech) track aims to develop Finance Professionals specialising
 in Ops-Tech to take on apex C-Suite positions such as Chief Operations
 Officer (COO) to manage and run central systems/operations and shared services.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FAP4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/3BD.png">
 </div>
 <h3>AGD Induction Programme</h3>
 <p>As a Finance Associate, you will undergo a comprehensive induction programme
