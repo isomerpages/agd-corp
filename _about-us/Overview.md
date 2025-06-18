@@ -71,7 +71,7 @@ insights to strengthen Whole-of-Government governance.</p>
 <p></p>
 <h4>Builder of A Forward-Looking and Competent Finance &amp; Internal Audit Workforce</h4>
 <p>In our role as a capability builder, AGD develops the financial and internal
-audit competencies of the Public Sector Finance &amp; Internal Audit workforce.
+audit competencies of the Public Sector Finance and Internal Audit workforce.
 From development of competency frameworks and curation of targeted training
 programmes to structured job rotations across Government agencies for officers,
 we nurture finance and internal audit professionals and leaders who can
