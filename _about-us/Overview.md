@@ -98,7 +98,7 @@ streamline processes, improving Whole-of-Nation payment efficiency and
 strengthening controls and integration of key systems across government
 agencies.</p>
 <p></p>
-<h4>Leading Public Sector Finance and Internal Audit </h4>
+<h4>Leading Public Sector Finance and Internal Audit</h4>
 <p>AGD drives innovation and excellence in public sector finance and internal
 audit. Through continuous upskilling, we transform the Finance and Internal
 Audit workforce into a Leading, Engaged, Agile, and Productive workforce
