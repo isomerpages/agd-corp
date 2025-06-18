@@ -69,10 +69,10 @@ and pensioners.</p>
 agencies, delivering professional internal audit services and key audit
 insights to strengthen Whole-of-Government governance.</p>
 <p></p>
-<h4>Builder of A Forward-Looking and Competent Finance &amp; IA Workforce</h4>
+<h4>Builder of A Forward-Looking and Competent Finance &amp; Internal Audit Workforce</h4>
 <p>In our role as a capability builder, AGD develops the financial and internal
-audit competencies of the Public Sector Finance &amp; IA workforce. From
-development of competency frameworks and curation of targeted training
+audit competencies of the Public Sector Finance &amp; Internal Audit workforce.
+From development of competency frameworks and curation of targeted training
 programmes to structured job rotations across Government agencies for officers,
 we nurture finance and internal audit professionals and leaders who can
 effectively serve the public sector.</p>
@@ -98,11 +98,11 @@ streamline processes, improving Whole-of-Nation payment efficiency and
 strengthening controls and integration of key systems across government
 agencies.</p>
 <p></p>
-<h4>Leading Public Sector Finance &amp; Internal Audit (IA)</h4>
+<h4>Leading Public Sector Finance and Internal Audit </h4>
 <p>AGD drives innovation and excellence in public sector finance and internal
-audit. Through continuous upskilling, we transform the Finance &amp; IA
-workforce into a Leading, Engaged, Agile, and Productive workforce with
-deep technical expertise, equipped with future-ready capabilities.</p>
+audit. Through continuous upskilling, we transform the Finance and Internal
+Audit workforce into a Leading, Engaged, Agile, and Productive workforce
+with deep technical expertise, equipped with future-ready capabilities.</p>
 <p>AGD also empowers public sector finance and internal audit to make data-driven
 decisions, enabled by technology and harmonisation of financial data. We
 also elevate Singapore’s international presence through building networks
