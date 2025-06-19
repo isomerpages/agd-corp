@@ -71,7 +71,7 @@ at MINDEF</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Ms Yong Yenn Leng</div>
-<div class="isomer-card-description">Infrastructure, Economy, &amp; Security Cluster Lead, and Chief Financial
+<div class="isomer-card-description">Infrastructure, Economy &amp; Security Cluster Lead, and Chief Financial
 Officer at LTA</div>
 </div>
 </div>
