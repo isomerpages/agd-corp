@@ -25,40 +25,43 @@ and payment.</p>
 </li>
 </ul>
 <h3>Functions</h3>
+<p><strong>Manage e-invoices</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Create e-invoices</p>
+</li>
+<li>
 <p>Manage e-invoices</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>CREATE E-INVOICES</p>
 </li>
 <li>
-<p>MANAGE E-INVOICES</p>
-</li>
-<li>
-<p>UPLOAD BATCH E-INVOICES</p>
+<p>Upload batch e-invoices</p>
 </li>
 </ul>
-<p>Manage Accounts</p>
+<p><strong>Manage Accounts</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>UPDATE BANK DETAILS</p>
+<p>Update bank details</p>
 </li>
 <li>
-<p>UPDATE CONTACT DETAILS</p>
+<p>Update contact details</p>
 </li>
 <li>
-<p>CHANGE AGD PASSWORD</p>
+<p>Change AGD Password</p>
 </li>
 </ul>
-<p>Seek Help</p>
+<p><strong>Seek Help</strong>
+</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>VIEW USER MANUALS</p>
+<p>View user manuals</p>
 </li>
 <li>
-<p>VIEW ONLINE HELP</p>
+<p>View online help</p>
 </li>
 <li>
-<p>CONTACT HELPDESK</p>
+<p>Contact Helpdesk</p>
 </li>
 </ul>
 <h3>Link</h3>
