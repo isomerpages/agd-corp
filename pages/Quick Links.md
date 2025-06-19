@@ -8,7 +8,7 @@ description: ""
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://fi.gov.sg/MicroStrategy/asp/Main.aspx" rel="noopener nofollow" target="_blank">FI@Gov</a>
+<p><a href="https://www.vendors.gov.sg/" rel="noopener nofollow" target="_blank">Vendors@Gov</a>
 </p>
 <p></p>
 </li>
