@@ -65,6 +65,6 @@ and payment.</p>
 </li>
 </ul>
 <h3>Link</h3>
-<p>Vendors@Gov can be accessed <a href="https://www.vendors.gov.sg/" rel="noopener nofollow" target="_blank">here</a>
+<p>Vendors@Gov can be accessed <a href="https://www.vendors.gov.sg/" rel="noopener nofollow" target="_blank">here.</a>
 </p>
 <p></p>
