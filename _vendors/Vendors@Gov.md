@@ -48,7 +48,7 @@ and payment.</p>
 <p>Update contact details</p>
 </li>
 <li>
-<p>Change AGD Password</p>
+<p>Change AGD password</p>
 </li>
 </ul>
 <p><strong>Seek Help</strong>
