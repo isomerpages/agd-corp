@@ -69,7 +69,7 @@ and pensioners.</p>
 agencies, delivering professional internal audit services and key audit
 insights to strengthen Whole-of-Government governance.</p>
 <p></p>
-<h4>Builder of A Forward-Looking and Competent Finance &amp; Internal Audit Workforce</h4>
+<h4>Builder of a Forward-Looking and Competent Finance &amp; Internal Audit Workforce</h4>
 <p>In our role as a capability builder, AGD develops the financial and internal
 audit competencies of the Public Sector Finance and Internal Audit workforce.
 From development of competency frameworks and curation of targeted training
@@ -83,14 +83,13 @@ four strategic thrusts:</p>
 <p></p>
 <h4>Strong Stewardship of Public Finances</h4>
 <p>Through the establishment of robust policies, accounting standards, and
-internal controls to safeguard public finances, the Accountant-General's
-Department maintains high standards in financial and reserves reporting
-while ensuring optimal management of Singapore's balance sheet. Our work
-includes reviewing investment management rules, strengthening governance
-through fraud detection, and setting sustainability disclosure standards
-for Statutory Boards.</p>
+internal controls to safeguard public finances, AGD maintains high standards
+in financial and reserves reporting while ensuring optimal management of
+Singapore's balance sheet. Our work includes reviewing investment management
+rules, strengthening governance through fraud detection, and setting sustainability
+disclosure standards for Statutory Boards.</p>
 <p></p>
-<h4>Best-in-class Central Operations &amp; Professional Services</h4>
+<h4>Best-In-Class Central Operations &amp; Professional Services</h4>
 <p>We manage and enhance critical financial systems that serve the whole
 of government, including NFS@Gov, Vendors@Gov, and Cumulus Workday. We
 catalyse digital transformation efforts to upgrade central systems and
