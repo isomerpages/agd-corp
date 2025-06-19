@@ -61,13 +61,20 @@ and practices to ensure consistency and transparency in financial reporting
 across the public sector.</p>
 <p></p>
 <h4>Provider of Finance &amp; Internal Audit Services</h4>
-<p>AGD functions as a key enabler in the public sector by providing critical
-integrated financial systems and services, ensuring secure and efficient
-processing of government cash, receipts, and payments to vendors, employees,
-and pensioners.</p>
-<p>We also provide a central audit system and assurance services to Government
-agencies, delivering professional internal audit services and key audit
-insights to strengthen Whole-of-Government governance.</p>
+<p>AGD functions as a key enabler in the public sector by providing:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Critical integrated financial systems and services, ensuring secure and
+efficient processing of government cash, receipts, and payments to vendors,
+employees, and pensioners.</p>
+<p></p>
+</li>
+<li>
+<p>Central audit system and internal audit services to Government agencies,
+delivering key audit insights via a harmonised process to strengthen Whole-of-Government
+governance.</p>
+</li>
+</ul>
 <p></p>
 <h4>Builder of a Forward-Looking and Competent Finance &amp; Internal Audit Workforce</h4>
 <p>In our role as a capability builder, AGD develops the financial and internal
