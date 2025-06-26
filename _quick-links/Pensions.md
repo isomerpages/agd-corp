@@ -12,7 +12,7 @@ description: ""
 </li>
 </ul>
 <h1>Pensioners FAQ</h1>
-<p><a href="/files/pensioner%20handbook.pdf" rel="noopener noreferrer nofollow" target="_blank">Pensioner Handbook</a>
+<p><a href="/files/Pensioner_Handbook_28022025.pdf" rel="noopener noreferrer nofollow" target="_blank">Pensioner Handbook</a>
 </p>
 <h4>How can I apply for my electronic Civil Service card (e-CS card)?</h4>
 <p>Pensioners and dependants can produce their e-CS cards at Government,
