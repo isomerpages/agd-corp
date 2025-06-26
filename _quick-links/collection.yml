@@ -1,9 +1,0 @@
-collections:
-  quick-links:
-    output: true
-    order:
-      - Quick Links/Vendors@Gov.md
-      - Quick Links/Pension.md
-      - Quick Links/FI@Gov.md
-      - Quick Links/NFS@Gov.md
-      - Quick Links/.keep
