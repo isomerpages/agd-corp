@@ -2,5 +2,5 @@ collections:
   quick-links:
     output: true
     order:
-      - Pensioners@Gov.md
+      - Pensions.md
       - Quick Links.md
