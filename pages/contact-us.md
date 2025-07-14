@@ -43,12 +43,6 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: For frequently asked questions, check out our <a href="/faq/">FAQs
-          page</a>.
-    title: FAQs
-  - content:
-      - phone: ""
-      - email: ""
       - other: If you encounter difficulties when processing your transactions or have
           any questions, please send us your queries via the following links. We
           will respond to your query by the next working day.<br>
