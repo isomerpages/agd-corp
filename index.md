@@ -11,7 +11,7 @@ notification: Government officials will NEVER ask you to transfer money or
   www.scamshield.gov.sg
 sections:
   - hero:
-      background: /images/Website_Hero_Banner__Website2.png
+      background: /images/HeroBanner.png
       key_highlights:
         - title: About Us
           description: ""
