@@ -61,7 +61,7 @@ security administration, as well as system maintenance and enhancements.</p>
 <p>The Treasury Directorate supports MOF in the effective management of the
 Government's balance sheet, ensuring that assets and liabilities are holistically
 and efficiently managed. The directorate also supports the Accountant-General
-in his Constitutional duty to safeguard reserves.</p>
+in her Constitutional duty to safeguard reserves.</p>
 <p></p>
 <p>The Technical Directorate is involved in setting accounting standards,
 policies and practices for compliance by Statutory Boards.</p>
