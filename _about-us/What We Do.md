@@ -46,7 +46,7 @@ strategic development of Future Finance by managing and ensuring the successful
 consolidation and implementation of Statutory Boards’ finance and payroll
 systems onto a cloud-based central corporate system.</p>
 <p></p>
-<p>The Group drives WOG Finance transformation by adopting new emerging capabilities
+<p>The group drives WOG Finance transformation by adopting new emerging capabilities
 and through launching of growth areas and initiatives. It leverages technology
 to re-engineer workflows and streamline operations, with the aim of optimising
 processes and strengthening governance for the central finance, payroll,
