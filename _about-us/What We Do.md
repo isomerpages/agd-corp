@@ -11,7 +11,7 @@ groups.</p>
 <p>The Assurance Directorate plays an instrumental role in enhancing Whole-of-Government
 governance and strengthening the Public Sector Internal Audit (IA) profession.</p>
 <p></p>
-<p>AGD Assurance provides IA services&nbsp; to 30% of government agencies,
+<p>AGD Assurance provides IA services&nbsp;to 30% of government agencies,
 spanning a range of sectors. It also develops central policy guidance for
 the IA profession in the areas of digitalisation, structure, and standards.
 The directorate also drives key initiatives to deepen the capabilities
