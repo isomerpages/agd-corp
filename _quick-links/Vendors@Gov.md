@@ -4,8 +4,7 @@ permalink: /quick-links/
 variant: tiptap
 description: ""
 ---
-<p><strong>Please click on the links below to access the following Singapore Government portals.</strong>
-</p>
+<h4><strong>Please click on the links below to access the following Singapore Government portals.</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.vendors.gov.sg/" rel="noopener nofollow" target="_blank">Vendors@Gov</a>
