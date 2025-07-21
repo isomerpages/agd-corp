@@ -53,7 +53,7 @@ the standards (Accounting Standards Act, Section 11).</p>
 <p>AGD supports MOF in serving Singapore and the Government.</p>
 <p></p>
 <h4>Steward of Public Sector Finances</h4>
-<p>As the steward of public sector finances, AGD safeguards public resources
+<p>As the steward of public sector finance, AGD safeguards public resources
 by preparing the Government Financial Statements, managing the Whole-of-Government
 balance sheet, and providing critical insights to guide decision-making
 across agencies. We also set and maintain accounting standards, policies
