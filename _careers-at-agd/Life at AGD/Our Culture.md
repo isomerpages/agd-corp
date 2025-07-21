@@ -39,7 +39,7 @@ variant: tiptap
 <p>Community Involvement Initiatives</p>
 </li>
 <li>
-<p>and Excursions/ Outings</p>
+<p>Excursions/ Outings</p>
 </li>
 </ul>
 <p></p>
