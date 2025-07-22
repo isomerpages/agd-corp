@@ -1,16 +1,12 @@
-logo: /images/agd_logo.png
+logo: /images/New_Orange__haz_edit_2.png
 links:
-  - title: Who We Are
-    collection: who-we-are
-  - title: Our Services
-    collection: our-services
+  - title: About Us
+    collection: about-us
   - title: Careers @ AGD
     collection: careers-at-agd
-  - title: Vendors
-    collection: vendors
-  - title: News & Events
-    resource_room: true
   - title: Publications
     collection: publications
+  - title: Quick Links
+    collection: quick-links
   - title: Contact Us
     url: /contact-us/

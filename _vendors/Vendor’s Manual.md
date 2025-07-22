@@ -2,15 +2,14 @@
 title: Vendor’s Manual
 permalink: /Vendors/vendors-manual/
 description: Vendor’s Manual
+variant: markdown
 ---
-
-
 Vendor’s Manual
 ===============
 
 Manuals are available if you require help using Vendors@Gov.
 
-Download the manuals here:
+
 
 ### Login Guides
 

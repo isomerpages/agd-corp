@@ -1,0 +1,9 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Overview.md
+      - Core Beliefs.md
+      - What We Do.md
+      - Senior Management Team.md
+      - Our History and Milestones.md

@@ -2,17 +2,16 @@ collections:
   careers-at-agd:
     output: true
     order:
-      - Overview.md
-      - Finance Associates Programme.md
-      - What We Offer/.keep
-      - What We Offer/What We Offer.md
-      - What We Offer/Career Development Framework.md
-      - What We Offer/Staff Benefits.md
-      - What We Offer/Work Life Harmony.md
-      - Scholarship.md
-      - AGD Award.md
-      - Internship.md
-      - What Our People Say/.keep
-      - What Our People Say/What Our People Say.md
-      - What Our People Say/Meet Our Scholars.md
-      - Join Us.md
+      - Explore Careers/.keep
+      - Explore Careers/Overview.md
+      - Explore Careers/Finance Associates Programme.md
+      - Explore Careers/Career Opportunities.md
+      - Explore Careers/Internship Opportunities.md
+      - Explore Scholarships/.keep
+      - Explore Scholarships/AGD Scholarship.md
+      - Explore Scholarships/AGD Public Sector Finance Award.md
+      - Life at AGD/.keep
+      - Life at AGD/Our Culture.md
+      - Life at AGD/Growth and Development.md
+      - Life at AGD/Staff Benefits.md
+      - Life at AGD/What Our People Say.md

@@ -1,0 +1,6 @@
+collections:
+  quick-links:
+    output: true
+    order:
+      - Pensions.md
+      - Vendors@Gov.md
