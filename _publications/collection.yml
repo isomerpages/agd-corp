@@ -2,5 +2,5 @@ collections:
   publications:
     output: true
     order:
-      - Overview of Singapore Government Borrowings.md
       - Government Financial Statements.md
+      - Overview of Singapore Government Borrowings.md
