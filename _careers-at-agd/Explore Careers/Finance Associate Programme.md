@@ -1,11 +1,11 @@
 ---
-title: Finance Associates Programme
+title: Finance Associate Programme
 permalink: /careers-at-agd/finance-associates-programme/
 description: Finance Associates Programme
 third_nav_title: Explore Careers
 variant: tiptap
 ---
-<h1>Finance Associates Programme</h1>
+<h1>Finance Associate Programme</h1>
 <p>Are you aspiring to become a Chief Finance Officer, Chief Treasury Officer,
 Chief Audit Executive or Chief Operations Officer? At AGD, we will equip
 you with vital experiences and skillsets across diverse functions, preparing
