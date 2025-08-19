@@ -6,9 +6,8 @@ third_nav_title: Explore Scholarships
 variant: tiptap
 ---
 <h1>AGD Scholarship</h1>
-<p>If you are looking to have a hand in shaping finance and accounting policies
-in the Civil Service, we offer scholarships for those seeking to achieve
-greater heights in a rewarding career with AGD.</p>
+<p>The AGD Scholarship programme is designed to cultivate exceptional young
+talent for strategic leadership in public finance and internal audit.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1D.png">
@@ -21,16 +20,30 @@ greater heights in a rewarding career with AGD.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/3D.png">
 </div>
-<p><strong>Choice of Study</strong>
-</p>
+<h3><strong>Choice of Study</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Accountancy, Analytics, Business, Business Administration, Business Management,
-Economics and Finance undergraduate programme</p>
+<p>Accountancy, Business, Business Administration, Business Analytics, Business
+Management, Economics, Finance or related undergraduate programmes.</p>
+</li>
+<li>
+<p>Scholars pursuing a non-accountancy undergraduate will be required to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Attain an equivalent professional accountancy qualification recognised
+by the Institute of Singapore Chartered Accountants; or</p>
+</li>
+<li>
+<p>Attain an equivalent professional finance qualification recognised by
+international recognised professional bodies (CFA, CIA, CFE, etc); or</p>
+</li>
+<li>
+<p>Complete a Masters in Accountancy as a mandatory post-graduation requirement.</p>
 </li>
 </ul>
-<p><strong>Universities</strong>
-</p>
+</li>
+</ul>
+<h3><strong>Universities</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Nanyang Technological University (NTU)</p>
@@ -48,17 +61,16 @@ Economics and Finance undergraduate programme</p>
 <p>Singapore Institute of Technology (SIT)</p>
 </li>
 </ul>
-<p><strong>Value of Award</strong>
-</p>
+<h3><strong>Scholarship Benefits</strong></h3>
 <ul data-tight="true" class="tight">
 <li>
 <p>Tuition Fees</p>
 </li>
 <li>
-<p>Hostel Fees (where applicable)</p>
+<p>Maintenance and other allowances</p>
 </li>
 <li>
-<p>Maintenance and other allowances</p>
+<p>Hostel Fee (Covered under Maintenance allowance)</p>
 </li>
 <li>
 <p>Support for student exchange programme</p>
