@@ -6,8 +6,10 @@ third_nav_title: Explore Scholarships
 variant: tiptap
 ---
 <h1>AGD Scholarship</h1>
+<blockquote>
 <p>The AGD Scholarship programme is designed to cultivate exceptional young
 talent for strategic leadership in public finance and internal audit.</p>
+</blockquote>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1D.png">
@@ -19,6 +21,21 @@ talent for strategic leadership in public finance and internal audit.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/3D.png">
+</div>
+<h3><strong>Types of Scholarships</strong></h3>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Pre-University Scholarship</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Mid-term Scholarship</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
 </div>
 <h3><strong>Choice of Study</strong></h3>
 <ul data-tight="true" class="tight">
