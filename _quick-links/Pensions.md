@@ -12,8 +12,46 @@ description: ""
 </li>
 </ul>
 <h1>Pensioners FAQ</h1>
-<p><a href="/files/Pensioner_Handbook_28022025.pdf" rel="noopener noreferrer nofollow" target="_blank">Pensioner Handbook</a>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Pensioner's Guides</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Pensioners &amp; Vendors/Updated_Copy_of_Digital_Essentials_for_Pensioners_A4.pdf" rel="noopener noreferrer nofollow" target="_blank">Pensioner’s Kit</a>
 </p>
+</li>
+<li>
+<p><a href="/files/Pensioners &amp; Vendors/Pensioner_s_Guide_to_Access_Statement_of_Account.pdf" rel="noopener noreferrer nofollow" target="_blank">Pensioner's Guide to Access Statement of Account</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Pensioners &amp; Vendors/Pensioner_s_Guide_to_Download_Workpal__Updated_.pdf" rel="noopener noreferrer nofollow" target="_blank">Pensioner's Guide to Download Workpal</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Pensioners &amp; Vendors/Pensioner_s_Guide_to_Submit_Claims_via_Workpal.pdf" rel="noopener noreferrer nofollow" target="_blank">Pensioner's Guide to Submit Claims via Workpal</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Pensioners &amp; Vendors/Pensioner_s_Guide_to_Submit_Claims_via_HRP_internet.pdf" rel="noopener noreferrer nofollow" target="_blank">Pensioner's Guide to Submit Claims via HRP internet</a>
+</p>
+</li>
+</ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Pensioner's Handbook</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Pensioner_Handbook_28022025.pdf" rel="noopener noreferrer nofollow" target="_blank">View Guide</a>
+</p>
+</li>
+</ul>
+</div>
+</details>
+</div>
 <h4>How can I apply for my electronic Civil Service card (e-CS card)?</h4>
 <p>Pensioners and dependants can produce their e-CS cards at Government,
 Restructured or Community Hospitals, Polyclinics and MBS@Gov clinics, to
