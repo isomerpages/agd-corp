@@ -4,16 +4,45 @@ permalink: /pensioners-gov/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Please click on the link below to access the following Singapore Government portals.</strong></h4>
+<h4><strong>Please click on the links below to access the following Singapore Government portals.</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.hrp.gov.sg/" rel="noopener nofollow" target="_blank">Pension</a>
+<p><a href="https://www.hrp.gov.sg/" rel="noopener nofollow" target="_blank">Pensioner's Portal</a>
+</p>
+</li>
+<li>
+<p><a href="https://app.helpdesk.agd.gov.sg/public_user/common/Helpdesk.aspx?Cs91gGZjsuz/ndWcDIkGhKw0VAx37y8uLLcpTMec57Sn/wDM7lEgQ8unvajDYEUx" rel="noopener nofollow" target="_blank">Pension Helpdesk</a>
 </p>
 </li>
 </ul>
-<h1>Pensioners FAQ</h1>
-<p><a href="/files/Pensioner_Handbook_28022025.pdf" rel="noopener noreferrer nofollow" target="_blank">Pensioner Handbook</a>
+<h1>Pensioner's Resources</h1>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/files/Pensioner_Handbook_28022025.pdf" rel="noopener noreferrer nofollow" target="_blank">Pensioner's Handbook</a>
 </p>
+</li>
+<li>
+<p><a href="/files/Pensioners &amp; Vendors/Updated_Copy_of_Digital_Essentials_for_Pensioners_A4.pdf" rel="noopener noreferrer nofollow" target="_blank">Quick Guide to Pensioner’s Portal</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Pensioners &amp; Vendors/Pensioner_s_Guide_to_Download_Workpal__Updated_.pdf" rel="noopener noreferrer nofollow" target="_blank">Guide to Download Workpal</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Pensioners &amp; Vendors/Pensioner_s_Guide_to_Access_Statement_of_Account.pdf" rel="noopener noreferrer nofollow" target="_blank">Guide to Access Statement of Account</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Pensioners &amp; Vendors/Pensioner_s_Guide_to_Submit_Claims_via_Workpal.pdf" rel="noopener noreferrer nofollow" target="_blank">Guide to Submit Claims via Workpal</a>
+</p>
+</li>
+<li>
+<p><a href="/files/Pensioners &amp; Vendors/Pensioner_s_Guide_to_Submit_Claims_via_HRP_internet.pdf" rel="noopener noreferrer nofollow" target="_blank">Guide to Submit Claims via HRP internet</a>
+</p>
+</li>
+</ul>
+<h1>Pensioner's FAQ</h1>
 <h4>How can I apply for my electronic Civil Service card (e-CS card)?</h4>
 <p>Pensioners and dependants can produce their e-CS cards at Government,
 Restructured or Community Hospitals, Polyclinics and MBS@Gov clinics, to
