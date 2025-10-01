@@ -74,6 +74,13 @@ contacts:
   - content:
       - phone: ""
       - email: ""
+      - other: <a
+          href="https://app.helpdesk.agd.gov.sg/public_user/common/Helpdesk.aspx?pA9nv4Z9wAr6m/BRMnubHr3TODM8xI3kDsouxueW84xUA94SMeBKi6rXQVCdaB4Y">MBS@Gov
+          Helpdesk</a>
+    title: For MBS@Gov Clinic
+  - content:
+      - phone: ""
+      - email: ""
       - other: <br>Please refer to the "Contact Us" tiles with details of the contact
           channels available on the user homepage after login to HRP.  You may
           also approach your Agency Digital Ambassador/MSAs for their support.
