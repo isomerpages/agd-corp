@@ -106,18 +106,18 @@ Analytics</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Ms Chua Bee Yan</div>
-<div class="isomer-card-description">Group Director, Financial Reporting &amp; Operations</div>
+<div class="isomer-card-description">Group Director, Financial Reporting &amp; Services (Ministries)</div>
 </div>
 </div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Group Director, Finance Transformation" src="/images/Siow_Nee.png">
+<img style="width: 100%" height="auto" width="100%" alt="Group Director, Financial Systems &amp; Services (Statutory Boards)" src="/images/Siow_Nee.png">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Ms Chew Siow Nee</div>
-<div class="isomer-card-description">Group Director, Finance Transformation</div>
+<div class="isomer-card-description">Group Director, Financial Systems &amp; Services (Statutory Boards)</div>
 </div>
 </div>
 <div class="isomer-card">
