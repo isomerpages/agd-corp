@@ -2,5 +2,6 @@ collections:
   publications:
     output: true
     order:
+      - Prompt Payment of Invoices to Government Vendors.md
       - Government Financial Statements.md
       - Overview of Singapore Government Borrowings.md
