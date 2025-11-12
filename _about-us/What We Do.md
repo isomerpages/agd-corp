@@ -16,42 +16,66 @@ spanning a range of sectors. It also develops central policy guidance for
 the IA profession in the areas of digitalisation, structure, and standards.
 The directorate also drives key initiatives to deepen the capabilities
 of IA officers in partnership with Government Finance Function Office.</p>
+<h3>Financial Reporting &amp; Services (Ministries)</h3>
+<p>The Financial Reporting &amp; Services (Ministries) (FR&amp;S (Min)) Group
+oversees the central finance operations and the administration of key AGD
+central systems (i.e. Government Financial System (NFS@Gov), Vendors@Gov,
+AGD helpdesk). The Group comprises two Directorates below:</p>
 <p></p>
-<h3>Financial Reporting and Operations</h3>
-<p>The Financial Reporting Operations Group oversees the central finance
-operations.</p>
+<p><strong>The Reporting, Operations &amp; Systems (ROS) Directorate </strong>manages
+comprehensive financial reporting across the Government, encompassing both
+statutory and management reporting. The directorate oversees critical central
+financial operations, including the administration of cash management systems
+and payment processing for over 30,000 government vendors, whilst maintaining
+robust policies and controls. ROS also leads the implementation and maintenance
+of the Whole-of-Government Chart of Accounts (WOG COA), enabling financial
+data harmonisation that supports advanced data analytics capabilities across
+government agencies.</p>
 <p></p>
-<p>The Financial Reporting and HRP Operations Directorate handles all various
-aspects of financial reporting within the Government, including statutory
-and management reporting and the related processes, providing oversight
-of the management of system modules relating to reporting and security
-administration, running central payroll operations for 90,000 in-service
-officers and 34,000 pensioners using the HR and Payroll (HRP) System.</p>
+<p><strong>The Salaries, Pensions &amp; Systems (SPS) Directorate</strong> manages
+system modules relating to security and warrants administration in NFS@Gov,
+and running central payroll operations for 90,000 in-service officers and
+34,000 pensioners using the HR and Payroll (HRP) System.</p>
+<h3>Financial Systems &amp; Services (Statutory Boards)</h3>
+<p>The Financial Systems &amp; Services (Statutory Boards) (FS&amp;S(SBs))
+group comprises two Directorates:</p>
 <p></p>
-<p>The Financial Operations and Systems Directorate handles the various central
-financial operations which include the following:</p>
-<p>•Administration of central cash management and payments processing to
-30,000 government vendors, and related policies and controls,</p>
-<p>•Overseeing the administration of AGD central systems (i.e NFS@Gov, Vendors@Gov,
-AGD helpdesk and service request systems), and</p>
-<p>•Spearheading projects to implement Whole-of-Government Chart of Account
-(WOG COA) to achieve financial data harmonisation for data analytics, improve
-payment timeline for vendors, work with IMDA to drive the adoption of national
-e-invoicing system among vendors who transact with the Government, and
-study the modernization of the Government Financial System (NFS@Gov).</p>
+<p><strong>The Financial Systems &amp; Services Directorate</strong> drives
+the strategic development of Future Finance by managing the consolidation
+and implementation of SBs’ finance and payroll systems onto a cloud-based
+central Enterprise Resource Planning (ERP) system. FS&amp;S provides ongoing
+support to statutory boards whilst partnering with their finance and payroll
+teams, system integration vendors, and product vendors. The directorate
+leads Whole-of-Government transformations by developing new growth areas
+and leveraging emerging technological capabilities. This includes re-engineering
+business processes, streamlining operations, and strengthening overall
+governance across statutory board finance and payroll functions.</p>
 <p></p>
+<p><strong>The Special Projects Directorate </strong>drives digital transformation
+through the implementation of Helpdesk 2.0, a new system featuring knowledge
+management and AI capabilities that enhances service delivery and positions
+AGD for future growth in service innovation. Aligned with Whole-of-Government
+digitalisation and Smart Nation initiatives, the project transforms the
+user experience by introducing scalable AI-powered assistance that supports
+timely, contextualised responses, promotes self-service capabilities, improves
+response times, and reduces workload for helpdesk officers.</p>
 <h3>Finance Transformation</h3>
-<p>The Finance Transformation Group plays a critical role in driving the
-strategic development of Future Finance by managing and ensuring the successful
-consolidation and implementation of Statutory Boards’ finance and payroll
-systems onto a cloud-based central corporate system.</p>
+<p>The Finance Transformation (FT) Group spearheads Whole-of-Government (WOG)
+transformation to lead the development of new central Finance systems to
+adopt market best practices and achieve system agility. In addition, we
+aim to drive policy-ops-tech integration, achieve streamlined processes,
+and support intelligent reporting by leveraging on new technologies.&nbsp;</p>
 <p></p>
-<p>The group drives WOG Finance transformation by adopting new emerging capabilities
-and through launching of growth areas and initiatives. It leverages technology
-to re-engineer workflows and streamline operations, with the aim of optimising
-processes and strengthening governance for the central finance, payroll,
-and claims systems.</p>
+<p>FT Group develops and implements centralised finance systems across government,
+serving both statutory boards and ministries. Working closely with organisations
+throughout government, we conduct comprehensive business process reviews
+to streamline operations and adopt best practices. This approach focuses
+on delivering cost savings and improved efficiency whilst ensuring systems
+meet the unique operational needs of different government entities.</p>
 <p></p>
+<p>The Group also implements cloud-based finance solutions and leverage new
+technologies to modernise existing systems, driving the next phase of finance
+transformation across the public sector.</p>
 <h3>Technology</h3>
 <p>The Technology Directorate develops AGD’s IT strategy, policies, standards
 and procedures. It also plays a key role in system infrastructure &amp;
@@ -122,6 +146,3 @@ service through the Finance and Procurement Academy (FPA). It also drives
 outreach and engagement initiatives for the finance and IA community across
 the public service and oversees risk management for the Whole-of-Government
 Finance Function.</p>
-<p></p>
-<h2></h2>
-<p></p>
