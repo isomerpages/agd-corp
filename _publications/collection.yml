@@ -2,6 +2,7 @@ collections:
   publications:
     output: true
     order:
+      - Singapore Public Sector Chart of Accounts.md
       - Government Financial Statements.md
       - Overview of Singapore Government Borrowings.md
       - Prompt Payment of Invoices to Government Vendors.md
