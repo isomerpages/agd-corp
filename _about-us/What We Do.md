@@ -98,7 +98,7 @@ the government finance community in using data analytics in their work.</p>
 <p>The People &amp; Organisation Group focuses on developing people and organisational
 capabilities.</p>
 <p></p>
-<p>The Finance and Corporate Development Directorate oversees the corporate
+<p>The Finance and Corporate Services Directorate oversees the corporate
 requirements of AGD in the areas of finance, human capital management,
 corporate communication and services as well as organisational development.
 The Directorate is also responsible for the long-term planning of corporate
