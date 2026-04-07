@@ -43,6 +43,13 @@ contacts:
   - content:
       - phone: ""
       - email: ""
+      - other: Helpdesk@ne will be undergoing scheduled upgrade from Friday, 17 April
+          2026, 6:00 PM to Monday, 20 April 2026, 8:00 AM to serve you better.
+          We apologise for any inconvenience caused. Thank you.
+    title: Broadcast Notice
+  - content:
+      - phone: ""
+      - email: ""
       - other: If you encounter difficulties when processing your transactions or have
           any questions, please send us your queries via the following links. We
           will respond to your query by the next working day.<br>
