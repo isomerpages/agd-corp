@@ -72,10 +72,7 @@ contacts:
       - phone: ""
       - email: ""
       - other: <a
-          href="https://app.helpdesk.agd.gov.sg/public_user/common/registerticket.aspx?areaparm=Fi@Gov%20System&subjectparm=Security%20Access">FI@Gov
-          Helpdesk</a>                                                                                  &
-          <a
-          href="https://app.helpdesk.agd.gov.sg/public_user/common/registerTicket.aspx?AreaParm=Financial%20System&SubjectParm=Accounts%20Payable">NFS@Gov
+          href="https://helpdesk.agd.gov.sg/esc?id=sc_cat_item&sys_id=cb23701249f97a1007e360fab77c597f&service=NFSGOV&type=3">NFS@Gov
           Helpdesk</a>
     title: For Civil Servants
   - content:
