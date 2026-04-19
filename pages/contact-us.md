@@ -43,6 +43,13 @@ contacts:
   - content:
       - phone: ""
       - email: ""
+      - other: Helpdesk@ne will be undergoing scheduled upgrade from Friday, 17 April
+          2026, 6:00 PM to Monday, 20 April 2026, 8:00 AM to serve you better.
+          We apologise for any inconvenience caused. Thank you.
+    title: Broadcast Notice
+  - content:
+      - phone: ""
+      - email: ""
       - other: If you encounter difficulties when processing your transactions or have
           any questions, please send us your queries via the following links. We
           will respond to your query by the next working day.<br>
@@ -65,12 +72,9 @@ contacts:
       - phone: ""
       - email: ""
       - other: <a
-          href="https://app.helpdesk.agd.gov.sg/public_user/common/registerticket.aspx?areaparm=Fi@Gov%20System&subjectparm=Security%20Access">FI@Gov
-          Helpdesk</a>                                                                                  &
-          <a
-          href="https://app.helpdesk.agd.gov.sg/public_user/common/registerTicket.aspx?AreaParm=Financial%20System&SubjectParm=Accounts%20Payable">NFS@Gov
+          href="https://helpdesk.agd.gov.sg/esc?id=sc_cat_item&sys_id=cb23701249f97a1007e360fab77c597f&service=NFSGOV&type=3">NFS@Gov
           Helpdesk</a>
-    title: For Civil Servants
+    title: For WOG Officers
   - content:
       - phone: ""
       - email: ""
