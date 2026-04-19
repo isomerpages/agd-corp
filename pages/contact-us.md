@@ -74,7 +74,7 @@ contacts:
       - other: <a
           href="https://helpdesk.agd.gov.sg/esc?id=sc_cat_item&sys_id=cb23701249f97a1007e360fab77c597f&service=NFSGOV&type=3">NFS@Gov
           Helpdesk</a>
-    title: For Civil Servants
+    title: For WOG Officers
   - content:
       - phone: ""
       - email: ""
