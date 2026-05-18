@@ -8,7 +8,10 @@ notification: Government officials will NEVER ask you to transfer money or
   disclose bank log-in details over a phone call. Call the 24/7 ScamShield
   Helpline at 1799 if you are unsure if something is a scam. For more
   information on how to protect yourself against scams, please visit
-  www.scamshield.gov.sg
+  www.scamshield.gov.sg. This website will be undergoing scheduled maintenance
+  on Thursday, 21 May 2026, from 8:00 PM to 12:00 AM (midnight). During this
+  period, the site may be temporarily unavailable. We apologise for any
+  inconvenience caused.
 sections:
   - hero:
       background: /images/HeroBanner.png
