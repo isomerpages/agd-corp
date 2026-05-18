@@ -31,6 +31,13 @@ contacts:
     title: Feedback on Service Quality
   - content:
       - phone: ""
+      - email: ""
+      - other: <br>Please refer to the "Contact Us" tiles with details of the contact
+          channels available on the user homepage after login to HRP.  You may
+          also approach your Agency Digital Ambassador/MSAs for their support.
+    title: For HRP-related Enquiries
+  - content:
+      - phone: ""
       - email: AGD_QSM@agd.gov.sg
       - other: ""
     title: Email
@@ -47,6 +54,14 @@ contacts:
           any questions, please send us your queries via the following links. We
           will respond to your query by the next working day.<br>
     title: Enquiries
+  - content:
+      - phone: ""
+      - email: ""
+      - other: AGD Helpdesk@newill be migrating to the new AskAGD portal for public
+          users undergoing scheduled upgrade from Friday, 29  May 2026, 6:00 PM
+          to Tuesday, 2 Jun 2026, 8:00 AM to serve you better. We apologisefor
+          any inconvenience caused. Thank you.
+    title: Broadcast Message
   - content:
       - phone: ""
       - email: ""
@@ -75,12 +90,5 @@ contacts:
           href="https://app.helpdesk.agd.gov.sg/public_user/common/Helpdesk.aspx?pA9nv4Z9wAr6m/BRMnubHr3TODM8xI3kDsouxueW84xUA94SMeBKi6rXQVCdaB4Y">MBS@Gov
           Helpdesk</a>
     title: For MBS@Gov Clinic
-  - content:
-      - phone: ""
-      - email: ""
-      - other: <br>Please refer to the "Contact Us" tiles with details of the contact
-          channels available on the user homepage after login to HRP.  You may
-          also approach your Agency Digital Ambassador/MSAs for their support.
-    title: For HRP-related Enquiries
 feedback: ""
 ---
